@@ -1,0 +1,50 @@
+name: JanAushadhi Data Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Sunday midnight
+  workflow_dispatch: # Allows manual triggering of the workflow from the GitHub Actions tab
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip' # Speeds up subsequent runs
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper and DB Builder
+        id: scraper
+        env:
+          JANAUSHADHI_TOKEN: ${{ secrets.JANAUSHADHI_TOKEN }}
+        run: |
+          # We use python -u for unbuffered output to see logs in real-time
+          python -u kendra_processor.py > output.txt
+          cat output.txt
+          echo "COUNT=$(grep RESULT_COUNT output.txt | cut -d'=' -f2)" >> $GITHUB_ENV
+          echo "DURATION=$(grep RESULT_DURATION output.txt | cut -d'=' -f2)" >> $GITHUB_ENV
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add janaushadhi_data.csv kendra.db
+          git commit -m "Weekly Data Update: ${{ env.COUNT }} Kendras found" || echo "No changes to commit"
+          git push
+
+      - name: Send Telegram Notification
+        if: always()
+        run: |
+          STATUS="${{ job.status }}"
+          # URL-encode the message for the curl request
+          MSG="📊 *JanAushadhi Sync Summary* %0A%0A✅ Status: $STATUS %0A🏪 Records: ${{ env.COUNT }} %0A⏱ Time: ${{ env.DURATION }} %0A📅 Date: $(date +'%Y-%m-%d')"
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+            -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}&text=$MSG&parse_mode=Markdown"
