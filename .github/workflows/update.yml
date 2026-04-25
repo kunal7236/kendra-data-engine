@@ -21,30 +21,29 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
 
-      - name: Run Scraper and DB Builder
-        id: scraper
+      - name: Run Processors
         env:
           JANAUSHADHI_TOKEN: ${{ secrets.JANAUSHADHI_TOKEN }}
         run: |
-          # We use python -u for unbuffered output to see logs in real-time
-          python -u kendra_processor.py > output.txt
-          cat output.txt
-          echo "COUNT=$(grep RESULT_COUNT output.txt | cut -d'=' -f2)" >> $GITHUB_ENV
-          echo "DURATION=$(grep RESULT_DURATION output.txt | cut -d'=' -f2)" >> $GITHUB_ENV
+          # Run Kendra Processor
+          python kendra_processor.py > kendra_out.txt
+          echo "K_COUNT=$(grep RESULT_COUNT kendra_out.txt | cut -d'=' -f2)" >> $GITHUB_ENV
+          
+          # Run Product Processor
+          python product_processor.py > product_out.txt
+          echo "P_COUNT=$(grep RESULT_COUNT product_out.txt | cut -d'=' -f2)" >> $GITHUB_ENV
 
-      - name: Commit and Push Updated Data
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add data/janaushadhi_data.csv data/kendra.db
-          git commit -m "Weekly Data Update: ${{ env.COUNT }} Kendras found" || echo "No changes to commit"
+          git add data/
+          git commit -m "Weekly Sync: ${{ env.K_COUNT }} Kendras, ${{ env.P_COUNT }} Products" || echo "No changes"
           git push
 
-      - name: Send Telegram Notification
+      - name: Telegram Notification
         if: always()
         run: |
-          STATUS="${{ job.status }}"
-          # URL-encode the message for the curl request
-          MSG="📊 *JanAushadhi Sync Summary* %0A%0A✅ Status: $STATUS %0A🏪 Records: ${{ env.COUNT }} %0A⏱ Time: ${{ env.DURATION }} %0A📅 Date: $(date +'%Y-%m-%d')"
+          MSG="📊 *JanAushadhi Sync Complete* %0A%0A🏪 Kendras: ${{ env.K_COUNT }} %0A💊 Products: ${{ env.P_COUNT }} %0A📅 Date: $(date +'%Y-%m-%d')"
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
             -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}&text=$MSG&parse_mode=Markdown"
