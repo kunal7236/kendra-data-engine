@@ -13,7 +13,6 @@ CSV_FILE = "data/product_data.csv"
 DB_FILE = "data/products.db"
 
 def main():
-    os.makedirs("data", exist_ok=True)
     start_time = time.time()
     try:
         print("🚀 Fetching Product Portfolio...")
@@ -22,8 +21,14 @@ def main():
             "Authorization": f"Bearer {TOKEN}",
             "Content-Type": "application/json"
         }
-        # The product API payload structure is similar
-        payload = {"pageIndex": 0, "pageSize": 1000000, "category": 0, "group": 0}
+        
+        payload = {
+            "pageIndex": 0,
+            "pageSize": 1000000,
+            "searchText": "",
+            "orderBy": "asc",
+            "columnName": "drug_code"
+        }
         
         response = requests.post(API_URL, headers=headers, json=payload)
         response.raise_for_status()
@@ -32,16 +37,33 @@ def main():
         print("📄 Parsing Product PDF...")
         extracted_data = []
         with pdfplumber.open(pdf_file) as pdf:
+            total_pages = len(pdf.pages)
             for i, page in enumerate(pdf.pages):
-                table = page.extract_table(table_settings={"vertical_strategy": "lines", "horizontal_strategy": "lines"})
-                if not table: table = page.extract_table()
+                # Using the successful 'lines' strategy
+                table = page.extract_table(table_settings={
+                    "vertical_strategy": "lines", 
+                    "horizontal_strategy": "lines"
+                })
+                
+                # Fallback to default if line detection is patchy on certain pages
+                if not table:
+                    table = page.extract_table()
+
                 if table:
                     for row in table:
-                        # Based on image: 5 columns. Sr.No must be digit.
-                        if row and len(row) >= 5 and str(row[0]).strip().isdigit():
-                            clean_row = [str(col).strip().replace('\n', ' ') if col else "" for col in row[:5]]
-                            extracted_data.append(clean_row)
-                if i % 100 == 0: page.flush_cache()
+                        # Validation: Sr.No, Drug Code, Generic Name, Unit Size, MRP (5 columns)
+                        # Ensure Sr.No is a digit to skip headers/extra text
+                        if row and len(row) >= 5:
+                            sr_no = str(row[0]).strip()
+                            if sr_no.isdigit():
+                                # Clean row and limit to first 5 columns
+                                clean_row = [str(col).strip().replace('\n', ' ') if col else "" for col in row[:5]]
+                                extracted_data.append(clean_row)
+                
+                # Memory management for large PDFs
+                if i % 100 == 0:
+                    print(f"   Processed {i}/{total_pages} pages...")
+                    page.flush_cache()
 
         # Save to CSV
         headers_csv = ["Sr.No", "Drug_Code", "Generic_Name", "Unit_Size", "MRP"]
@@ -81,6 +103,7 @@ def main():
 
 if __name__ == "__main__":
     success, count, duration = main()
+    # Output for GitHub Actions to pick up
     print(f"RESULT_SUCCESS={success}")
     print(f"RESULT_COUNT={count}")
     print(f"RESULT_DURATION={duration}s")
