@@ -22,8 +22,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Processors
-        env:
-          JANAUSHADHI_TOKEN: ${{ secrets.JANAUSHADHI_TOKEN }}
         run: |
           # Run Kendra Processor
           python kendra_processor.py > kendra_out.txt
