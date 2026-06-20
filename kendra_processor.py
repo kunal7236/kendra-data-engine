@@ -6,9 +6,9 @@ import sqlite3
 import os
 import time
 import re
+from token_manager import fetch_janaushadhi_token
 
 # --- CONFIG ---
-TOKEN = os.getenv("JANAUSHADHI_TOKEN") # Securely loaded from GitHub Secrets
 API_URL = "https://janaushadhi.gov.in:8443/api/v1/admin/pdf/KendraPdfDownload"
 CSV_FILE = "data/janaushadhi_data.csv"
 DB_FILE = "data/kendra.db"
@@ -17,9 +17,10 @@ def main():
     start_time = time.time()
     try:
         print("🚀 Fetching data...")
+        token = fetch_janaushadhi_token()
         headers = {
             "User-Agent": "Mozilla/5.0",
-            "Authorization": f"Bearer {TOKEN}",
+            "Authorization": f"Bearer {token}",
             "Content-Type": "application/json"
         }
         payload = {"pageIndex": 0, "pageSize": 1000000, "stateId": 0, "districtId": 0, "pinCode": 0, "storeCode": ""}

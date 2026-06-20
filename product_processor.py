@@ -5,9 +5,9 @@ import io
 import sqlite3
 import os
 import time
+from token_manager import fetch_janaushadhi_token
 
 # --- CONFIG ---
-TOKEN = os.getenv("JANAUSHADHI_TOKEN")
 API_URL = "https://janaushadhi.gov.in:8443/api/v1/admin/pdf/productPdfDownload"
 CSV_FILE = "data/product_data.csv"
 DB_FILE = "data/products.db"
@@ -16,9 +16,10 @@ def main():
     start_time = time.time()
     try:
         print("🚀 Fetching Product Portfolio...")
+        token = fetch_janaushadhi_token()
         headers = {
             "User-Agent": "Mozilla/5.0",
-            "Authorization": f"Bearer {TOKEN}",
+            "Authorization": f"Bearer {token}",
             "Content-Type": "application/json"
         }
         
