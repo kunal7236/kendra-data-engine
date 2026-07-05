@@ -1,81 +1,122 @@
 import requests
-import pdfplumber
-import csv
-import io
 import sqlite3
 import os
 import time
-import re
-from token_manager import fetch_janaushadhi_token
+from token_manager import fetch_janaushadhi_token #[cite: 1]
 
 # --- CONFIG ---
-API_URL = "https://janaushadhi.gov.in:8443/api/v1/admin/pdf/KendraPdfDownload"
-CSV_FILE = "data/janaushadhi_data.csv"
-DB_FILE = "data/kendra.db"
+API_URL = "https://janaushadhi.gov.in:8443/api/v1/admin/addKendra/getAllKendraByStateDistrict"
+DB_FILE = "data/kendra.db" #[cite: 1]
+
+def safe_float(val):
+    """Safely convert coordinate strings to floats, handling nulls."""
+    if val in (None, "", "null"):
+        return None
+    try:
+        return float(val)
+    except ValueError:
+        return None
 
 def main():
-    start_time = time.time()
+    start_time = time.time() #[cite: 1]
     try:
-        print("🚀 Fetching data...")
-        token = fetch_janaushadhi_token()
+        print("🚀 Fetching Kendra data via JSON API...")
+        token = fetch_janaushadhi_token() #[cite: 1]
+        
         headers = {
             "User-Agent": "Mozilla/5.0",
             "Authorization": f"Bearer {token}",
-            "Content-Type": "application/json"
+            "Content-Type": "application/json",
+            "Accept": "application/json, text/plain, */*",
+            "Origin": "https://janaushadhi.gov.in",
+            "Referer": "https://janaushadhi.gov.in/locate-kendra"
         }
-        payload = {"pageIndex": 0, "pageSize": 1000000, "stateId": 0, "districtId": 0, "pinCode": 0, "storeCode": ""}
+        
+        payload = {
+            "pageIndex": 0, 
+            "pageSize": 25000, 
+            "stateId": 0, 
+            "districtId": 0, 
+            "pinCode": 0, 
+            "storeCode": ""
+        }
         
         response = requests.post(API_URL, headers=headers, json=payload)
-        response.raise_for_status()
-        pdf_file = io.BytesIO(response.content)
+        response.raise_for_status() #[cite: 1]
+        json_data = response.json()
 
-        # 1. SCRAPE TO CSV
-        print("📄 Parsing PDF...")
+        kendra_list = json_data.get("responseBody", {}).get("addKendraResponseList", [])
+        
+        if not kendra_list:
+            print("⚠️ No data found in the response.")
+            return False, 0, 0
+
+        print(f"📄 Parsing {len(kendra_list)} records...")
+        
         extracted_data = []
-        with pdfplumber.open(pdf_file) as pdf:
-            for i, page in enumerate(pdf.pages):
-                table = page.extract_table(table_settings={"vertical_strategy": "lines", "horizontal_strategy": "lines"})
-                if not table: table = page.extract_table()
-                if table:
-                    for row in table:
-                        if row and len(row) >= 7 and str(row[0]).strip().isdigit():
-                            clean_row = [str(col).strip().replace('\n', ' ') if col else "" for col in row[:7]]
-                            extracted_data.append(clean_row)
-                if i % 100 == 0: page.flush_cache()
+        for k in kendra_list:
+            extracted_data.append((
+                k.get("storeCode"),
+                k.get("contactPerson"),
+                str(k.get("contactNumber")) if k.get("contactNumber") else None,
+                k.get("stateName"),
+                k.get("districtName"),
+                str(k.get("pinCode")) if k.get("pinCode") else None,
+                k.get("kendraAddress"),
+                safe_float(k.get("latitude")),
+                safe_float(k.get("longitude"))
+            ))
 
-        # Save to CSV
-        headers_csv = ["Sr.No", "Kendra Code", "Name", "State", "District", "Pin", "Address"]
-        with open(CSV_FILE, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(headers_csv)
-            writer.writerows(extracted_data)
+        # Ensure the data directory exists
+        os.makedirs(os.path.dirname(DB_FILE), exist_ok=True)
 
         # 2. BUILD SQLITE DB
-        print("📦 Building DB...")
-        conn = sqlite3.connect(DB_FILE)
-        cursor = conn.cursor()
-        cursor.execute("DROP TABLE IF EXISTS kendras")
+        print("📦 Building SQLite DB...")
+        conn = sqlite3.connect(DB_FILE) #[cite: 1]
+        cursor = conn.cursor() #[cite: 1]
+        
+        cursor.execute("DROP TABLE IF EXISTS kendras") #[cite: 1]
+        
+        # Create flat table schema
         cursor.execute("""
             CREATE TABLE kendras (
-                sr_no INTEGER, kendra_code TEXT PRIMARY KEY, name TEXT,
-                state_name TEXT, district_name TEXT, pin_code TEXT, address TEXT
+                kendra_code TEXT PRIMARY KEY,
+                contact_person TEXT,
+                contact_number TEXT,
+                state_name TEXT,
+                district_name TEXT,
+                pin_code TEXT,
+                address TEXT,
+                latitude REAL,
+                longitude REAL
             )
         """)
-        cursor.executemany("INSERT INTO kendras VALUES (?,?,?,?,?,?,?)", extracted_data)
-        cursor.execute("CREATE INDEX idx_pincode ON kendras(pin_code)")
-        conn.commit()
-        conn.close()
+        
+        # Insert all records
+        cursor.executemany(
+            "INSERT OR REPLACE INTO kendras VALUES (?,?,?,?,?,?,?,?,?)", 
+            extracted_data
+        )
+        
+        # Create Indexes for API performance
+        print("⚡ Generating search indexes...")
+        cursor.execute("CREATE INDEX idx_pincode ON kendras(pin_code)") #[cite: 1]
+        cursor.execute("CREATE INDEX idx_state_district ON kendras(state_name, district_name)")
+        
+        conn.commit() #[cite: 1]
+        conn.close() #[cite: 1]
 
-        duration = round(time.time() - start_time, 2)
+        duration = round(time.time() - start_time, 2) #[cite: 1]
+        print(f"✅ Successfully processed {len(extracted_data)} records in {duration}s.")
         return True, len(extracted_data), duration
 
     except Exception as e:
-        print(f"❌ Error: {e}")
-        return False, 0, 0
+        print(f"❌ Error: {e}") #[cite: 1]
+        return False, 0, 0 #[cite: 1]
 
 if __name__ == "__main__":
-    success, count, duration = main()
+    success, count, duration = main() #[cite: 1]
     # Output for GitHub Actions to pick up
-    print(f"RESULT_SUCCESS={success}")
-    print(f"RESULT_COUNT={count}")
-    print(f"RESULT_DURATION={duration}s")
+    print(f"RESULT_SUCCESS={success}") #[cite: 1]
+    print(f"RESULT_COUNT={count}") #[cite: 1]
+    print(f"RESULT_DURATION={duration}s") #[cite: 1]
