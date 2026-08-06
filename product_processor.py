@@ -1,14 +1,11 @@
 import requests
-import pdfplumber
 import csv
-import io
 import sqlite3
-import os
 import time
 from token_manager import fetch_janaushadhi_token
 
 # --- CONFIG ---
-API_URL = "https://janaushadhi.gov.in:8443/api/v1/admin/pdf/productPdfDownload"
+API_URL = "https://janaushadhi.gov.in:8443/api/v1/website/getAllProductForWeb"
 CSV_FILE = "data/product_data.csv"
 DB_FILE = "data/products.db"
 
@@ -25,7 +22,7 @@ def main():
         
         payload = {
             "pageIndex": 0,
-            "pageSize": 1000000,
+            "pageSize":  1000000,
             "searchText": "",
             "orderBy": "asc",
             "columnName": "drug_code"
@@ -33,38 +30,28 @@ def main():
         
         response = requests.post(API_URL, headers=headers, json=payload)
         response.raise_for_status()
-        pdf_file = io.BytesIO(response.content)
+        response_data = response.json()
+        product_list = response_data.get("responseBody", {}).get("newProductResponsesList", [])
 
-        print("📄 Parsing Product PDF...")
+        print("📄 Parsing Product JSON...")
         extracted_data = []
-        with pdfplumber.open(pdf_file) as pdf:
-            total_pages = len(pdf.pages)
-            for i, page in enumerate(pdf.pages):
-                # Using the successful 'lines' strategy
-                table = page.extract_table(table_settings={
-                    "vertical_strategy": "lines", 
-                    "horizontal_strategy": "lines"
-                })
-                
-                # Fallback to default if line detection is patchy on certain pages
-                if not table:
-                    table = page.extract_table()
+        for item in product_list:
+            sr_no = item.get("serialNo") or item.get("productId")
+            drug_code = item.get("drugCode", "")
+            generic_name = item.get("genericName", "")
+            unit_size = item.get("unitSize", "")
+            mrp = item.get("mrp", 0)
 
-                if table:
-                    for row in table:
-                        # Validation: Sr.No, Drug Code, Generic Name, Unit Size, MRP (5 columns)
-                        # Ensure Sr.No is a digit to skip headers/extra text
-                        if row and len(row) >= 5:
-                            sr_no = str(row[0]).strip()
-                            if sr_no.isdigit():
-                                # Clean row and limit to first 5 columns
-                                clean_row = [str(col).strip().replace('\n', ' ') if col else "" for col in row[:5]]
-                                extracted_data.append(clean_row)
-                
-                # Memory management for large PDFs
-                if i % 100 == 0:
-                    print(f"   Processed {i}/{total_pages} pages...")
-                    page.flush_cache()
+            if sr_no is None or drug_code == "":
+                continue
+
+            extracted_data.append([
+                int(sr_no),
+                str(drug_code),
+                str(generic_name).strip(),
+                str(unit_size).strip(),
+                mrp,
+            ])
 
         # Save to CSV
         headers_csv = ["Sr.No", "Drug_Code", "Generic_Name", "Unit_Size", "MRP"]
