@@ -2088,7 +2088,7 @@ PMBJK03887,Mrs. Mymoona C,8891431161,Kerala,Malappuram,673641,"XI/1247G, K K Tow
 PMBJK03888,Babita Singh,8851821452,Uttar Pradesh,Gautam Buddha Nagar,201310,"Shop No. 1, Plot No.A 01, K.P. near Kailash Hospital, Greater Noida",28.47312991,77.50429737
 PMBJK03897,Rushikesh Madhukar Ghule,9637677801,Maharashtra,Parbhani,431509,"Shop no 11 House no 2500/1 Yeldari road , Jintur Parbhani Maharashtra.",19.61326698,76.68462075
 PMBJK03898,Mrs. Dhanya .Tp,9605818405,Kerala,Kollam,691560,"X/685, Kalayapuram, Kottarakara, Kollam, Kerala-",9.0551247,76.76956411
-PMBJK03900,Rajendra Kumar Singh,9935447488,Uttar Pradesh,Jhansi,284001,"Jai Medical Complex Behind Kamla Hospital Gate No. 1, Opp. Medical College Jhansi.",25.45816335,78.61523912
+PMBJK03900,Rajendra Kumar Singh,9935447488,Uttar Pradesh,Jhansi,284002,"141, Inside Saiyar Gate",25.45816335,78.61523912
 PMBJK03901,Santosh Kumar,9934236096,Bihar,Buxar,802119,"Near Block Office Station Road Dumraon, Po/Ps- Dumraon",25.56443663,84.14218895
 PMBJK03902,Nilesh Navnath Zankar,9765506729,Maharashtra,Nashik,422103,"Shop no 1, ground floor near fule putala sinnar nashik",19.84329373,73.99407143
 PMBJK03903,Mr. Ganesh Kumar Karna,7606886353,Odisha,Sonepur,767018,"Plot no. 172/395/406, Khata no. 128/109, At meher complex, In front of court, Store no. 2, Ranapalli",20.86735436,84.04715456
@@ -4927,7 +4927,7 @@ PMBJK07723,Punita Makhijani,9990567111,Delhi,East,110091,East Delhi Municipal Co
 PMBJK07724,Vaibhav Tayal,9899919063,Delhi,North West,110034,"Shop no. 7, Ground Floor, Plot no. 3, Shatabdi House Shoping Complex, Rohit Kunj, Pitampura",28.69169351,77.1405432
 PMBJK07725,Sarita Aggarwal,9971186804,Uttar Pradesh,Ghaziabad,201014,"Shop no. UG 1 and2, Cloud 9 Towers Sector 1, Vaishali, Indirapuram",28.64120775,77.33488327
 PMBJK07726,Murali K P,9447672144,Kerala,Malappuram,679338,",Shop No:1/55-H, Perinthalmanna Rd. Onappuda,Kolathur (Po)",10.95676557,76.17635623
-PMBJK07727,Ambili Hareesh,9207287457,Kerala,Thrissur,680604,"Xv/497,Shebin Shopping Complex, Pannithadam,",10.66703596,76.1076417
+PMBJK07727,Ambili Hareesh,9207287457,Kerala,Thrissur,680604,"Door No.18/243/A8, Shopeezy Super market building, Wadakkanchery-Kunnamkulam Road,Pannithadam",10.66703596,76.1076417
 PMBJK07728,Arun A G,9746892886,Kerala,Wayanad,673593,"V/804C,804D, Oottumadathil, Near Marina Hospital, Ambalavayal,Sulthan Bathery",11.61891272,76.21176545
 PMBJK07729,Jaseela . M.V,9567161306,Kerala,Palakkad,679532,"5/486F, Opposit Vismaya Wedding Centre , Arangottukara , Thirumittacode Panchayath",10.76005067,76.20113033
 PMBJK07730,Neenu Elsa Ninan,9961551497,Kerala,Kollam,691557,"Koippallil Building,Shop No:2/720,Chengamanadu P.O",9.011186296,76.82051602
@@ -5746,7 +5746,6 @@ PMBJK08675,Anjali Rana,7240920685,Madhya Pradesh,Dewas,455001,"Plot No. 103, Mis
 PMBJK08677,Gopu Ramana Reddy,9391052587,Telangana,Hyderabad,500003,"ECHS Poly Clinic, Golden Palm Sainik Bhavan, Near Monda Market",17.432634,78.49591202
 PMBJK08678,Amrita Barsha,8379951236,Odisha,Cuttack,754022,"Plot No. 371, KhataNo. 783/401,Mouza -Nakhara, GF, Shop No. 2, AT Salagaon",20.56594834,85.94952877
 PMBJK08679,Deepa Haldar,8449399675,Uttarakhand,Udam Singh Nagar,263151,"Shakti Farm Shastri Ward No. 2, Shaktifarm Market",29.0075382,79.65225942
-PMBJK08680,Renu Devi,8750928701,Delhi,North West,110035,"Shop No. 1, Plot No. 58(MPL No. 3769), GF, KH. No. 99, Street No. 3, Kanhaiya Nagar, Tri Nagar",28.68139111,77.16490488
 PMBJK08681,Adnan Khan,8765114988,Uttar Pradesh,Kheri,262804,"Powaya Road, Shuklapur",27.96093534,80.21356642
 PMBJK08682,Sindhu Kp,9961599702,Kerala,Malappuram,679328,"4/439D, Cherukode, Chathangottupuram Post",11.16006079,76.23004739
 PMBJK08683,Rajeev Kumar Pandey,7260816693,Bihar,Patna,800013,"Shop No. 03, Plot No. 260, Patliputra Colony",25.62930755,85.11469257
@@ -20635,3 +20634,75 @@ PMBJK23820,Sudip Santra,9883734113,West Bengal,Hooghly,712614,"Dag No-2982, Kh N
 PMBJK23821,Ratan Lal Gupta,9602041500,Rajasthan,Jodhpur,342001,"Emergency Block, M.G. Hospital Campus, Jalori Gate",26.2834885746107,73.0186749811148
 PMBJK23822,Md. Faisal Bin Abdul Aziz,7549334477,Bihar,Bhagalpur,812004,"At 98, Champanala Pull Champanagar",25.23943,86.92888
 PMBJK23823,Mahima Dubey,8181978186,Uttar Pradesh,Prayagraj,211002,"Ground Floor, 715/605, Colonelganj PS Colonelganj Tehsil Sadar",25.46335,81.85433
+PMBJK23824,pmbjk run by patel mayurkumar sureshbhai,9714865408,Gujarat,Anand,388001,"Anand Railway Station, Circulating Area, Near , Pedestrian Overpass, Sardargunj, Anand",22.51921,72.95483
+PMBJK23825,Manju Bala,9728486888,Rajasthan,Ganganagar,335001,"Shop No: 1, Purani Sabji Mandi, Birbal Chowk, Sri Ganganagar (RAJ)",29.9126,73.87576
+PMBJK23826,Tilava Dhavalkumar Dineshbhai,9979036092,Gujarat,Ahmedabad,382345,"Shop No.09, Survey No.- 00081/1/5/8, under Balkrishna School, Near Ambar Cinema, Saraspur, Ahmedabad",23.03445133,72.62231622
+PMBJK23827,Sandanshiv Kunal,8866599224,Gujarat,Surat,394210,"Shop No. 48, Ground Floor, Siddhi Vinayak Platinum, VIP Road, Near Lathan Bridge, Bamroli, Surat",21.14851279,72.81683303
+PMBJK23828,Gita Banerjee,9830286446,West Bengal,Kolkata,700029,"40, Mahanirban Road, Ward No.-85, Ground Floor, Sarat Bose Road, Gariahat",22.51924164,88.3604301
+PMBJK23829,Soumya Gopal,8921519170,Kerala,Thrissur,680541,"6/580, Sreyas building, Mundur PO, District-Thrissur",10.59192323,76.15487073
+PMBJK23830,Jyoti Yadav,9109719724,Chhattisgarh,Rajnandgaon,491441,Kh No-694/1 Ph No-00027 Makan No 216 Ward No 16 Vill- Sukuldaihan The,21.14690541,80.95511848
+PMBJK23831,Prabhu P,9380191552,Karnataka,Bengaluru Urban,560043,"No. 594, shop no.1, 4th Cross Gd. Flr. 5th Block 1st Stage, HBR Layout, Bangalore",13.02644,77.62433
+PMBJK23832,Sushma Rani M,8884871199,Karnataka,Bengaluru Urban,560091,"No. 16/8, Ground Floor, Hegganahalli Main Road, Srigandha Nagar, Sunkadakatte, Bengaluru",13.00167,77.50459
+PMBJK23833,Emamul Husein,8655170616,Maharashtra,Thane,400612,"(Unit Of Janhit Generic Medical) Shop No.6, Ground Floor, PTR No.2122091721021, Khan Manzil",19.17883,73.04411
+PMBJK23834,Bhanu Priya Mahajan,6005884589,Jammu And Kashmir,Kathua,184144,"Border Road, Chadwal Morh, Hiranagar, Hiranagar",32.53079,75.18239
+PMBJK23835,Tusi Peto,7044258588,West Bengal,North 24 Parganas,743125,"Golghar Shopping Mall, Mulazore Road, Ward No-15, 1ST Floor, Jagatdal, Bhatpara Municipality",22.86138,88.38315
+PMBJK23836,Santwana Mondal,9593572448,West Bengal,Hooghly,712401,"Dag No-966 Kh No-1879, JL No-123, Ground Floor Para-Chhatrashal, Ghole Khanakul  PS Vill+ Mouza-Chha",22.7306860596059,87.9324213809071
+PMBJK23837,Reena Roy,9891111093,Delhi,South East,110044,"Shop no.2,GF,N-Block,Saurabh Vihar,Hari Nagar Extn,Khasra no-577,Property no. N-12,Badarpur",28.50643,77.32126
+PMBJK23838,Neha Bajaj,9958711475,Delhi,East,110092,"One Shop on Ground Floor,Near Nagniti Aprtment,Mandawali Unchepar,Property no C-17-B,Patparganj",28.6290956228119,77.3000920493499
+PMBJK23839,"Rahul Arora,Abhishek Kumar Sharma,Rajesh Kumar",9318467003,Haryana,Faridabad,121001,"Plot no-5K/108,Ground Floor,In the Premises,KC Road,NIT-5,Faridabad",28.39903,77.30462
+PMBJK23840,Logeshwari,9080451175,Tamil Nadu,Thiruvallur,601204,"Door No 544/A, Shop No 2, From East, North Facing, Ground Floor, T.H. Road, Thiruvenkatapuram",13.3274084301032,80.1890059149463
+PMBJK23841,Ramzan Beevi,9840932047,Tamil Nadu,Chennai,600001,"No.11/6, Shop No.2 From East, North Facing, Ground Floor, Sultan Street, Clive Battery, VOC Nagar",13.0986489095332,80.2939629984426
+PMBJK23842,Vishal Rath,9755986629,Chhattisgarh,Bastar,494442,CHC Campus Tokapal Bastar,19.0107609233012,81.8889802322601
+PMBJK23843,Vinayak Arun Vajrinkar,8390730792,Maharashtra,Sangli,416404,"Ground Floor, Shop No 3 (Left Hand Side From M""IN"" Gate), Property No.304, Gat.No.297/1/B",17.06596,75.19154
+PMBJK23844,Rupam Kumari,9507548719,Bihar,Samastipur,848208,"0, Bhardwaj Complex, Near Middle School Manamath, Nayanagar, Hasanpur",25.7447725264235,86.0981514752672
+PMBJK23845,Manisha Kumari,7808477890,Bihar,Patna,800004,"First Floor, Shop no.- F-6 Z Complex, Muradpur, Opposite PMCH Main Gate, Ashok Rajpath",25.6194394976231,85.1592088017157
+PMBJK23846,Mahesh Kumar Ojha,9530262715,Bihar,Muzaffarpur,843113,"Boundary North- Another House- South- HO Space, East Space then Ladaua Sakri Road, West - HO Land",26.0799977829612,85.3491091782096
+PMBJK23847,Raksha Chouhan,8770072634,Madhya Pradesh,Indore,452001,"Shop No./ Plot No.- Ground Floor, Shop No. 23, Gurutek Bahadur Stadium, Khalsa College, Tehsil- Indo",22.71422,75.84064
+PMBJK23848,Rahat Bano,7289023324,Delhi,North East,110094,"One Shop on GF,Khasra no.125,Property no E-264,Village-Khajoori Khas,E-Block,Main 25 Ft. Road,",28.7087,77.25434
+PMBJK23849,Bandana Kumari Yadav,7980367405,Uttar Pradesh,Varanasi,221107,Khata No 00248 araji No 411 Basement Village Bharthara ( Near Pisaur Pull ) Post & PS Lohta Varanasi,25.3282768962471,82.9381793896688
+PMBJK23850,Rajesh Bharti,7889355941,Uttar Pradesh,Ghaziabad,201005,"Shop No-A-4/2,Plot No -25, Dwarka Apartment, Shalimar Garden Extn-1, Sahibabad,",28.6922416467174,77.3444439503978
+PMBJK23851,Shreya Tiwari,9810657073,Uttar Pradesh,Gautam Buddha Nagar,201306,"F-16 EROS Sampoornam Mart, Greater Noida West",28.5905405767897,77.4575927891233
+PMBJK23852,Shanu Sharma,8373923774,Uttar Pradesh,Gautam Buddha Nagar,201306,"Shop Number9, HDFC Bank Wali Gali Surajpur G B Nagar UP, Sadar",28.5355907290309,77.4433207455973
+PMBJK23853,Ashima Singh,6388125699,Uttar Pradesh,Prayagraj,211002,"Ground Floor, 3/2, B, Beli Road, PS Colonelganj, Prayagraj, Sadar",25.47092,81.8424
+PMBJK23854,Akshay,9458060061,Uttar Pradesh,Muzaffarnagar,251201,36 Khasra No 36/1 Shop No 2 100 MTS To Junior Govt School Near Khatauli Sugar Mill,29.29311,77.73042
+PMBJK23855,Ankit,8057070579,Uttar Pradesh,Muzaffarnagar,251314,"Block Jansath Sabarhpur URF Tehlheri, Jansath",29.32483,77.84804
+PMBJK23856,Reetu Tevatiya,6399063018,Uttar Pradesh,Bulandshahr,203392,396 Villge Ahmadgarh Post Ahmadgarh Rana Market Ke Samne Main Road Shikarpur Bulandshahr,28.2374258329654,78.1187681184885
+PMBJK23857,Sultana Parveen,8791289164,Uttar Pradesh,Ghaziabad,201016,"UGF 10, Crossing Repulic, Tehsil Ghaziabad",28.6279,77.43505
+PMBJK23858,Chandramurali,9900365405,Karnataka,Chikkaballapura,563125,"Old ASSY No 348/3 New ASSY No 6426/5988, GF, Venkatagiri Kote Chikkaballapur Dist, Chintamani",13.40267,78.05165
+PMBJK23859,Khushbu Kumari,9970097948,Jharkhand,Dhanbad,826004,"Plot No.1214, 2nd Floor, Susnilewa, Memco More, Opposite Nalanda Cottage, Barwada P.O- Nagnagar, P.S",23.83309683868,86.4324398506905
+PMBJK23860,Patel Nitaben Mukeshkumar,9727471545,Gujarat,Ahmedabad,380024,"A-1, Yogeshwarkrupa Apartment, Near R. Tax Compound, Tolnaka, Bapunagar, Area: Bapunagar (Ahmedabad",23.06494,72.58435
+PMBJK23861,Maya Khati,9678543535,Assam,Dibrugarh,786003,"Banipur Tiniali, Bongal Gaon, Dibrugarh",27.46105,94.96231
+PMBJK23862,Krishnendu Mandal,7908450694,West Bengal,South 24 Parganas,743504,"Dag-18, Khatian No-501, Mouza- Mallikpur, JL No-46, Ground Floor, Mallickpur, Rajarampur, Falta,",22.3283603172787,88.1253914494819
+PMBJK23863,Ravina Chouhan,9929726680,Rajasthan,Beawar,305901,"0, Ashapura Mata Mandir, Part of Kh No. 1664, Nayapura, Beawar",26.0885756994723,74.3125550124961
+PMBJK23864,Alpna Arora,8619820665,Rajasthan,Khairthal-Tijara,301405,"Vashishth Market, Kishangarhbas, Teh- Kishangarhbas, Kishangarhbas, Khairthal- Tijara",27.8201973970385,76.7319017588699
+PMBJK23865,Suparna Paul,9062928186,West Bengal,Howrah,711101,"27/1/1 Chatterjee Para Line, Ground Floor, Ward No.- 22, Kadamtala, Bantra",22.5981989602777,88.320995665092
+PMBJK23866,N A Gayathri,8187829900,Andhra Pradesh,Sri Sathya Sai,515341,"Room No.3B, Grampanchayat Building, Near RTC Bus  Stand Chilamathur",13.8394,77.70531
+PMBJK23867,Rani Shukla,9839057984,Uttar Pradesh,Gorakhpur,273201,"Khasra No-842/2, H No-101K, Gaunar Usaraha, PO Gaonar, PS Chaura",26.73974,83.43266
+PMBJK23868,Suchitra Pathria,8172898304,Uttar Pradesh,Lucknow,226031,Ground floor H NO-8/451-C Sector-8 Jankipuram Vistar Yojna,26.94226,80.93338
+PMBJK23869,Sushma Tripathi,9651062555,Uttar Pradesh,Lucknow,226024,"Ground Floor H No-LIG-079-CC Moh-Sheikhupura Colony Aliganj,",26.89978,80.93843
+PMBJK23870,Seema Rani,7742195397,Haryana,Jhajjar,124103,"jahazgarh,Beri Road,Village-Jahazgarh,Tehsil-Beri",28.68147,76.56933
+PMBJK23871,Poonam,9053600906,,,125001,"Near Multan Colony Chowk,Jind Road,Hansi",29.10256,75.97481
+PMBJK23872,Meenadom Service Co-Operative Bank Ltd No.K401,9400955539,Kerala,Kottayam,686516,"12/392, Meenadom P O. Kottayam",9.550264937,76.60907993
+PMBJK23873,Presanna Kumari G,9496673043,Kerala,Alappuzha,689511,"6/190/A, Near L P School Thonnakkadu, Post Puliyoor, Chengannur",9.30701,76.5883
+PMBJK23874,Jyoti Kumari,8789523442,Jharkhand,Bokaro,827013,"Kura More, Purliya Road, PO- Kura, PS- Pindrajora, Bokaro",23.5838739650111,86.196565712039
+PMBJK23875,Supriya Das,9064019431,West Bengal,Jalpaiguri,735210,"Holding No.- 203/694, Ghosh Para, Ward No.-11, Under Dhupguri Municipality, Ground Floor, Bairatigur",26.5839931450132,89.0150100099673
+PMBJK23876,Sytco Inc (Mr. Sanjeev Kumar Jain as Proprietor),9831992811,West Bengal,Kolkata,700026,"C.N.C.I. 37, Shyamaprosad Mukherjee Road, Kolkata, Kalighat, Bhowanipore, Kolkata",22.5253174075739,88.3466496109762
+PMBJK23877,Radhika Gupta,9828862221,Rajasthan,Jaipur,302001,"Shop No-139, Chandpole Bazar, Jaipur",26.9255341491142,75.8151058913167
+PMBJK23878,Khushbur Alom Sheikh,7002955769,Assam,Bajali,781325,"PO-Pathshala, Mouza-North Bajali, Ward No.6, Pathshala, Near Civil Hospital",26.50776061008,91.1671306136564
+PMBJK23879,Pavitra P Shivnani,7568006659,Rajasthan,Ajmer,305001,"4,C 11, Near HDFC Bank, Panchsheel Nagar",26.40153,74.65056
+PMBJK23880,Susmita Das,9864074085,Assam,Hailakandi,788151,"149, Laxmisahar, Kalibari Road, Hailakandi Town",24.6860534446131,92.5561788779349
+PMBJK23881,Sake Chandana,7893771714,Andhra Pradesh,Ananthapuramu,515001,"Door No 15-503, Surya Nagar Road, 2nd Cross, Kamala Nagar, Anathapuramu",14.6782161572273,77.6033828820941
+PMBJK23882,Yuvaraj,9791766929,Tamil Nadu,Coimbatore,641697,"No.5/311, South Face, Ground Floor, Kariyampalayam, Kovai Main Road, Kembanaickenpalayam",11.21277,77.07205
+PMBJK23883,Neha Tiwari,7235955935,Bihar,Buxar,802135,Gata No 813 Simari Bazar Block Road Near Mahaveer Mandir Bhawani Katra Po/Ps- Simari,25.5876380346996,84.127803444018
+PMBJK23884,Jagannath Santra,9641136218,West Bengal,Purba Medinipur,721641,"Plot No-1146, Kh No-204/1 (Hal), 202 (SABEK), JL No-51- Para- Hatisal- Jiakhali",22.4419757396098,87.752193076431
+PMBJK23885,Manoj Choudhary,8003639583,Rajasthan,Jaipur,302029,"Shop No.05, Plot No. L-54, Ground Floor, JDA Colony, Govindpura, Sanganer",26.779764037708,75.8018844084816
+PMBJK23886,Anirban Mondal,9051655355,West Bengal,Kolkata,700068,"201, Jodhpur Park, 1/201, Gariahat Road, Shop No.-03, Ward No.-93, Ground Floor,",22.50578,88.36233
+PMBJK23887,Reenu,8433440933,Uttar Pradesh,Muzaffarnagar,251301,203 House No 203 Nagala Pithora Near By 200 Meters Primary School,29.5184494591995,77.4930004772032
+PMBJK23888,Sanu Tripathi,8115321670,Uttar Pradesh,Chitrakoot,210205,Gata No.91 Kalla Shivrampur,25.3480503643586,81.0222501171875
+PMBJK23889,Shavnam Jahan,9837865269,Uttar Pradesh,Rampur,244927,"Shop No 06, Nazir Pradhan Market Near by Block Saidnagar",28.8963957252195,78.9801499274785
+PMBJK23890,Deepak Krishnankutty Nair,6282273097,Kerala,Pathanamthitta,689502,"1/108A, Mannakadavu, Thumpamon, Adoor",9.22179,76.70262
+PMBJK23891,Jijo Raj,9747392854,Kerala,Ernakulam,686681,"7/202, DAS Kadayath Building, Punnekkad, Keerampara PO,",10.1071729024316,76.673961070899
+PMBJK23892,Priya S,8907446935,Kerala,Thiruvananthapuram,695564,"Door No KP12/24, Ground floor, Peroorkada-Nedumangad road, Aramkallu, paravoorkonam",8.55221519865432,76.9757198075352
+PMBJK23893,Manisha Kumari,9229574454,Bihar,Patna,800001,"H/O Chandar Kala Devi, Ground Floor, Bangali Tola, Ram Nagar Main Road",25.5956119989867,85.1385118501741
+PMBJK23894,Isha Rana,6006041709,Punjab,Pathankot,145025,"Shop No. 2, Targarh Bhoa road, P.O. Bhoa",32.2349872520934,75.5250668886536
+PMBJK23895,DBT Cooperative Society Ltd Banda( Vijay Kumar Sin,9451984873,Uttar Pradesh,Banda,210001,DBT Cooperative Society Ltd Bangali Pura,25.4798539294699,80.3401993325439
