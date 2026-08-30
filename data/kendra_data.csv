@@ -936,8 +936,8 @@ PMBJK01647,Pratik Prakashrao Kunchamwar,9960953645,Maharashtra,Yavatmal,445304,S
 PMBJK01648,Dr.Ng.Jayanta Singh,9436233594,Manipur,Bishnupur,795126,Pradhan Mantri Bhartiya Janaushadhi Kendra Bishnupur District Hospital,24.6319255,93.762065
 PMBJK01649,Dr.H.Babychand Devi,9436025511,Manipur,Bishnupur,795126,Pradhan Mantri Bhartiya Janaushadhi Kendra CHC Moirang Bishnupur,24.5840769,93.7739869
 PMBJK01650,Dr.H.Babychand Devi,9436025511,Manipur,Bishnupur,795126,Pradhan Mantri Bhartiya Janaushadhi Kendra CHCNambol Bishnupur,24.72013323,93.84166504
-PMBJK01651,Hb Kobor Anal,9612412938,Manipur,Chandel,795127,Pradhan Mantri Bhartiya Janaushadhi Kendra District Hospital Chandel,24.3030648,94.0899911
-PMBJK01652,Dr.Romyngoru,9402462787,Manipur,Chandel,795127,JAN AUSHADHI CHC CHAKPIKARONGCHANDEL,24.3030648,94.0899911
+PMBJK01651,Hb Kobor Anal,9612412938,Manipur,Chandel,795127,Pradhan Mantri Bhartiya Janaushadhi Kendra District Hospital Chandel,24.31566027093,93.9847655999999
+PMBJK01652,Dr Romyngoru,9402462787,Manipur,Chandel,795127,JAN AUSHADHI CHC CHAKPIKARONGCHANDEL,24.2043549278886,93.9017977865081
 PMBJK01653,Dr.Bikramjit Singh,7005462125,Manipur,Tengnoupal,795131,JAN AUSHADHIMS Moreh SUBDISTRICT HOSPITAL MOREH,24.2520901,94.3018663
 PMBJK01654,Dr.J.Songokham Samte,9856289252,Manipur,Churachandpur,795128,JAN AUSHADHIMS CHURACHANDPUR DISTRICT HOSPITAL,24.4391651,93.3792057
 PMBJK01657,Dr. Ajay Singh,9436061631,Manipur,Imphal East,795114,Pradhan Mantri Bhartiya Janaushadhi Kendra CHCSagolmang Imphal East,24.96106277,94.02260067
@@ -955,9 +955,9 @@ PMBJK01672,Dr. Yule,9436031789,Manipur,Senapati,795106,Pm Bharatiya Janaushadhi 
 PMBJK01673,Dr.H.Loli Mao,8416074460,Manipur,Senapati,795150,JAN AUSHADHI CHC MAO SENAPATI,25.4909784,93.9674371
 PMBJK01674,Dr.Chambo Gonmei,9436683196,Manipur,Tamenglong,795141,"District Hospital Tamenglong, Duigailong",25.0083781,93.3792057
 PMBJK01676,Dr.N.Jayantakumar Singh,8974009015,Manipur,Thoubal,795138,Jan Aushadhi CHC Haoreibi Makha LeikaiThoubal,24.6963979,93.9148866
-PMBJK01677,Dr.N.Jayantakumar Singh,8974009015,Manipur,Thoubal,795138,Jan Aushadhi CHC Heirok Thoubal,24.6257464,93.9980485
-PMBJK01678,Dr.N.Hemanta Singh,8974008358,Manipur,Thoubal,795138,JAN AUSHADHIMS THOUBAL DISTRICT HOSPITAL,24.6257464,93.9980485
-PMBJK01679,Dr.N.Jayantakumar Singh,8974009015,Manipur,Thoubal,795138,JAN AUSHADHICHC YAIRIPOK THOUBAL,24.6257464,93.9980485
+PMBJK01677,Dr N Jayantakumar Singh,8974009015,Manipur,Thoubal,795138,Jan Aushadhi CHC Heirok Thoubal,24.5793539657858,94.0800276312828
+PMBJK01678,Dr N Hemanta Singh,8974008358,Manipur,Thoubal,795138,JAN AUSHADHIMS THOUBAL DISTRICT HOSPITAL,24.6252298296171,94.0127384588955
+PMBJK01679,Dr N Jayantakumar Singh,8974009015,Manipur,Thoubal,795138,JAN AUSHADHICHC YAIRIPOK THOUBAL,24.6868574706608,94.098471382209
 PMBJK01683,Dr.Yuithingla V,9862491850,Manipur,Ukhrul,795142,JAN AUSHADHIMS DISTRICT HOSPITAL UKHRUL,25.3107555,94.479976
 PMBJK01688,Dr. David,9497384598,Mizoram,Aizawl,796007,New Market Aizawl,23.75544599,92.73015883
 PMBJK01689,Robert Lalrinawma,9862559400,Mizoram,Aizawl,796001,"B-104, Dawrpui Taxi Stand. Bara Bazar",23.73350453,92.71757092
@@ -1205,12 +1205,12 @@ PMBJK02128,Goud Gummadi Sathyanarayana,9492083438,Telangana,Nirmal,504106,"H.No.
 PMBJK02129,A Kailashnath,9346239486,Telangana,Hyderabad,500028,"Jan Aushadhi Store DNo12-2-823/A/51,Shahzore ResidencySanthoshnagar ColonyMehndipatnam",17.3941033,78.4424956
 PMBJK02137,S. Adiumulka Anusha,8500925801,Telangana,Jagitial,505327,192812 Kalanagar Near Govt Civil Hospital Metpally vill and Md Jagtial District 505327,18.8460935,78.6217893
 PMBJK02138,Myana Sharath Chandra Kumar,9849506781,Telangana,Jagitial,505425,D No 438 SY No 637 Hanumanwada Dharmapuri Village and Mandals 505425,18.9250391,79.098396
-PMBJK02139,Chiliveri Ramchander/Arshanapalli Mahendhar,9322295422,Telangana,Jagitial,505326,D No 211691 IB Road Near Godown Nandi Chowrastha Korutla Vill & Md Jagtial 505326,18.8316339,78.713608
+PMBJK02139,Chiliveri Ramchander Arshanapalli Mahendhar,9322295422,Telangana,Jagitial,505326,D No 211691 IB Road Near Godown Nandi Chowrastha Korutla Vill & Md Jagtial 505326,18.8317405225753,78.7130851094583
 PMBJK02141,Devaraj Morapu,8886831338,Telangana,Jagitial,505325,D No 211015 Main Road Metpally Village andPin code 505325,18.81225549,78.58880583
 PMBJK02144,Shaik Ramzan,9440211383,Telangana,Mulugu,506165,Eturnagaram Bhupalapally Eturnagaram506165,18.5113818,80.3213106
 PMBJK02147,Boinapally Sridhar Rao (Lions Club Of Mulugu),9398265122,Telangana,Mulugu,506345,31 Gollawada Mulugu Jayashankar,18.4234819,79.9864071
 PMBJK02149,Sampath Kumar Saraf,9985807308,Telangana,Kamareddy,503111,Jan Aushadhi Medical StoreHNO2158PeddabazarStation RoadKamareddyTelangana503111,18.32237131,78.41835733
-PMBJK02151,Amballa Manohar,9849632329,Telangana,Karimnagar,505326,Jan Aushadhi StoreBharathi Online ServicesH No 111111Pochammawada Korutla Distt Karim Nagar,18.8316339,78.713608
+PMBJK02151,Amballa Manohar,9849632329,Telangana,Karimnagar,505326,Jan Aushadhi StoreBharathi Online ServicesH No 111111Pochammawada Korutla Distt Karim Nagar,18.8286877939753,78.7126558157996
 PMBJK02152,Amirishetti Mallesham,8328418371,Telangana,Jagitial,505532,Opposite to Oriental Bank of Commerce of india Mothe bye pass Jagtital Road505532,18.79583807,79.08639963
 PMBJK02154,Ravula Bharagav,9959599683,Telangana,Rajanna Sircilla,505301,H No 25108 Sanjeevaiah Nagar Kaman Sirisilla(V) & (M)Rajanna Pin Code 505301,18.4584546,78.7362845
 PMBJK02155,Mohammad Azmath Hussain,9440579125,Telangana,Khammam,507303,584 Main Road Old Bus Stand Centre Sathupally Khammam District Telangana 507303,17.1037345,80.7879407
@@ -1227,10 +1227,10 @@ PMBJK02172,I. Savthri,9849595934,Telangana,Peddapalli,505215,D No 23 Main Shoppi
 PMBJK02179,M Sanjana Reddy,9652707776,Telangana,Ranga Reddy,500077,M49P Near Hanuman Temple Kattedan Rajendra Nagar Mandal Rangareddy_Cir2500077,17.308446663546647,78.43359052963866
 PMBJK02180,K Mallesham,9063382219,Telangana,Ranga Reddy,500005,DNO 260 Old DNo 239 JILLALAGUDA Main Road JILLALAGUDABALAPUR MANDAL Jillelguda(V),17.2766381,78.4865602
 PMBJK02181,Swapnakumar,9885215833,Telangana,Warangal,506391,D No 3351 Ground Floor Near Ambedkar Statue Main Road Parkal Pin code 506391,18.1586808,79.6389821
-PMBJK02182,Shriram Aparna,9849063058,Telangana,Hanumakonda,506002,Jan Aushadhi Store8518 Beside Navatha TransportUnder Bridge RoadNear Head Post Office,17.9750561,79.5996716
-PMBJK02184,P.Yadagiri,9550072071,Telangana,Hanumakonda,506002,CKM Hospital Old Vegetable Market Girmajipet Pin Code506002,17.9750561,79.5996716
+PMBJK02182,Shriram Aparna,9849063058,Telangana,Hanumakonda,506002,Jan Aushadhi Store8518 Beside Navatha TransportUnder Bridge RoadNear Head Post Office,17.9728888907485,79.6008153620705
+PMBJK02184,P Yadagiri,9550072071,Telangana,Hanumakonda,506002,CKM Hospital Old Vegetable Market Girmajipet Pin Code506002,17.9774247554202,79.601073228836
 PMBJK02185,Gopu Hari Nadha Reddy,9000222882,Telangana,Medchal Malkajgiri,500010,531254NR YAPRAL YAPRAL(V) ALWAL MANDL MEDCHAL DIST 500010,17.50317919,78.53679611
-PMBJK02186,Gulgulothu Prasad/Gayakoti Santhosh,8978930179,Telangana,Jangoan,506167,DNo21111 SKM Road Jangaon Pin Code 506167,17.8174159,79.1774268
+PMBJK02186,Gulgulothu Prasad Gayakoti Santhosh,8978930179,Telangana,Jangoan,506167,DNo21111 SKM Road Jangaon Pin Code 506167,17.7227768878026,79.1551562407211
 PMBJK02189,The State Co Op Mark Fed Tripu,8414036960,Tripura,Dhalai,799285,Jan Aushadhi Store Kulai District Hospital AmbassaDhalaiTripura799285,24.1925504,91.8220818
 PMBJK02190,"Tamal Singha, Manager, Kamalpur Pmcs""",8014200481,Tripura,Dhalai,799286,Bimal Singha Memorial Hospital Kamalpur Bazar HalhaliPin799286,24.0619116,91.8123324
 PMBJK02192,Pradip Kr. Acharjee,9436934274,Tripura,Khowai,799201,District Hospital Khowai 799201,24.0636669,91.6566377
@@ -1245,9 +1245,9 @@ PMBJK02200,The State Co Op Mark Fed Tripu,8787384927,Tripura,South Tripura,79915
 PMBJK02201,Dilip Sarkar,9612645219,Tripura,South Tripura,799144,Santirbazar District Hospital South Tripura PIN799144,23.349821,91.6566377
 PMBJK02202,Saikat Das,9831800719,Tripura,South Tripura,799145,"Sabroom Nagar Panchayat, ward No.04, Sabroom Hospital Complex",23.0514122,91.7246856
 PMBJK02203,Kumar Shankar Paul,9863902404,Tripura,West Tripura,799006,Jan Aushadhi Store AGMC&GBP Hospital Complex POKunjaban AgartalaWest Tripura799006,23.8707501,91.3131861
-PMBJK02204,Alok Barman,9612106305,Tripura,West Tripura,799001,Jan Aushadhi Store IGM Hospital POAgartalaPSWest Kotowali Tripura799001,23.826403,91.2818815
+PMBJK02204,Alok Barman,9612106305,Tripura,West Tripura,799001,Jan Aushadhi Store IGM Hospital POAgartalaPSWest Kotowali Tripura799001,23.8310477788438,91.27604640674593
 PMBJK02205,Sudip Bhattacharjee,9774317821,Tripura,West Tripura,799014,Jan Aushadhi Store Tripura Medical College & Dr BR Ambedkar Teaching Hospital Hapania,23.7849219,91.2626287
-PMBJK02206,The State Co Op Mark Fed Tripu,8794369287,Tripura,Gomati,799001,Jan Aushadhi Store Gomati District Hospital AgartalaTripura799001,23.826403,91.2818815
+PMBJK02206,The State Co Op Mark Fed Tripu,8794369287,Tripura,Gomati,799001,Jan Aushadhi Store Gomati District Hospital AgartalaTripura799001,23.8313617915418,91.274362582209
 PMBJK02207,Haradhan Chandra Das,7085917235,Tripura,West Tripura,799103,Mohanpur CHC Hospital Sidhai Tripura Pin799103,23.6381155,91.3855161
 PMBJK02208,Krishna Dulal Debnath,9856241372,Tripura,West Tripura,799105,Jirania CHC Hospital Jirania Block Tilla Pin; 799105,23.4473349,91.4241426
 PMBJK02211,Shilpi Pathak,8755472114,Uttar Pradesh,Agra,282005,A1 Trans Yamuna Colony PostRam Bagh PS Etmadulla Agra Uttar Pradesh 282005,27.2071582,78.04107977
@@ -1538,7 +1538,7 @@ PMBJK02816,Sarika Vishvakarma,8410230934,Uttarakhand,Dehradun,249202,128 Malviya
 PMBJK02817,Dilkesh Laxman Patel,8866406855,The Dadra And Nagar Haveli And Daman And Diu,Daman,396210,shop No 03 near Star Bar Athiyawad Dhabel Daman396210,20.40117602,72.8922121
 PMBJK02820,B. Neelamma/Star Mahila Mandali,9515582774,Telangana,Nagarkurnool,509209,61 Peddakothapalle (V) and Mandal Nagar Kurnool 509209,16.5606108,78.3614672
 PMBJK02822,S. Latha Ravi Kumar(Ref By C.J. Pharma),9944992148,Tamil Nadu,Madurai,625016,Shop no 18 26C Pappamal complex Arasardi Bharathidasan road (TBRoad) ,9.923540128,78.10351219
-PMBJK02823,S Mohaideen Sharif,9585253337,Tamil Nadu,Madurai,625007,508 Parsuraman Patti KPudur Madurai 625007,9.966544367,78.15931496
+PMBJK02823,S Mohaideen Sharif,9585253337,Tamil Nadu,Madurai,625007,508 Parsuraman Patti KPudur Madurai 625007,9.95205574772618,78.1488800090156
 PMBJK02825,N. Krishna,8022264021,Karnataka,Ramanagara,562160,Ground Floor General Hospital Channapatanna Dist Ramanagara562160 Karnataka,12.6534728,77.1715228
 PMBJK02826,Apoorve Rathi,9810912550,Uttar Pradesh,Ghaziabad,201002,"D- 197, Sanjay nagar, PO - Kavi nagar, Po- Kavi nagar, PS - Kavi nagar",28.69596118,77.45442037
 PMBJK02828,Ms.Sakina Abdulla Rupawala,9825227875,Gujarat,Surat,395003,43976Ground FloorTena No04D0511610004Pitha GaliZampa BazarMain RoadSuratGujarat395003,21.19626227,72.83416998
@@ -1551,7 +1551,7 @@ PMBJK02841,Rakesh Babulal Modi,9428394096,Gujarat,Surat,395005,Shop No02Ground F
 PMBJK02843,Panchal Pinakin Bharatbhai,7878167100,Gujarat,Sabar Kantha,383410,Milkat No516Ground Floor Near RR Service StationIdarBhiloda Highway Road Badoli,23.60362092,72.96394689
 PMBJK02844,V. Hemalatha,9789754020,Tamil Nadu,Madurai,625017,at 104 Ganapathi Nagar 1st Street West Alangulam Main Road Madurai 625017,9.973249267,78.11655236
 PMBJK02845,S.Abdul Baree,9865038420,Tamil Nadu,Theni,625513,329 Near Municipal office Munar RoadBodinayackanur625513TheniTamil Nadu,10.01565852,77.35213646
-PMBJK02846,C. Balamurugan (Ref By C.J. Pharma),7708388788,Tamil Nadu,Madurai,625007,Door no 13 CSI Shopping complex Moondru mavadi – Iyer Bunglow road Alagar Kovil main road,9.966544367,78.15931496
+PMBJK02846,C  Balamurugan Ref By C J Pharma,7708388788,Tamil Nadu,Madurai,625007,Door no 13 CSI Shopping complex Moondru mavadi – Iyer Bunglow road Alagar Kovil main road,9.95155752591601,78.1568561593889
 PMBJK02847,Tnahtf S. E Hemalatha,9962459920,Tamil Nadu,Chengalpattu,600044,"No .70/92, Part NorthEast Side North Facing, Ground Floor, Susilabaicomplex Station Road Radha Nag",12.95287075,80.14404275
 PMBJK02848,S. Binitha. P,8086708747,Kerala,Kozhikode,673582,71386 Omaseery Thamaressry673582,11.3615489,75.9753516
 PMBJK02855,Manoj Kumar .K,9447661716,Kerala,Kottayam,686540,XV440 B KaruachalChanganacherry686540,9.505483696,76.64065898
@@ -2450,7 +2450,7 @@ PMBJK04504,Rizwana Bano,9129363607,Uttar Pradesh,Pratapgarh,230001,"4, Paltan Ba
 PMBJK04505,Shailendra Pratap Singh,9415641134,Uttar Pradesh,Sultanpur,228132,in front of CHC,26.2392048,82.3064952
 PMBJK04506,Rathin Kumar Viswas,9005000562,Uttar Pradesh,Mahrajganj,273305,"Main road, Bargadwa Bazar, Pipra,",27.44040855,83.64264929
 PMBJK04507,Shri Krishna Yadav,9839749067,Uttar Pradesh,Deoria,274502,"Pindi road pipra Chauraha,",26.19642141,83.96522703
-PMBJK04509,Arjun Chopra,8588832509,Delhi,North,110007,"Shop no. P-15, Ground Floor, Malka Ganj, North West Delhi",28.67538067,77.20864013
+PMBJK04509,Arjun Chopra,8588832509,Delhi,North,110007,"Shop no. P-15, Ground Floor, Malka Ganj, North West Delhi",28.675242421512387,77.20932416517728
 PMBJK04510,Sonia Rani,9781858177,Punjab,Bathinda,151001,"Minocha Colony, Iopp. Gate NO. 3 Satadium near Bhai Jagta Singh ji Gurudwara Sahib,",30.21569081,74.94576164
 PMBJK04512,Harjinder Singh,7888868180,Punjab,Bathinda,151001,"3903, NeetA street, Mehna Chowk,",30.20943472,74.93921161
 PMBJK04515,Abhishek,9812197796,Haryana,Jhajjar,124105,"Near AIIMS -2 Village Badsa,",28.50370458,76.87487606
@@ -2492,7 +2492,7 @@ PMBJK04565,Mrs. Thakkar Prexa Hardikkumar,9428661375,Gujarat,Kheda,388245,"Front
 PMBJK04566,Mr. Jaydeep Tarunkumar Chokhawala,9426188885,Gujarat,Surat,395007,"2475, LIG 540, Gujarat Housing Board Pandesara,",21.14636843,2.832587865
 PMBJK04567,Mr. Manjunath V.C,8904749022,Karnataka,Kodagu,571236,"GOVERNMENT GENERAL HOSPITAL, SOMWARPET, KARNATAKA",12.59365874,75.85372495
 PMBJK04568,Mr. Subin .P.B,9747898052,Kerala,Kozhikode,673571,"23/227-A, KUNNAMANGALAM TOWN, KOZHIKODE, KERALA-673571",11.3067323,75.8785323
-PMBJK04569,Amit Singh,9876989873,Punjab,Hoshiarpur,144211,"near Civil Hospital Opp. HDFC Bank Gurdaspu road,",31.95100728,75.61149322
+PMBJK04569,Amit Singh,9876989873,Punjab,Hoshiarpur,144211,"Near Civil Hospital, Opp HDFC Bank Gurdaspur Road Mukerian",31.95100728,75.61149322
 PMBJK04570,Sandeep Kaur,9780303629,Punjab,Mansa,151507,near Bus Stand,29.68933322,75.23858336
 PMBJK04574,Bheem Singh,7351051051,Uttar Pradesh,Saharanpur,247451,"Hospital road, Badgaon road,",29.8008688,77.4618209
 PMBJK04575,Mohd. Shadab Alam,9720065130,Uttar Pradesh,Saharanpur,247120,"Chilkana main market, Chilkana road, Sultanpur",30.0603614,77.7145172
@@ -4920,7 +4920,6 @@ PMBJK07715,"Mr. Parmar Devang Girishbhai, Mr. Gohilraj Rameshb",9824687755,Gujar
 PMBJK07716,Varun Verma,8299811366,Uttar Pradesh,Kanpur Nagar,208014,"133/50 Block O, Hameerpur Road, Bara Devi Chauraha, Juhi",26.4394235,80.3252686
 PMBJK07717,Poonam Gupta,9412894563,Uttar Pradesh,Agra,282005,"41, Kaveri Kunj, Phase- II, Kamla Nagar, Dayal Bagh",27.2186985,78.0192278
 PMBJK07718,Mukul Gupta,7500272292,Uttarakhand,Dehradun,248001,4 Jakhan Canal Road,30.35773004,78.0699282
-PMBJK07719,Ankita Kandpal,8979009750,Uttarakhand,Nainital,263139,Femaler Hospital,29.2134375,79.5277611
 PMBJK07720,Garima Joshi,8650992901,Uttarakhand,Nainital,263139,Soban Singh Jeena Base Hospital,29.21577832,79.52947779
 PMBJK07722,Vikram Sharma,9416894954,Haryana,Hisar,125033,"Near Primary School, Village Petwar",29.17375434,76.16429019
 PMBJK07723,Punita Makhijani,9990567111,Delhi,East,110091,East Delhi Municipal Corporation,28.62253741,77.31058563
@@ -11105,7 +11104,7 @@ PMBJK14246,Ashish Kumar Singh,7007351596,Uttar Pradesh,Gorakhpur,273407,Shop NO 
 PMBJK14247,Manoj D N,6363905858,Karnataka,Shivamogga,577204,"Prop No:112/72, Ground Floor, Shop No:1, Jayamma complex Near Govt",13.98831271,75.58654781
 PMBJK14248,Jacquilin Joseph,9526700118,Kerala,Idukki,685552,"Door No 12/20 Mamgalasseril Building Kallar P O Mundiyeruma, Udumbanchola",9.7227199,77.1558935
 PMBJK14249,Butool Fatma,8218359159,Uttar Pradesh,Ayodhya,224202,"Near Ram Janki Mandir, Katra Gali Bhadarsha,Bharatkund",26.64357111,82.12048998
-PMBJK14250,Arun Kumar,9628528258,Uttar Pradesh,Lucknow,226002,"Shop No-1 Upper Ground Floor Khasra No-1538 Bijnaur Road Near Maruti Suzuki Arena Regestry Office, Sarojni Nagar,",26.7848215,80.89918933
+PMBJK14250,Arun Kumar,9628528258,Uttar Pradesh,Lucknow,226002,"Shop No-1 Upper Ground Floor Khasra No-1538 Bijnaur Road Near Maruti Suzuki Arena Regestry Office, Sarojni Nagar",26.7848215,80.89918933
 PMBJK14251,Nilam Sharma,9136997437,Uttar Pradesh,Deoria,274001,Mahauni Chauraha Main Road Sonughat Room Number-504,26.50098753,83.80911893
 PMBJK14252,Rahul Kumar,7631251866,Uttar Pradesh,Ghaziabad,201005,"Shop No-2, Plot No-5/20, Sector-5, Rajendra nagar, Sahibabad",28.67965789,77.34353706
 PMBJK14253,Sandhya Pandey,7860188881,Uttar Pradesh,Ballia,277001,"H No. 370, Baleshwar Mandir Road Block No 24 Infront of Dakshin Mukhi Hanuman Mandir, Japlinganj",25.75631352,84.15506367
@@ -14187,7 +14186,6 @@ PMBJK17370,Archana Kumari,8130524911,Delhi,West,110059,"One Shop At Ground Floor
 PMBJK17371,Anu Shree,8851107863,Delhi,West,110058,"Shop on Ground Floor, Property No.35-A, Block- C-5-D, Janakpuri",28.6265474,77.0924281
 PMBJK17372,Akash Singh,9574275050,Uttar Pradesh,Azamgarh,276202,"Khasra No 177mi Khata Number 00305 Lahuan Khurd Post Palhana Near Police Chowki Thana Devgaon, Lalga",25.763991,83.037592
 PMBJK17373,Moli Ghosh,9051303736,West Bengal,North 24 Parganas,743263,"Dag No- 434, KH No—3604, JL No- 145, Mouza & Vill- Krishnanagar, Ground Floor, Bergoom, Gobardanga,",22.865106,88.72410157
-PMBJK17374,Zaveri Prakeshbhai Hirabhai,9428737428,Gujarat,Anand,388001,"Anand Railway Station Circulating Area, Near Pedestrian Overpass, Sardargunj",22.5610335,72.96655
 PMBJK17375,Abirami  S,8072347139,Tamil Nadu,Madurai,625017,"D.No.375D-3,Shop No.2, East Facing , Ground Floor, Gothavari Street, Sasi Nagar, P And T Nagar Ext",9.97265491,78.12849702
 PMBJK17376,Sheethal  S,6383417756,Tamil Nadu,Coimbatore,641109,"Shop No.17, Ground FloorThondamathurVaniga ValagamSandhaipettai Thondamathur, Thondamathur, Pe",10.9992,76.8327
 PMBJK17377,Punitha G,9025794314,Tamil Nadu,Tirunelveli,627201,"5/112, East Facing, Ground Floor, Sankarankovil Main Road, Manur, Manur Village Panchayat",8.854414,77.652439
@@ -20239,7 +20237,7 @@ PMBJK23425,Najeemath M,8590400733,Kerala,Palakkad,679501,"Door No.5/51, opposite
 PMBJK23426,Kiran PM,9567951149,Kerala,Thiruvananthapuram,695013,"TC-35/1375-2,Ground Floor,Vellaikadavu-Vattiyoorkavu Road, Vazhottukonam",8.53551,76.99086
 PMBJK23427,Soniya Sharma,9675952450,Uttar Pradesh,Bulandshahr,203411,Village Agauta Saispur road Bulandshahr,28.54539097,77.87610594
 PMBJK23428,Manish Tiwari,9450005307,Uttar Pradesh,Varanasi,221005,"House No B,32/118-M-L-18-R Ground Floor Nariya Lanka Ps Lanka",25.27893823,82.99443639
-PMBJK23429,Kavya Mishra,9277401173,Uttar Pradesh,Lucknow,226001,"Ground Floor Lucknow Bar Association office Campus, Collectrate",26.85471,80.92135
+PMBJK23429,Kavya Mishra,9277401173,Uttar Pradesh,Lucknow,226001,"Ground Floor Lucknow Bar Association office Campus, Collectrate Kaiserbagh",26.85471,80.92135
 PMBJK23430,Vibha Singh,8218599595,Uttar Pradesh,Varanasi,221007,"Khata No.-00194, Araji No.MI-15/2 Ground floor, Village Rasoolgarh,Tiraha",25.34990993,83.03112319
 PMBJK23431,Anupam Awasthi,8840559314,Uttar Pradesh,Lucknow,226021,"Shop No-3&4,Ground Floor ES-2/204 Sector-F Near MAA Sidhadatri mandir",26.94692,80.93366
 PMBJK23432,Maharaj Vinayak Society (Vikas Jeph),9694001618,Uttar Pradesh,Sitapur,261301,"Community Health Center Sidhauli Sitapur, Tehsil Sidhauli",27.28384403,80.83832557
@@ -20649,7 +20647,7 @@ PMBJK23835,Tusi Peto,7044258588,West Bengal,North 24 Parganas,743125,"Golghar Sh
 PMBJK23836,Santwana Mondal,9593572448,West Bengal,Hooghly,712401,"Dag No-966 Kh No-1879, JL No-123, Ground Floor Para-Chhatrashal, Ghole Khanakul  PS Vill+ Mouza-Chha",22.7306860596059,87.9324213809071
 PMBJK23837,Reena Roy,9891111093,Delhi,South East,110044,"Shop no.2,GF,N-Block,Saurabh Vihar,Hari Nagar Extn,Khasra no-577,Property no. N-12,Badarpur",28.50643,77.32126
 PMBJK23838,Neha Bajaj,9958711475,Delhi,East,110092,"One Shop on Ground Floor,Near Nagniti Aprtment,Mandawali Unchepar,Property no C-17-B,Patparganj",28.6290956228119,77.3000920493499
-PMBJK23839,"Rahul Arora,Abhishek Kumar Sharma,Rajesh Kumar",9318467003,Haryana,Faridabad,121001,"Plot no-5K/108,Ground Floor,In the Premises,KC Road,NIT-5,Faridabad",28.39903,77.30462
+PMBJK23839,Rahul Arora Abhishek Kumar Sharma Rajesh Kumar,9318467003,Haryana,Faridabad,121001,"Plot no-5K/108,Ground Floor,In the Premises,KC Road,NIT-5,Faridabad",28.403530935289844,77.29946153760046
 PMBJK23840,Logeshwari,9080451175,Tamil Nadu,Thiruvallur,601204,"Door No 544/A, Shop No 2, From East, North Facing, Ground Floor, T.H. Road, Thiruvenkatapuram",13.3274084301032,80.1890059149463
 PMBJK23841,Ramzan Beevi,9840932047,Tamil Nadu,Chennai,600001,"No.11/6, Shop No.2 From East, North Facing, Ground Floor, Sultan Street, Clive Battery, VOC Nagar",13.0986489095332,80.2939629984426
 PMBJK23842,Vishal Rath,9755986629,Chhattisgarh,Bastar,494442,CHC Campus Tokapal Bastar,19.0107609233012,81.8889802322601
@@ -20790,3 +20788,38 @@ PMBJK23976,Ayan Samanta,6296571241,West Bengal,Howrah,711421,"Dag No.-236., Kh N
 PMBJK23977,Vineeta Gupta,9935338163,Uttar Pradesh,Kanpur Nagar,208027,"H NoBMIG5/51, Ground Floor, Barra M.I.G.5(DP) PS Barra, Kanpur Sadar",26.4403813898599,80.2991178482009
 PMBJK23978,Suman Sahani,8756025450,Uttar Pradesh,Mahrajganj,273162,"Samardhira Chauraha Near Saty Prabha Hospital, Khasra No 341 Samardhira, PS Purandarpur",27.17559,83.68479
 PMBJK23979,Yashpal Singh,9166550649,Rajasthan,Beawar,305901,"6, Amrit Kaur Hospital Premises",26.10735,74.31685
+PMBJK23980,Kamaladevi Kumar,9943426682,Tamil Nadu,Tiruchirappalli,620010,"Door No 1, 1C, 1D, Shop No 2 From North, Ground Floor, J R  Complex, Rajappa Nagar East, Ariyamangal",10.8046108878721,78.7339050322376
+PMBJK23981,Puttaraja Batigeri,9108046418,Karnataka,Yadgir,585214,"Property No. E.F.C Shop No. 18, Munciple Comlplex, Near Bus Stand, Tal: Gurumitkal",16.86967,77.38378
+PMBJK23982,Firdous Ahmad Ganie,9419027277,Jammu And Kashmir,Baramulla,193121,"Shop No 01 First Floor Main Chowk Near Old Hospital, Pattan, Baramulla",34.15906,74.55533
+PMBJK23983,Rajeev Jain,8126040204,Uttarakhand,Dehradun,248001,"13A New Survey Road, Dehradun",30.327514911243,78.0475103397279
+PMBJK23984,Rayees Ahmed,7006586005,Jammu And Kashmir,Srinagar,190008,Shop In Ground Floor Kursoo Rajbagh Opp Jamia Ahlihadees Masjid Bund Side Srinagar,34.0632164150661,74.8307512583887
+PMBJK23985,Pankaj Kumar,7017429748,Delhi,West,110059,"Shop on G.F at Propwrty on D-115A, OLD No.249,SOLANKI MARKET,MADHU VIHAR,West",28.60245,77.06111
+PMBJK23986,Kamal,8447452947,Delhi,South,110068,"Shop No.4,Ground Floor,Kh no-114/3,NEB SARAI,South",28.51608,77.20439
+PMBJK23987,Annu,8930139282,Haryana,Rohtak,124021,"NEAR GOVERMENT SCHOOL, VILLAGE POST OFFICE- KHEDI SADH, TEHSIL-SAMPLA",28.85389,76.665
+PMBJK23988,Rohit,8168107493,Haryana,Sonipat,131103,"LAMPUR BORDER,VILLAGE POST OFFICE- NAHRI,SONIPAT",28.85734,77.05162915
+PMBJK23989,Badal Saharawat,7088193421,Uttar Pradesh,Bijnor,246721,"Shop No 3 Village Amirpur Bega, Tehsil Bijnor",29.40498,78.09331
+PMBJK23990,Reena Devi,7761886228,Bihar,Supaul,852111,Ward No 07 Birpur Road Parsarma Simrahi,26.3097,86.8446
+PMBJK23991,Bharti Bhushan,7004248516,Bihar,Aurangabad,824102,Khata No 253 Plot No 92/1910 Sundaraganj Main Bazar,24.72692567,84.30714928
+PMBJK23992,Ht.Lalrokhuma,8119884499,Mizoram,Champhai,796321,"H.No.32-B, Vengthlane, Champhai",23.4799234811621,93.3306752150066
+PMBJK23993,Patil Surekha Rajendra,9106199021,Gujarat,Surat,394210,"Plot No.8, Ground Floor, Ruxmani Park Row House,  Dindoli Kharvasa Road, Dindoli",21.1326178091082,72.8920850854922
+PMBJK23994,Gitaben Dineshbhai Gurjar,8758093058,Gujarat,Ahmedabad,380019,"A/13/3, Padmaprabunagar Co. Op. Hou. Soc., IOC Road, D- Cabin, Sabarmati,",22.9878,72.62965
+PMBJK23995,Minakshi Ray Laik,8972516659,West Bengal,Paschim Bardhaman,713303,"Holding No.-242/New, M. Colony B/4(Dwarika Appt-B), Ground Floor, Ward No.- 19",23.672224685826,86.9834753285133
+PMBJK23996,Alpana Pradhan,9932831398,West Bengal,Purba Medinipur,721607,"Stall No-D/18, Ward No-28 mOhana Super Market",22.0304522129607,88.0619952705268
+PMBJK23997,Padma Priya S,9497621162,Kerala,Kollam,691505,"Door No.8/334, 8/335, Ezhukone, POKottarakkara Taluk",8.99523,76.73942
+PMBJK23998,Anjali Jayan,7012673995,Kerala,Ernakulam,682316,"5/452 D, Peechadu, Mekkadampu, Valakom, Muvattupuzha",9.9797708152554,76.5507251480182
+PMBJK23999,Mary Selvy Nicholas,9384138857,Tamil Nadu,Kanniyakumari,629004,"Door NO:108B, East Facing, Ground Floor, Carmel Nagar, Rajakkamangalam Road Way",8.16821534637407,77.4215184730024
+PMBJK24000,Priyadharshini S,7604852585,Tamil Nadu,Madurai,625702,"Door No:493/2, Ground Floor, Shop No: 02 From North, Opp: Police Station, Madurai Veeran Kovil Compl",9.83509,77.98052
+PMBJK24001,Puspalata Rana,9937055626,Odisha,Bhadrak,756117,"Manalapur Po Dehudianandapur Ps- Dhamnagar Plot No 398, Khata No 556/228 Mouza Kanjiapal",20.8669866565701,86.4237543018369
+PMBJK24002,Shyamali Duloi,9433360643,West Bengal,Howrah,711316,"920A/646A/102A/233A, Hait Para, (Beeta Heights), Shop No.-G-03, Ground Floor, Ward No.-27",22.4713281153495,88.0981805961222
+PMBJK24003,Mallika Barik,7479345598,West Bengal,Nadia,741317,"Dag No.-2577, Khatian No.-8483, JL No.-068, Mouza- Bhaluka, Ground Floor, Para- Saguna Road",23.3512640606128,88.4024157292161
+PMBJK24004,Halpati Rimaben Lalitkumar,9712530241,The Dadra And Nagar Haveli And Daman And Diu,Daman,396210,"shop No.-2, Tulsi Residency, Ringanwada, Nani Daman",20.4092067798722,72.8716368306394
+PMBJK24005,Naba Jyoti Konwar,9957633937,Assam,Karbi Anglong,782480,"Khatkhati, Opp SBI Bank, PS Khatkhati",26.25451,93.34419
+PMBJK24006,Himanshi,8059994115,Haryana,Jhajjar,124105,"Main Bazar,Tehsil-Badli,Bahadurgah",28.5062,76.87215
+PMBJK24007,"Anuj Mishra, Asha,Munna Ansari",9654837371,Delhi,West,110078,"Ground Floor,D-40,Kh no.13/5,Patel Garden,Dwarka Mor,Kakrola,West",28.6153756281116,77.0271174147975
+PMBJK24008,Sunita,8595418461,Delhi,North West,110085,"Shop no.1,Ground Floor,Block C,Phase-1,Vihay vihar,Rohini,Property no.3,Kh no-86/7",28.7123433130955,77.1010682649452
+PMBJK24009,Savitri,8607458808,Haryana,Mahendragarh,123001,"Shop no.2,Opp. Maharishi Chyawan Govt. Medical College,Village-Koriawas,Tehsil-Narnaul,",28.0334473063147,76.055437937132
+PMBJK24010,Shakuntala Devi,9711166311,Delhi,South West,110075,"Shop no.35,PHASE-1,Ground Floor,LSC Plot no.13&14,Sector-6,Dwarka",28.64222,77.22231
+PMBJK24011,Shakuntala Devi,8377838418,Delhi,South West,110045,"ONE SHOP ON GROUND FLOOR, SOLANKI CHOWK,PALAM COLONY,PALAM,NEW PROPERTY",28.5997,77.0819
+PMBJK24012,Anita Babanrao Deshmukh,9970153099,Maharashtra,Nashik,422011,"Shop No.08, GR. Floor, Barkha Bahar Housing Society, P.No.1-2, CTS No.434/3/1, I.No.82102873",19.9942394672078,73.7928077539595
+PMBJK24013,Ram Beeru Kharat,8217470520,Karnataka,Vijayapura,586103,"Sy. No. 41/B, Plot No. 3, PID No. 56899, Jorapur Complex, Flr Banjara Cross, Solapur Road,",16.8516505418326,75.7121121927692
+PMBJK24014,Laxmi Sanjeev Barakade,8904912449,Karnataka,Vijayapura,586101,"CTS No. 994 Ground Floor, Shop No. FG-5 Yalameli Complex, Opp. Poorvika Mobiles",16.85671,75.73026
