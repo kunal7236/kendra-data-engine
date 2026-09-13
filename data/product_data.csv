@@ -12,7 +12,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 11,12,Etoricoxib Tablets IP 120 mg,10's,35.63
 12,13,Etoricoxib Tablets IP 90 mg,10's,31.97
 13,14,Ibuprofen 400mg and Paracetamol 325mg Tablets IP,10's,8.25
-14,15,Ibuprofen Tablets IP 200 mg,10's,2.81
+14,15,Ibuprofen Tablets IP 200 mg,10's,3.09
 15,16,Ibuprofen Tablets IP 400 mg,15's,9.08
 16,17,Indomethacin Capsules IP 25 mg,10's,12.19
 17,18,Azithromycin Tablets IP 250 mg,6's,42.19
@@ -37,7 +37,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 36,38,Amoxycillin 500mg and Potassium Clavulanate 100mg Injection IP,Vial & Wfi,37.5
 37,39,Amoxycillin 500mg and Potassium Clavulanate 125mg Tablets IP,6's,57.85
 38,40,Amoxycillin 250mg and Cloxacillin 250mg Capsules,10's,29.91
-39,42,Amoxycillin Trihydrate Dispersible Tablets IP 125 mg,10's,11.25
+39,42,Amoxycillin Trihydrate Dispersible Tablets IP 125 mg,10's,12.38
 40,43,Amoxycillin Oral Suspension IP 125mg per 5ml,60 ml,17.81
 41,44,Amoxycillin Capsules IP 250mg,10's,13.13
 42,45,Amoxycillin Capsules IP 500mg,10's,36.09
@@ -51,7 +51,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 50,55,Cefixime Tablets IP 200 mg,10's,52.55
 51,56,Cefoperazone 1g and Sulbactam 1g Injection,Vial & Wfi,82.5
 52,57,Cefoperazone 500mg and Sulbactam 500mg Injection,Vial & Wfi,46.88
-53,58,Cefoperazone Injection IP 1 g,Vial & Wfi,43.13
+53,58,Cefoperazone Injection IP 1 g,Vial & Wfi,47.44
 54,59,Cefotaxime Sodium 1g and Sulbactam Sodium 500mg Injection,Vial & Wfi,26.25
 55,60,Cefotaxime Sodium 250mg and Sulbactam Sodium 125mg Injection,Vial & Wfi,11.34
 56,61,Cefotaxime Sodium 500mg and Sulbactam Sodium 250mg Injection,Vial & Wfi,17.81
@@ -60,32 +60,32 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 59,64,Cefotaxime Sodium Injection IP 500 mg,Vial & Wfi,11.25
 60,65,Cefpodoxime Proxetil Dispersible Tablets 100 mg,10's,37.5
 61,66,Cefpodoxime Tablets IP 200 mg,10's,72.19
-62,67,Ceftazidime Injection IP 1g,Vial & Wfi,75.0
-63,68,Ceftazidime Injection IP 250mg,Vial & Wfi,28.13
-64,69,Ceftazidime Injection IP 500mg,Vial & Wfi,46.88
+62,67,Ceftazidime Injection IP 1g,Vial & Wfi,82.5
+63,68,Ceftazidime Injection IP 250mg,Vial & Wfi,30.94
+64,69,Ceftazidime Injection IP 500mg,Vial & Wfi,51.56
 65,70,Ceftriaxone 1g and Sulbactam 500mg Injection,Vial & Wfi,45.0
 66,71,Ceftriaxone 1g and Tazobactam 125mg Injection,Vial & Wfi,45.0
 67,72,Azithromycin Tablets IP 500 mg,3's,39.38
 68,73,Ceftriaxone 250 mg and Sulbactam 125 mg Injection,Vial & Wfi,15.94
 69,74,Ceftriaxone 500mg and Sulbactam 250mg Injection,Vial & Wfi,32.81
-70,75,Ceftriaxone Injection IP  1 g,Vial & Wfi,28.88
-71,76,Ceftriaxone Injection IP 250 mg,Vial & Wfi,12.19
+70,75,Ceftriaxone Injection IP 1 g,Vial & Wfi,28.88
+71,76,Ceftriaxone Injection IP 250 mg,Vial & Wfi,13.41
 72,77,Ceftriaxone injection IP 500 mg,Vial & Wfi,22.5
 73,78,Cefuroxime Axetil Tablets IP 250 mg,10's,70.31
 74,79,Cefuroxime Axetil Tablets IP 500 mg,10's,146.44
 75,80,Cephalexin Tablets IP 125mg (Dispersible),10's,19.69
-76,81,Cephalexin  Capsules IP 250mg,10's,30.94
+76,81,Cephalexin Capsules IP 250mg,10's,30.94
 77,82,Cephalexin Capsules IP 500mg,10's,46.88
 78,83,Ciprofloxacin 250mg and Tinidazole 300mg Tablets,10's,26.25
 79,84,Ciprofloxacin 500mg and Tinidazole 600mg Tablets,10's,36.56
 80,85,Ciprofloxacin Hydrochloride Tablets IP 250 mg,10's,10.31
 81,86,Ciprofloxacin Hydrochloride Tablets IP 500 mg,10's,20.63
 82,87,Clotrimazole Cream IP 1% w/w,15 g tubes,15.88
-83,88,Co-trimoxazole (Sulphamethoxazole 200mg and Trimethoprim 40mg per 5ml) Oral Suspension IP,50 ml,14.06
+83,88,Co-trimoxazole (Sulphamethoxazole 200mg and Trimethoprim 40mg per 5ml) Oral Suspension IP,50 ml,9.45
 84,89,Co-trimoxazole (Sulphamethoxazole 800mg and Trimethoprim 160mg) Tablets IP,10's,11.34
 85,90,Co-trimoxazole (Sulphamethoxazole 100mg and Trimethoprim 20mg) Tablets IP,10's,2.06
 86,92,Doxycycline Capsules IP 100mg,10's,15.88
-87,93,Erythromycin Stearate Tablets IP  250mg,10's,19.59
+87,93,Erythromycin Stearate Tablets IP 250mg,10's,19.59
 88,94,Gentamicin Sulphate Injection IP 80 mg per 2ml,2 ml,5.09
 89,95,Levofloxacin Tablets IP 250mg,10's,16.88
 90,96,Levofloxacin Tablets IP 500mg,10's,34.03
@@ -111,12 +111,12 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 110,122,Ketoconazole Lotion 2% w/v,100 ml Bottle,51.56
 111,124,Povidone Iodine Ointment 5% w/w,250 gm tubes/Jar,107.81
 112,125,Povidone Iodine Ointment 5% w/w,15 gm tubes,15.88
-113,126,Povidone-Iodine Solution IP 10 % w/v,500 ml,135.94
+113,126,Povidone-Iodine Solution IP 10 % w/v,500 ml,149.53
 114,127,Povidone-Iodine Solution IP 5 % w/v,100 ml,21.66
 115,129,Povidone Iodine Solution 7.5% w/v,500 ml,113.44
 116,131,"Silver Sulphadiazine 1% w/w, Chlorhexidine Gluconate 0.2% w/w, Allantoin 0.1% w/w, Aloe vera 15% w/w Cream",20 gm,28.13
 117,132,"Silver Sulphadiazine 1% w/w, Chlorhexidine Gluconate 0.2% w/w, Allantoin 0.1% w/w, Aloe vera 15% w/w Cream",500 gm,468.75
-118,133,Glibenclamide Tablets IP 2.5 mg,10's,2.81
+118,133,Glibenclamide Tablets IP 2.5 mg,10's,2.89
 119,134,Glibenclamide Tablets IP 5 mg,10's,5.68
 120,135,Gliclazide Tablets IP 40 mg,10's,15.88
 121,136,Gliclazide Tablets IP 80 mg,10's,24.75
@@ -133,15 +133,15 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 132,153,Cisplatin Injection IP 10 mg per10ml,Vial,32.81
 133,154,Cisplatin Injection 50mg per 50ml,Vial,160.88
 134,156,Doxorubicin Injection IP 50mg (2mg per ml),Vial,281.25
-135,158,Etoposide Injection IP 100 mg per 5 ml,Vial,92.81
+135,158,Etoposide Injection IP 100 mg per 5 ml,Vial,92.77
 136,159,Gemcitabine Injection IP 1000mg,Vial,783.75
 137,160,Gemcitabine Injection IP 200mg,Vial,225.0
-138,163,Tamoxifen Citrate Tablets IP 10 mg,10's,10.31
-139,164,Tamoxifen Citrate Tablets IP 20 mg,10's,15.0
+138,163,Tamoxifen Citrate Tablets IP 10 mg,10's,11.34
+139,164,Tamoxifen Citrate Tablets IP 20 mg,10's,15.86
 140,165,Ciprofloxacin Injection IP 200mg,100 ml,11.25
 141,170,Mannitol Injection IP 20% w/v,100 ml,26.25
 142,171,Mannitol Intravenous Infusion IP 20% w/v,350 ml,46.88
-143,172,Metronidazole  Infusion IP 500 mg,100 ml,8.25
+143,172,Metronidazole Infusion IP 500 mg,100 ml,8.25
 144,177,Albendazole Oral Suspension IP 200 mg per 5ml,10 ml,7.5
 145,178,Albendazole 400mg and Ivermectin 6mg Tablets,1's,6.81
 146,180,Bisacodyl Tablets IP 5mg,10's,6.19
@@ -160,8 +160,8 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 159,198,"Dried Aluminium Hydroxide 250mg, Magnesium Hydroxide 250mg and Activated Dimethicone 50mg per 5ml Suspension",170 ml,33.0
 160,199,Metoclopramide Tablets IP 10 mg,10's,7.5
 161,200,Metoclopramide Injection IP 5mg per ml,2ml Ampoule,2.81
-162,201,Metronidazole  Tablets IP 200mg,10's,4.41
-163,202,Metronidazole  Tablets IP 400mg,10's,7.22
+162,201,Metronidazole Tablets IP 200mg,10's,4.41
+163,202,Metronidazole Tablets IP 400mg,10's,7.22
 164,203,Misoprostol Tablets IP 200 mcg,4's,18.75
 165,206,Omeprazole 20mg and Domperidone 10mg Capsules IP,10's,11.34
 166,207,Omeprazole Gastro-resistant Capsules IP 20 mg,10's,10.21
@@ -219,11 +219,11 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 218,277,Enoxaparin Injection IP 60 mg per 0.6 ml,0.6 ml,217.8
 219,278,Frusemide Injection IP 10 mg per ml,2 ml,2.81
 220,279,Frusemide Tablets IP 40 mg,10's,4.94
-221,280,Heparin Sodium Injection IP 5000 IU,5 ml,40.22
+221,280,Heparin Sodium Injection IP 5000 IU,5 ml,44.24
 222,281,Heparin Sodium Injection IP 25000 IU,5 ml,187.5
 223,283,Isosorbide Dinitrate Tablets IP 10mg,50's,19.69
-224,285,Amlodipine 5mg and Lisinopril 5mg Tablets IP,15's,15.0
-225,286,Lisinopril Tablets IP 5mg,10's,9.38
+224,285,Amlodipine 5mg and Lisinopril 5mg Tablets IP,15's,16.5
+225,286,Lisinopril Tablets IP 5mg,10's,10.31
 226,287,Losartan Potassium 50mg and Hydrochlorothiazide 12.5mg Tabelts IP,10's,13.62
 227,288,Losartan Tablets IP 25mg,10's,7.94
 228,289,Losartan Tablets IP 50mg,10's,12.47
@@ -236,7 +236,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 235,298,Telmisartan 40mg and Hydrochlorothiazide 12.5mg Tablets IP,10's,17.53
 236,299,Telmisartan Tablets IP 20mg,10's,11.34
 237,300,Telmisartan Tablets IP 40mg,10's,12.38
-238,301,Tranexamic Acid Tablets IP  500 mg,10's,74.0
+238,301,Tranexamic Acid Tablets IP 500 mg,10's,74.0
 239,302,Tranexamic Acid Injection IP 500 mg (100mg per ml),5 ml Amp.,24.0
 240,304,α-β Arteether Injection 150 mg,2 ml Ampoule,17.81
 241,305,Chloroquine Phosphate Tablets IP 250 mg,10's,5.0
@@ -251,7 +251,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 250,321,Escitalopram Tablets IP 10 mg,10's,10.32
 251,322,Escitalopram Tablets IP 20 mg,10's,18.75
 252,323,Flunarizine Tablets IP 10 mg,10's,7.5
-253,324,Flunarizine Tablets IP 5 mg,10's,6.56
+253,324,Flunarizine Tablets IP 5 mg,10's,7.22
 254,325,Fluoxetine Hydrochloride Capsules IP 20mg,10's,9.08
 255,326,Methyl Ergometrine Tablets IP 0.125 mg,10's,10.31
 256,327,Phenytoin Tablets IP 100 mg,100's in Bottle,56.72
@@ -269,10 +269,10 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 268,345,Gentamicin Eye Drops IP 0.3% w/v,10 ml,5.63
 269,351,Xylometazoline Nasal Drops IP 0.1%w/v,10 ml,13.62
 270,352,Bupivacaine Hydrochloride Injection IP 5 mg per ml,20 ml,36.56
-271,356,Lignocaine Injection IP 2% w/v,30 ml Vial,15.94
+271,356,Lignocaine Injection IP 2% w/v,30 ml Vial,17.53
 272,357,Lignocaine and Adrenaline Injection IP (2%w/v and 1:80000),30 ml Vial,20.63
 273,358,Propofol Injection IP 10 mg per ml,10 ml Vial,36.56
-274,359,Tetanus Vaccine IP,0.5 ml Ampoule,6.5
+274,359,Tetanus Vaccine IP,0.5 ml Ampoule,6.7
 275,360,Mifepristone Tablets IP 200 mg,1's,62.81
 276,362,Biphasic Isophane Insulin Injection IP (50:50) 40 IU per ml,10 ML VIAL,96.8
 277,363,Insulin Glargine Injection IP 100 IU per ml,Cartridge 3 ml,340.0
@@ -283,7 +283,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 282,371,Voglibose Tablets IP 0.2 mg,10's,12.47
 283,372,Metformin Hydrochloride Prolonged release Tablets IP 500 mg,10's,10.79
 284,373,Artesunate Injection IP 60 mg,1 vial,21.56
-285,375,Quinine Sulphate Tablets IP 300 mg,10's,31.0
+285,375,Quinine Sulphate Tablets IP 300 mg,10's,30.4
 286,376,Imipenem 500mg and Cilastatin 500mg Injection IP,Vial & Wfi,309.38
 287,377,Clindamycin Capsules IP 300 mg,10's,84.38
 288,380,Clarithromycin Tablets IP 500 mg,4's,67.5
@@ -296,7 +296,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 295,387,Terbinafine Tablets IP 250mg,7's,42.28
 296,391,Moxifloxacin Tablets 400 mg,5's,61.88
 297,392,Griseofulvin Tablets IP 250 mg,10's,15.0
-298,393,Aciclovir Dispersible Tablets IP 800 mg,5's,41.25
+298,393,Aciclovir Dispersible Tablets IP 800 mg,5's,45.38
 299,395,Cefuroxime Axetil 500mg and Potassium Clavulanate 125mg Tablets IP,6's,102.19
 300,396,Liposomal Amphotericin B Injection 50 mg per Vial,20 ml,2700.0
 301,400,Ketoconazole Tablets IP 200 mg,10's,26.25
@@ -324,7 +324,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 323,427,S(-)Amlodipine Tablets IP 2.5 mg,10's,12.47
 324,428,Digoxin Tablets IP 0.25 mg,10's,8.44
 325,429,Atorvastatin 10mg and Fenofibrate 160mg Tablets IP,15's,30.94
-326,430,Amiodarone Tablets IP 200 mg,10's,55.31
+326,430,Amiodarone Tablets IP 200 mg,10's,60.84
 327,431,Ramipril 5mg and Hydrochlorothiazide 12.5mg Tablets IP,10's,13.13
 328,432,Olmesartan Medoxomil Tablets IP 40 mg,10's,37.43
 329,433,Isosorbide Mononitrate Sustained Release Tablets 30 mg,30's,65.63
@@ -336,7 +336,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 335,439,Olmesartan Medoxomil 40mg and Hydrochlorothiazide 12.5mg Tablets IP,10's,30.94
 336,440,Metoprolol 50mg (Prolonged release) and Amlodipine Besilate 5mg Tablets IP,7's,11.34
 337,441,Losartan 50mg and Amlodipine 5mg Tablets IP,10's,22.69
-338,442,Fenofibrate Tablets  IP 160 mg,10's,27.84
+338,442,Fenofibrate Tablets IP 160 mg,10's,27.84
 339,443,Isosorbide Dinitrate Tablets IP 5 mg,50's,18.75
 340,444,Enalapril 10mg and Hydrochlorothiazide 25mg Tablets IP,30's,56.25
 341,445,Olmesartan 20mg and Amlodipine 5mg Tablets,10's,25.78
@@ -349,7 +349,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 348,452,Warfarin Tablets IP 5 mg,10's,16.88
 349,453,Bisoprolol 5mg and Hydrochlorothiazide 6.25mg Tablets IP,10's,15.47
 350,454,Valsartan Tablets IP 80 mg,10's,34.03
-351,455,Verapamil Tablets IP 80 mg,10's,13.13
+351,455,Verapamil Tablets IP 80 mg,10's,8.56
 352,456,Atorvastatin Tablets IP 40 mg,10's,22.69
 353,457,Torsemide Tablets IP 20 mg,10's,20.42
 354,458,Labetalol Injection IP 5 mg per ml,4 ml Ampoule,55.31
@@ -367,18 +367,18 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 366,474,Doxylamine Succinate 10mg and Pyridoxine Hydrochloride 10mg Tablets,30's,21.56
 367,475,Sucralfate Suspension 500mg per 5ml,200 ml,72.19
 368,476,"Liquid Paraffin 1.25ml, Milk of Magnesia 3.75ml and Sodium Picosulphate 3.33mg Suspension per 5ml",170 ml Bottle,58.78
-369,477,Chlordiazepoxide 5mg and Clidinium Bromide 2.5mg Tablets,10's,8.44
-370,478,Sodium Picosulphate Tablets 10 mg,10's,10.31
+369,477,Chlordiazepoxide 5mg and Clidinium Bromide 2.5mg Tablets,10's,9.28
+370,478,Sodium Picosulphate Tablets 10 mg,10's,11.34
 371,479,Sorbitol 7.15g and Tricholine Citrate 550mg per 10ml Solution,200 ML,37.5
 372,480,Esomeprazole 40mg (Enteric-coated) and Levosulpiride 75mg (Sustained release) Capsules,10's,68.07
-373,481,Rifaximin Tablets 400 mg,10's,121.88
+373,481,Rifaximin Tablets 400 mg,10's,134.06
 374,482,Rabeprazole 20mg (Enteric Coated) and Levosulpiride 75mg (Sustained Release) Capsules,10's,37.13
 375,483,Loperamide Capsules IP 2 mg,10's,7.22
 376,484,Esomeprazole Tablets IP 40 mg,10's,21.55
 377,485,Promethazine Tablets IP 25 mg,10's,6.56
 378,486,Pancreatin 170mg and Activated Dimethicone 80mg Tablets,10's,51.56
 379,487,Dicyclomine Hydrochloride 10mg and Activated Dimethicone 40mg per 5 ml Suspension,30 ML,15.94
-380,488,Lansoprazole Capsules IP 15 mg,10's,18.75
+380,488,Lansoprazole Capsules IP 15 mg,10's,20.63
 381,489,Sulfasalazine Gastro-resistant Tablets 1000mg,10's,72.19
 382,491,Itopride Tablets IP 50 mg,10's,33.75
 383,492,Sulfasalazine Delayed Release Tablets 500mg,10's,25.36
@@ -391,7 +391,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 390,502,Deflazacort Tablets 6 mg,6's,14.75
 391,503,Methylprednisolone Sodium Succinate Injection 1000mg,Vial & Wfi,297.19
 392,504,Nandrolone Decanoate Injection IP 25 mg per ml,1 ML,18.75
-393,505,Carbimazole Tablets IP 10 mg,100's,72.19
+393,505,Carbimazole Tablets IP 10 mg,100's,79.41
 394,507,Carbimazole Tablets IP 5 mg,10's,10.31
 395,508,Levetiracetam Tablets IP 500 mg,10's,69.83
 396,509,Hydroxychloroquine Tablets IP 200 mg,10's,34.18
@@ -400,7 +400,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 399,512,"Aceclofenac 100mg, Paracetamol 325mg and Serratiopeptidase 15mg Tablets",10's,19.59
 400,513,Piroxicam Capsules IP 20 mg,10's,8.44
 401,514,Chymotrypsin and Trypsin (1:6 ) Tablets 100K AU,20's,51.57
-402,515,Mefenamic Acid Suspension 100mg per 5ml,60 ml,16.88
+402,515,Mefenamic Acid Suspension 100mg per 5ml,60 ml,17.96
 403,516,Aceclofenac Sustained Release Tablets 200mg,10's,18.75
 404,517,Thiocolchicoside 4mg and Aceclofenac 100mg Tablets,10's,51.57
 405,518,Baclofen Tablets IP 10 mg,10's,12.1
@@ -415,10 +415,10 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 414,532,Salmeterol 50mcg and Fluticasone 250mcg Rotacaps,30's,112.5
 415,537,"Ambroxol Hydrochloride 15 mg, Guaifenesin 50 mg and Levosalbutamol Sulphate 1 mg Syrup",100 ml Bottle,21.56
 416,539,Acetylcysteine Tablets 600 mg,10's,30.0
-417,540,Levosalbutamol 1.25mg and Budesonide 1mg Respules,2 ML,25.78
+417,540,Levosalbutamol 1.25mg and Budesonide 1mg Respules,2 ML,28.36
 418,541,Acebrophylline Capsules 100 mg,10's,22.69
 419,542,Saline Nasal Drops (Sodium Chloride 0.65% w/v),20 ml,11.25
-420,543,Menthol (55 mg ± 5.) Cinnamon (12.5 mg ± 2) and Pine Oil (112.5 mg ± 1) Soft Capsules,10's,23.44
+420,543,Menthol (55 mg ± 5.) Cinnamon (12.5 mg ± 2) and Pine Oil (112.5 mg ± 1) Soft Capsules,10's,25.78
 421,544,Fluticasone Propionate Respules 0.5mg per 2ml,2 ML,15.94
 422,555,Doxofylline Tablets IP 400 mg,10's,17.53
 423,556,Montelukast Sodium 10mg  and Fexofenadine Hydrochloride 120 mg Tablets,10's,45.38
@@ -439,11 +439,11 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 438,580,"Ginseng, Multivitamins and multiminerals Capsules",10's,34.03
 439,581,"Calcium Carbonate 500mg, Calcitriol 0.25mcg and Zinc 7.5mg Capsules",10's,20.42
 440,582,"Vitamins A,C,D,E,And B Complex and Minerals Syrup",200 ML,44.06
-441,583,Cyproheptadine Tablets IP 4 mg,10's,3.75
+441,583,Cyproheptadine Tablets IP 4 mg,10's,4.13
 442,585,Cholecalciferol Granules 60000 IU per gm,1 Sachet,10.21
 443,586,"Methylcobalamin 1500mcg, L- Carnitine L- Tartrate 500mg and Folic Acid 1.5mg Tablets",10's,103.13
 444,588,Vitamin E Softgel Capsules 400 mg,10's,22.69
-445,589,Calcium 500mg and Calcitriol 0.25mcg Tablets,15's,16.88
+445,589,Calcium 500mg and Calcitriol 0.25mcg Tablets,15's,18.56
 446,591,Methylcobalamin Injection 500 mcg,1 ML,6.56
 447,592,"L-Lysine + Multivitamins (Vit-B1,B2,B3,B5,B6 ) Syrup",200 ML,48.75
 448,593,"Folic Acid 15mg, Cyanocobalamine 500mcg and Nicotinamide 200mg Injection",10 ML,37.5
@@ -454,7 +454,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 453,599,Pregabalin Tablets 75 mg,10's,24.96
 454,601,Disulfiram Tablets IP 500 mg,4's,6.56
 455,603,"Cetirizine Dihydrochloride 5mg, Phenylephrine Hydrochloride 10mg and Paracetamol 325mg Tablets",10's,17.54
-456,608,Betamethasone Dipropionate 0.05% w/w and Salicylic Acid 3% w/w Ointment,20 gm,15.94
+456,608,Betamethasone Dipropionate 0.05% w/w and Salicylic Acid 3% w/w Ointment,20 gm,17.53
 457,609,Silver Nitrate 0.20% w/w and Chlorhexidine Gluconate 0.20% w/w Cream,15 Gms Tube,23.44
 458,610,"Paracetamol 125mg, Phenylephrine Hydrochloride 5mg and Cetirizine Dihydrochloride 2mg Suspension",60 ML,14.07
 459,611,Cyproheptadine Hydrochloride Syrup IP 2mg,200 ml,28.13
@@ -473,7 +473,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 472,634,"Clobetasol Propionate 0.05%w/w, Neomycin 0.50%w/w, Miconazole 2%w/w and Chlorocresol 0.10%w/w Cream",20 gms.,29.49
 473,637,"Aceclofenac 100mg, Paracetamol 325mg and Chlorzoxazone 250mg Tablets",10's,16.5
 474,639,"Terbutaline Sulphate 1.25mg, Bromhexine 4mg, Guaiphenesin 50mg and Menthol 2.5mg Syrup per 5ml",100 ML,24.96
-475,640,Nimesulide Gel 1% W/W,20 gm Tube,15.0
+475,640,Nimesulide Gel 1% W/W,20 gm Tube,16.5
 476,643,"Paracetamol 125mg, Chlorpheniramine 1mg and Sodium Citrate 60mg Syrup in Flavour base",60 ml Bottle,16.88
 477,644,Phenylephrine Hydrochloride 5mg and Chlorpheniramine Maleate 2mg Drops,15 ml Bottle,18.75
 478,645,"Nimesulid 100mg, Paracetamol 325mg and Chlorzoxazone 375mg Tablets",10's,18.75
@@ -502,7 +502,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 501,685,Pantoprazole Sodium 40 mg (Enteric Coated) and Itopride Hydrochloride 150 mg (Sustained Release) Capsules,10's,46.88
 502,686,Magaldrate 400mg and Simethicone 20mg Oral Suspension IP per 5ml,170 ml,39.38
 503,687,Lactulose Solution IP 10g per 15ml,200 ml,132.0
-504,689,Clotrimazole Vaginal Tablets IP 100mg,10's,14.06
+504,689,Clotrimazole Vaginal Tablets IP 100mg,10's,15.47
 505,690,Timolol Maleate Eye Drops IP 0.5 %,5 ml Vial,19.69
 506,691,Ofloxacin Eye Drops IP 0.3% w/v,10 ml,10.31
 507,692,Olopatadine Hydrochloride Ophthalmic Solution IP 0.1% w/v,10 ml Vial,42.19
@@ -536,7 +536,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 535,740,Clarithromycin Tablets IP 250 mg,10's,76.88
 536,741,Cefpodoxime Proxetil Dispersible Tablets 50 mg,10's,27.19
 537,746,Valganciclovir Hydrochloride Tablets USP 450 mg,10's,1740.0
-538,747,Glimepiride Tablets  IP 3mg,10's,6.81
+538,747,Glimepiride Tablets IP 3mg,10's,6.81
 539,748,Glimepiride Tablets IP 4mg,10's,8.25
 540,752,Clotrimazole Powder 1%,100 gm Powder,62.39
 541,753,Clotrimazole 1%w/v and Beclometasone Dipropionate 0.025%w/v Lotion,15 ml,26.25
@@ -557,7 +557,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 556,786,Amitriptyline Hydrochloride Tablets IP 10mg,10's,6.81
 557,788,Anastrozole Tablets IP 1mg,10's,73.13
 558,790,Aspirin Enteric Coated Tablets IP 75mg,14's,2.81
-559,791,Atenolol 25mg and Amlodipine 5mg Tablets IP,14's,15.0
+559,791,Atenolol 25mg and Amlodipine 5mg Tablets IP,14's,16.5
 560,793,Atenolol Tablets IP 25mg,14's,6.19
 561,796,Aspirin Gastro-resistant 75mg and Atorvastatin 10mg Capsules IP,10's,16.5
 562,797,Atracurium Besylate Injection I.P 25mg per 2.5ml,2.5 ML,22.03
@@ -565,7 +565,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 564,804,Betamethasone Injection IP 4 mg per ml,1 ml,2.81
 565,806,Bicalutamide Tablets IP 50mg,10's,128.44
 566,807,Biphasic Isophane Insulin Injection IP 100 IU/ml (30:70 ) (30% Soluble Insulin and 70% Isophane Insu,3 ml Catridge,181.5
-567,809,Bortezomib Injection IP 3.5 mg,Vial,928.13
+567,809,Bortezomib Injection IP 3.5 mg,Vial,1020.94
 568,811,Bromfenac Sodium Eye Drop 0.09%w/v,5 ml,61.88
 569,812,Bromocriptine Mesylate Tablets IP 2.5mg,10's,82.5
 570,814,Cabergoline Tablets IP 0.5mg,4's,159.38
@@ -610,7 +610,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 609,912,Hydrochlorothiazide Tablets IP 12.5mg,10's,5.63
 610,913,Hydrocortisone Sodium Succinate Injection IP 100mg,Vial,20.0
 611,915,Hydroxyzine Hydrochloride Tablets IP 10mg,10's,7.22
-612,916,Imatinib Mesylate Tablets IP 400mg,10's,210.94
+612,916,Imatinib Mesylate Tablets IP 400mg,10's,232.03
 613,917,Imipramine Hydrochloride Tablets IP 25mg,10's,4.69
 614,920,Soluble Insulin Injection IP 100 IU per ml (R-DNA Origin),3 ml Catridge,170.0
 615,922,Isopropyl Alcohol IP (70%) (Spirit),100 ML bottle,40.0
@@ -619,7 +619,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 618,926,Ketoconazole Cream 2% w/w,15 gm Tube,20.42
 619,931,Lamotrigine Tablets 100mg,10's,41.25
 620,933,Leflunomide Tablets IP 20mg,10's,69.38
-621,934,Lenalidomide  Capsules 10mg,10's,435.0
+621,934,Lenalidomide Capsules 10mg,10's,435.0
 622,935,Letrozole Tablets IP 2.5mg,10's,31.88
 623,936,Leuprolide Acetate Injections 3.75mg,1's,1687.5
 624,938,Levocarnitine Injections 1gm,5 ml,65.63
@@ -643,14 +643,14 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 642,975,Nebivolol 5mg and Hydrochlorothiazide 12.5mg Tablets,10's,61.88
 643,976,Nebivolol Tablets IP 2.5mg,10's,16.5
 644,978,Nepafenac Eye Drop 0.1% W/V,5 ml,61.88
-645,986,Nitrazepam Tablets I.P 10mg,10's,8.44
+645,986,Nitrazepam Tablets I.P 10mg,10's,9.28
 646,987,Nitrofurantoin Tablets I.P 100mg,10's,18.15
 647,990,Olanzapine Tablets IP 10mg,10's,9.08
 648,991,Olanzapine Tablets IP 5mg,10's,6.81
 649,992,Olmesartan Medoxomil Tablets IP 20mg,10's,17.53
 650,993,Ondansetron Oral Solution IP 2 mg per 5ml,30 ml,14.06
 651,994,Oxaliplatin Injections IP 50mg,Vial,445.31
-652,997,Paclitaxel Injection IP 100mg  (6mg/ml),Vial,506.25
+652,997,Paclitaxel Injection IP 100mg (6mg/ml),Vial,506.25
 653,999,Paroxetine Prolonged Release Tablets IP 37.5mg,10's,60.0
 654,1003,Permethrin Cream 5% w/w,30 gm,22.5
 655,1005,Phenobarbitone Tablets IP 30mg,30's,15.94
@@ -679,12 +679,12 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 678,1073,Telmisartan 40mg and Metoprolol 25mg Tablets,10's,30.94
 679,1074,Telmisartan 80mg and Hydrochlorothiazide 12.5mg Tablets IP,10's,23.72
 680,1075,Teneligliptin Tablets IP 20mg,10's,20.63
-681,1076,Tenofovir Disoproxil Fumarate Tablets IP 300 mg,10's,183.75
-682,1081,Tizanidine Tablets I.P 2mg,10's,9.38
+681,1076,Tenofovir Disoproxil Fumarate Tablets IP 300 mg,10's,202.13
+682,1081,Tizanidine Tablets I.P 2mg,10's,10.31
 683,1087,Trihexyphenidyl Hydrochloride Tablets IP 2mg (Benzhexol Hydrochloride Tablets IP 2mg),10's,6.81
 684,1088,Trimetazidine Hydrochloride Modified Release Tablets 35 mg,10's,22.69
 685,1091,Vecuronium Bromide Injection I.P 4mg,Vial,45.0
-686,1097,Vitamin A Capsule IP 25000 IU,30's,15.0
+686,1097,Vitamin A Capsule IP 25000 IU,30's,16.5
 687,1098,Metformin Hydrochloride 500mg (Sustained Release) and Voglibose 0.2mg Tablets,10's,14.44
 688,1099,Metformin Hydrochloride 500mg and Voglibose 0.3mg Tablets,10's,17.02
 689,1104,Zoledronic Acid Injection IP 4mg per Vial,Vial,165.0
@@ -736,7 +736,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 735,1221,Thyroxine Sodium Tablets IP 50mcg,100's in Bottle,55.65
 736,1222,Artemether 80mg and Lumefantrine 480mg Tablets,6's,28.13
 737,1223,"Carbonyl Iron 50mg, Folic Acid 0.5mg and Zinc 61.8mg Capsules",15's,22.69
-738,1225,Orlistat Capsules 120 mg,10's,134.06
+738,1225,Orlistat Capsules 120 mg,10's,147.47
 739,1226,Triamcinolone Acetonide Injection IP 40mg per ml,1 ml Vial,46.88
 740,1227,Triamcinolone Tablets IP 4mg,10's,32.81
 741,1228,Gabapentin 300mg and Amitriptyline 10mg Tablets,10's,51.56
@@ -745,7 +745,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 744,1236,Albendazole Tablets IP 400mg,1's,3.4
 745,1238,Prazosin Hydrochloride Sustained Release Tablets 2.5 mg,30's,56.25
 746,1240,Gliclazide 80mg and Metformin Hydrochloride 500mg Tablets,10's,29.49
-747,1241,Cefaclor Dispersible Tablets 250 mg,10's,168.75
+747,1241,Cefaclor Dispersible Tablets 250 mg,10's,185.63
 748,1246,Fluconazole Tablets IP 150 mg,1's,5.68
 749,1248,"Haematinic Syrup of Iron 32mg ,Folic Acid 0.5mg and Vitamin B12 7.5mcg",200 ml Bottle,43.32
 750,1251,Vitamin B6 (Pyridoxine Hydrochloride) Tablets IP 100mg,10's,20.63
@@ -782,7 +782,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 781,1359,Naproxen Tablets IP 250 mg,15's,21.56
 782,1367,"Olmesartan 20mg, Amlodipine 5mg and Hydrochlorothiazide 12.5mg Tablets",10's,43.11
 783,1368,Olmesartan Medoxomil 20mg and Hydrochlorothiazide 12.5mg Tablets IP,10's,27.84
-784,1375,Phenobarbitone Tablets IP 60 mg,30's,26.25
+784,1375,Phenobarbitone Tablets IP 60 mg,30's,28.88
 785,1382,Prasugrel Tablets IP 10 mg,10's,61.88
 786,1383,Pregabalin 75mg and Nortriptyline 10mg Tablets,10's,35.17
 787,1384,Quetiapine Tablets IP 25 mg,10's,10.31
@@ -798,7 +798,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 797,1427,"Trypsin 48mg, Bromelain 90mg and Rutoside Trihydrate 100mg Tablets",10's,65.63
 798,1431,Valethamate Injection 8 mg per ml (For IM/IV use),1 ml Ampoule,9.28
 799,1432,Tobramycin Eye Drops 0.3%w/v,5 ml Vial,25.0
-800,1435,Capecitabine Tablets IP 500mg,10's,234.38
+800,1435,Capecitabine Tablets IP 500mg,10's,257.81
 801,1437,Cefpodoxime Proxetil Oral Suspension IP 50mg,30 ml,28.13
 802,1438,"Metformin Hydrochloride 500mg (Sustained Release), Glimepiride 2mg and Voglibose 0.2mg Tablets",10's,32.9
 803,1440,Janaushadhi Protein Powder 250g,1's Tin 250g,177.97
@@ -834,7 +834,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 833,1473,Hand Sanitizer 100 ml (Each pack contains: Ethanol 70% v/v and Chlorhexidine Gluconate 0.5% w/v),100 ml,40.0
 834,1474,Hand Sanitizer 500 ml (Each pack contains: Ethanol 70% v/v and Chlorhexidine Gluconate 0.5% w/v),500 ml,200.0
 835,1475,Hand Sanitizer 250 ml (Each pack contains: Ethanol 70% v/v and Chlorhexidine Gluconate 0.5% w/v),250 ml,100.0
-836,1476,Hydroxychloroquine Tablet IP 400 mg,10's,76.88
+836,1476,Hydroxychloroquine Tablet IP 400 mg,10's,74.18
 837,1479,Canagliflozin Tablets 100 mg,10's,174.38
 838,1480,Metformin 500mg (Prolonged release) and Glimepiride 0.5mg Tablets IP,10's,18.15
 839,1481,Metformin 1000mg (Prolonged release) and Glimepiride 1mg Tablets IP,10's,29.49
@@ -849,14 +849,14 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 848,1493,"Aceclofenac 100mg, Paracetamol 325mg and Thiocolchicoside 4mg Tablets",10's,51.56
 849,1495,"Aceclofenac 100mg, Paracetamol 325mg and Tizanidine 2mg Tablets",10's,18.75
 850,1496,Aciclovir Dispersible Tablets IP 400 mg,5's,28.13
-851,1497,Acitretin Capsules IP 25 mg,10's,234.38
+851,1497,Acitretin Capsules IP 25 mg,10's,257.81
 852,1498,Acotiamide Tablets 100mg,10's,68.44
 853,1501,Amantadine Hydrochloride Capsules IP 100 mg,10's,46.88
-854,1502,Amiodarone Tablets IP 100 mg,10's,29.06
+854,1502,Amiodarone Tablets IP 100 mg,10's,31.97
 855,1503,Amlodipine Besilate 5mg and Bisoprolol Fumarate 5mg Tablets,10's,18.56
 856,1504,Amorolfine Cream 0.25% w/w,30 g,51.56
 857,1505,Amoxycillin 400mg and Potassium Clavulanate 57mg Oral Suspension IP,30 ml,46.88
-858,1506,Amoxycillin 80mg and Potassium Clavulanate 11.4mg Oral Suspension IP,10 ml,32.81
+858,1506,Amoxycillin 80mg and Potassium Clavulanate 11.4mg Oral Suspension IP,10 ml,36.09
 859,1507,"Amoxycillin 250mg, Dicloxacillin 250mg and Lactic Acid Bacillus 2.5 billion Capsules",10's,45.0
 860,1508,Ampicillin 250mg and Cloxacillin 250mg Capsules,10's,28.13
 861,1509,Ampicillin 250mg and Di-Cloxacillin 250mg Capsules,10's,42.19
@@ -874,7 +874,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 873,1521,Azithromycin Oral Suspension IP 200 mg,15 ml,20.63
 874,1522,Beclomethasone 0.025%w/w and Clotrimazole 1%w/w Cream,20 g,23.44
 875,1523,Beclomethasone 0.025%w/v and Clotrimazole 1%w/v Lotion,30 ml,28.13
-876,1524,Bepotastine Besilate  Tablets 10mg,10's,60.94
+876,1524,Bepotastine Besilate Tablets 10mg,10's,60.94
 877,1525,Betahistine Tablets IP 16 mg,15's,16.5
 878,1526,Betahistine Tablets IP 24 mg,15's,22.5
 879,1527,"Betamethasone Valerate 0.12%w/w, Gentamicin 0.1%w/w and Miconazole Nitrate 2%w/w Cream",20 g,15.0
@@ -915,16 +915,16 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 914,1571,"Clidinium Bromide 2.5mg, Chlordiazepoxide 5mg and Dicyclomine Hydrochloride 10mg Tablets",10's,13.13
 915,1572,Clindamycin 1%w/w and Nicotinamide 4%w/w Gel,15 g,18.75
 916,1574,Clobazam Tablets IP 10 mg,15's,30.0
-917,1575,Clobetasol Propionate 0.05%w/w and Gentamicin 0.1%w/w Cream,25 g,12.19
+917,1575,Clobetasol Propionate 0.05%w/w and Gentamicin 0.1%w/w Cream,25 g,13.41
 918,1576,Clobetasol Propionate 0.05%w/w and Miconazole Nitrate 2%w/w Cream,15 g,26.25
 919,1577,Clobetasol Propionate 0.05%w/w and Neomycin Sulphate 0.5%w/w Cream,10 g,14.06
-920,1578,Clobetasol Propionate 0.05%w/w and Salicylic Acid 3%w/w Ointment,20g,28.13
+920,1578,Clobetasol Propionate 0.05%w/w and Salicylic Acid 3%w/w Ointment,20g,30.94
 921,1579,Clobetasol Propionate 0.05%w/w and Salicylic Acid 6%w/w Ointment,20g,32.81
 922,1580,"Clobetasol Propionate 0.05%w/w, Gentamicin 0.1%w/w and Miconazole Nitrate 2%w/w Cream",15 g,20.63
 923,1581,Clopidogrel 75mg and Aspirin 150mg Capsules,15's,58.13
 924,1582,Clotrimazole 1% w/v and Selenium Sulfide 2.5% w/v Suspension,75 ml,112.5
-925,1583,Clotrimazole Mouth Paint 1% w/v,25 ml,18.75
-926,1584,Coenzyme Q10 (Ubidecarenone) and L-Carnitine Tablets,10's,93.75
+925,1583,Clotrimazole Mouth Paint 1% w/v,25 ml,20.63
+926,1584,Coenzyme Q10 (Ubidecarenone) and L-Carnitine Tablets,10's,103.13
 927,1585,Colistimethate Sodium for Injection IP 1 Million IU,Vial (10 ml),168.75
 928,1586,Colistimethate Sodium for Injection IP 4.5 Million IU,Vial (10 ml),421.88
 929,1587,Colistin Sulphate Oral Suspension IP 12.5 mg per 5ml,30 ml,27.19
@@ -939,12 +939,12 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 938,1598,"Pancreatin 170 mg (containing 15000 units of Amylase activity, 4000 units of Lipase activity, 15000 units of Protease activity) and Sodium Tauroglycocholate 65mg Digestive Enzyme Tablets",10's,70.31
 939,1599,Diltiazem Hydrochloride Extended Release Capsules 120 mg,10's,32.81
 940,1601,Diphenoxylate Hydrochloride 2.5mg and Atropine sulphate 0.025mg Tablet,10's,5.63
-941,1602,Divalproex Tablets IP 500 mg,10's,32.81
+941,1602,Divalproex Tablets IP 500 mg,10's,36.09
 942,1603,Dorzolamide 2% w/v and Timolol 0.5% w/v Eye Drops IP,5 ml,150.0
 943,1604,Dorzolamide Eye Drops IP 2% w/v,5 ml,103.13
 944,1605,Dosulepin (or Dothiepin) Tablets 25 mg,10's,16.5
 945,1606,Dosulepine (or Dothiepin) Tablets IP 75mg,10's,67.5
-946,1607,Drotaverine Hydrochloride Tablets IP 80 mg,15's,18.75
+946,1607,Drotaverine Hydrochloride Tablets IP 80 mg,15's,20.63
 947,1608,"Efavirenz 600mg, Emtricitabine 200mg and Tenofovir Disoproxil Fumarate 300mg Tablets IP",30's,1031.25
 948,1609,Empagliflozin Tablets 10 mg,10's,37.5
 949,1610,Empagliflozin Tablets 25 mg,10's,61.88
@@ -961,7 +961,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 960,1624,Flupentixol 0.5mg and Melitracen 10mg Tablets,10's,18.75
 961,1625,Fluticasone Propionate Cream IP 0.05%,10 g,18.75
 962,1626,Formoterol Fumarate 6mcg and Budesonide 200mcg Inhaler,120 MD,154.69
-963,1627,Formoterol Fumarate 6mcg and Budesonide 400mcg Inhaler,120 MD,164.06
+963,1627,Formoterol Fumarate 6mcg and Budesonide 400mcg Inhaler,120 MD,180.47
 964,1628,Formoterol Fumarate 12mcg and Budesonide 400mcg Powder for Inhalation IP,30's,93.75
 965,1630,Formoterol Fumarate 6mcg and Budesonide 400mcg Powder for Inhalation IP,30's,79.69
 966,1631,Formoterol Fumarate 20mcg and Budesonide 0.5mg Respirator Suspension,2 ml,15.47
@@ -985,8 +985,8 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 984,1661,Hydroxypropylmethylcellulose Eye Drop 0.3% w/v,10 ml,28.13
 985,1662,Hydroxyzine Tablets IP 25mg,15's,11.25
 986,1663,Hyoscine Butylbromide 10mg and Mefenamic Acid 250mg Tablets,10's,46.88
-987,1664,Ibuprofen 100mg and Paracetamol/Acetaminophen 162.5mg Oral Suspension,100 ml,21.56
-988,1665,Indacaterol 110mcg and Glycopyrronium 50mcg powder for Inhalation,30 capsules and 1 inhaler,686.25
+987,1664,Ibuprofen 100mg and Paracetamol/Acetaminophen 162.5mg Oral Suspension,100 ml,23.72
+988,1665,Indacaterol 110mcg and Glycopyrronium 50mcg powder for Inhalation,30 capsules and 1 inhaler,515.47
 989,1668,"Carbonyl Iron 100mg, Folic Acid 1.5mg and Vitamin B12 15mcg with Zinc Capsules",10's,14.06
 990,1669,Isosorbide 20mg and Hydralazine 37.5mg Tablets,10's,0.0
 991,1670,Isotretinoin Capsules IP 20mg,10's,46.88
@@ -1006,7 +1006,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1005,1685,Levodropropizine 30mg and Chlorpheniramine Maleate 2mg Syrup,120 ml,38.44
 1006,1686,Levosalbutamol 100mcg and Beclomethasone 100mcg Rotacaps,60 s in container,58.13
 1007,1687,Levosalbutamol 100mcg and Beclomethasone 50mcg Rotacaps,200 MDI,0.0
-1008,1688,Levosalbutamol 100mcg and Beclomethasone 200mcg Rotacaps,30's,53.63
+1008,1688,Levosalbutamol 100mcg and Beclomethasone 200mcg Rotacaps,30's,58.99
 1009,1689,Levosalbutamol 1.25mg and Budesonide 0.5mg respules,2ml respules,25.31
 1010,1690,Levosalbutamol 100mcg and Ipratropium 40mcg Rotacap,60 s in container,70.31
 1011,1692,Levosalbutamol Respules 0.63mg per 2.5ml,2.5 ml,5.34
@@ -1025,7 +1025,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1024,1712,"Janaushadhi Mosquito Repellent Cream (N, N-Diethyl Benzamide 12% w/w Mosquito Repellent Cream)",50 gm,30.0
 1025,1714,Naproxen 250 mg and Domperidone 10 mg Tablet,10's,28.13
 1026,1715,Naproxen 500 mg and Domperidone 10 mg Tablet,10's,48.75
-1027,1716,Nebivolol 5 mg  and S- Amlodipine 2.5 mg Tablet,10's,23.44
+1027,1716,Nebivolol 5 mg and S- Amlodipine 2.5 mg Tablet,10's,23.44
 1028,1717,"Neomycin 3400IU, Polymyxin B Sulfates 5000IU and Bacitracin Zinc 400IU Ophthalmic Ointment",5 g,17.53
 1029,1718,Nicorandil Tablet IP 10mg,10's,51.57
 1030,1719,Nicorandil Tablet IP 5mg,10's,41.25
@@ -1041,13 +1041,13 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1040,1733,Omeprazole Gastro-resistant 20mg and Domperidone Sustained Release 30mg Capsules,15's,28.36
 1041,1737,Oxaceprol Capsules 200mg,10's,93.75
 1042,1738,L-Ornithine L-Aspartate 150mg and Pancreatin 100mg Tablets,10's,18.75
-1043,1739,Pancreatin Capsules 10000,10's,84.38
+1043,1739,Pancreatin Capsules 10000,10's,92.81
 1044,1740,Pancreatin Capsules 25000,10's,196.88
 1045,1741,Pantoprazole 20mg (Gastro-resistant) and Domperidone 10mg (Prolonged Release) Capsules IP,10's,20.63
 1046,1742,Paracetamol Infusion IP 1 gm per 100 ml,100 ml,46.88
-1047,1743,Paracetamol Drops 100 mg per ml,15 ml,12.19
+1047,1743,Paracetamol Drops 100 mg per ml,15 ml,13.41
 1048,1744,"Paracetamol 125 mg, Phenylephrine 2.5 mg and Chlorpheniramine 1 mg Drops",15 ml,18.75
-1049,1745,"Paracetamol 125 mg, Phenylephrine 5 mg and Chlorpheniramine 1 mg Suspension",60 ML,20.63
+1049,1745,"Paracetamol 125 mg, Phenylephrine 5 mg and Chlorpheniramine 1 mg Suspension",60 ML,22.69
 1050,1747,Paracetamol 162.5 mg and Tramadol 18.75 mg Tablet,10's,9.38
 1051,1749,"Paracetamol 250 mg, Phenylephrine 5 mg and Chlorpheniramine 2 mg Suspension",60 ML,23.44
 1052,1751,Paracetamol 500mg and Caffeine 25mg Tablet IP,10's,11.25
@@ -1117,7 +1117,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1116,1834,Valacyclovir Tablets 1000mg,3's,103.13
 1117,1837,Vildagliptin 50mg and Metformin Hydrochloride 850mg Tablets IP,15's,30.0
 1118,1841,Vitamin D3 Oral Solution 60000 IU,5 ml,25.78
-1119,1842,Vitamine B  Complex injection (IM/IV) Use,2 ml,0.0
+1119,1842,Vitamine B Complex injection (IM/IV) Use,2 ml,0.0
 1120,1843,"Voglibose 0.2mg, Glimepiride 1mg and Metformin Hydrochloride 500mg (Sustained Release) Tablets",10's,30.94
 1121,1844,"Voglibose 0.2mg, Glimepiride 2mg and Metformin Hydrochloride 1000mg (Sustained Release) Tablets",10's,23.44
 1122,1845,"Voglibose 0.3mg, Glimepiride 2mg and Metformin Hydrochloride 1000mg (Sustained Release) Tablets",10's,33.75
@@ -1131,7 +1131,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1130,1854,Alfuzosin Prolonged-release Tablets IP 10mg,10's,42.19
 1131,1855,Alfuzosin 10mg and Dutasteride 0.5mg Tablets,10's,56.25
 1132,1856,Disodium Hydrogen Citrate Syrup 1.53gm per 5ml,100ml Bottle,28.13
-1133,1857,Citric Acid 334mg and Potassium Citrate 1100mg Syrup per 5ml,200ml Bottle,46.88
+1133,1857,Citric Acid 334mg and Potassium Citrate 1100mg Syrup per 5ml,200ml Bottle,51.56
 1134,1858,Darifenacin Prolonged Release Tablets IP 7.5mg,10's,89.06
 1135,1859,Disodium Hydrogen Citrate Syrup 1.37gm per 5ml,100ml Bottle,42.19
 1136,1860,Dutasteride Capsule IP 0.5 mg,10's,46.88
@@ -1236,28 +1236,28 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1235,1969,Repaglinide 1mg and Metformin Hydrochloride (Sustained-release) 500mg Tablets IP,10's,28.13
 1236,1970,Repaglinide 2mg and Metformin Hydrochloride (Sustained-release) 500mg Tablets IP,10's,32.81
 1237,1971,"Amoxycillin 200Mg , Clavulanic Acid 28.5Mg And Lactic Acid Bacillus 60 Million Spore Dry syrup",30 ml Bottle,30.0
-1238,1972,"Amoxycillin 500mg, Clavulanic Acid 125mg and Lactic Acid Bacillus 60 Million Spores Tablets",10's,93.75
-1239,1973,"Amoxycillin 200Mg , Clavulanic Acid 28.5Mg  And Lactic Acid Bacillus 30 Million Spore Dry syrup",30 ml Bottle,0.0
+1238,1972,"Amoxycillin 500mg, Clavulanic Acid 125mg and Lactic Acid Bacillus 60 Million Spores Tablets",10's,103.13
+1239,1973,"Amoxycillin 200Mg , Clavulanic Acid 28.5Mg And Lactic Acid Bacillus 30 Million Spore Dry syrup",30 ml Bottle,0.0
 1240,1974,"Amoxycillin 250mg, Cloxacillin 250mg And Lactic Acid Bacillus 100 Million Spore Capsules",6's,0.0
-1241,1975,"Amoxycillin 125Mg , Cloxacillin 125Mg And  Lactic Acid Bacillus 60   Million Spore Tablets",10's,0.0
-1242,1976,"Amoxycillin 250Mg, Dicloxacillin 250Mg And  Lactic Acid Bacillus 60  Million Spore Capsule",10's,32.82
-1243,1978,Cefdinir Capsule IP 300mg,10's,140.63
+1241,1975,"Amoxycillin 125Mg , Cloxacillin 125Mg And Lactic Acid Bacillus 60 Million Spore Tablets",10's,0.0
+1242,1976,"Amoxycillin 250Mg, Dicloxacillin 250Mg And Lactic Acid Bacillus 60 Million Spore Capsule",10's,32.82
+1243,1978,Cefdinir Capsule IP 300mg,10's,154.69
 1244,1979,Cefdinir Oral Suspension IP 125mg per 5ml,30ml with Water for Reconstitution,58.13
 1245,1980,Tolperisone Tablet 150mg,10's,14.06
 1246,1981,Cefixime 50Mg  And  Clavulanic Acid  31.25 Mg Dry syrup,30ml with Water for Reconstitution,37.5
-1247,1982,Cefixime 100Mg And  Clavulanic Acid  62.5 Mg Tablets,10's,65.63
+1247,1982,Cefixime 100Mg And Clavulanic Acid 62.5 Mg Tablets,10's,65.63
 1248,1984,Cefprozil Oral Suspension 125mg per 5ml,30ml,51.56
 1249,1985,Cefprozil Oral Suspension 250mg per 5ml,30ml,93.75
 1250,1986,Cefprozil Tablet 500 mg,6's,168.75
 1251,1987,Cefprozil Tablet 250 mg,10's,140.63
-1252,1989,Ceftazidime 250mg And  Tazobactum 31.25mg Injection,Vial & Wfi,32.81
+1252,1989,Ceftazidime 250mg And Tazobactum 31.25mg Injection,Vial & Wfi,32.81
 1253,1990,Ceftazidime 1000 mg And Tazobactum 125 mg Injection,Vial with WFI,84.38
 1254,1991,Moxifloxacin 400mg and Cefixime 400mg Tablet,10's,159.38
 1255,1992,"Bacitracin 400 IU, Neomycin 3400 IU and Polymyxin B 5000 IU Opthalmic Ointment",10 gm Tube,48.75
 1256,1993,Glycolic Acid 1% w/w and Aloe Vera 5% w/w Face Wash,100gm Tube,56.25
 1257,1994,"Glycolic Acid 1% w/w, Aloe Vera 5% w/w and Salicylic Acid 2% w/w Facewash",60ml Flip top Lemitube,0.0
 1258,1995,Selenium Sulphide Shampoo 1% w/w,60ml Flip top Jar,89.06
-1259,1996,"Aceclofenac 100Mg,  Paracetamol 325Mg  And Trypsin-Chymotrypsin 150000Au Tablets",10's,37.5
+1259,1996,"Aceclofenac 100Mg, Paracetamol 325Mg And Trypsin-Chymotrypsin 150000Au Tablets",10's,37.5
 1260,1999,Carboprost Injection 125mcg,0.5ml Ampoule,45.94
 1261,2000,Dinoprostone Gel 0.5 mg (Pre-filled syringe),3gm Pre-filled Syringe,113.44
 1262,2002,Ethinylestradiol 0.035 Mg And Cyproterone 2 Mg Tablet,21's Monopack,90.0
@@ -1266,15 +1266,15 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1265,2005,Potassium Nitrate Toothpaste 5% w/w,100gm,46.41
 1266,2006,Sodium Bicarbonate Tablet 500 mg,10's,10.32
 1267,2007,Sodium Bicarbonate Tablet 1000 mg,10's,15.47
-1268,2008,"Simethicone 40Mg , Dill Oil 0.005Ml And  Fennel Oil 0.0007Ml Drops",30ml Oral Drops,18.75
+1268,2008,"Simethicone 40Mg , Dill Oil 0.005Ml And Fennel Oil 0.0007Ml Drops",30ml Oral Drops,18.75
 1269,2009,Silymarin Tablet 140 mg,10's,28.13
 1270,2010,Racecadotril Sachet IP 10mg,1gm Sachet,4.69
 1271,2011,Racecadotril Sachet IP 15mg,1gm Sachet,5.16
 1272,2012,Racecadotril Sachet IP 30mg,3gm Sachet,5.63
-1273,2014,Daclatasvir Tablets 60 mg,28's Bottle,871.88
+1273,2014,Daclatasvir Tablets 60 mg,28's Bottle,959.06
 1274,2015,Nebivolol 5mg and Telmisartan 40mg Tablets,10's,46.88
 1275,2016,Minoxidil Tablets IP 10mg,10's,18.75
-1276,2017,Ulipristal Acetate Tablets  5mg,10's,445.31
+1276,2017,Ulipristal Acetate Tablets 5mg,10's,445.31
 1277,2018,Mesalazine Prolonged release Tablets IP 500mg,10's,70.31
 1278,2020,Desmopressin Tablets 0.1 mg,15's in bottle,0.0
 1279,2022,Ropinirole Tablets IP 1 mg,10's,18.75
@@ -1287,13 +1287,13 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1286,2029,Tacrolimus Capsule IP 1 mg,10's,103.13
 1287,2030,Tacrolimus Capsule IP 0.25 mg,10's,42.19
 1288,2031,Sofosbuvir 400mg and Velpatasvir 100mg Tablets,28's Bottle,0.0
-1289,2032,Atazanavir 300mg and Ritonavir 100mg Tablets IP,30's Bottle,768.75
+1289,2032,Atazanavir 300mg and Ritonavir 100mg Tablets IP,30's Bottle,845.63
 1290,2033,Sodium Hyaluronate Eye Drops 0.1% w/v,10ml Drops,46.88
 1291,2034,Voriconazole Tablets IP 200mg,4's,328.13
 1292,2035,Potassium Citrate 1100 mg and Magnesium Citrate 375 mg and Pyridoxine Hydrochloride 20mg Syrup per 5ml,200ml,60.94
 1293,2037,Esomeprazole Gastro-Resistance Tablets IP 20mg,10's,9.38
 1294,2038,Pantoprazole Gastro-Resistance Tablets IP 20mg,10's,7.22
-1295,2040,L-Ornithine L-Aspartate 150mg and Pancreatin 100mg Tablets,10's,28.13
+1295,2040,L-Ornithine L-Aspartate 150mg and Pancreatin 100mg Tablets,10's,30.94
 1296,2041,Tadalafil 10Mg And Dapoxetine 30 Mg Tablets,4's,65.63
 1297,2043,Domperidone 10mg and Paracetamol 325mg Tablets,10's,0.0
 1298,2044,Levonorgestrel Tablet IP 1.5 mg,1's in Monopack,20.0
@@ -1306,7 +1306,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1305,2051,"L-Carnitine-L-Tartrate 1000Mg, Co-Enzyme Q10 60Mg, Zinc Oxide (As Elemental Zinc) 12.5Mg, Lycopene 2500Mcg Tablets",10's,194.06
 1306,2052,Atorvastatin 10mg And Cholecalciferol 1000 IU Tablet,10's,18.75
 1307,2053,Telmisartan 40mg and Atorvastatin 10mg Tablet,10's,14.06
-1308,2054,"Mecobalamin 1500 mcg, Alpha Lipoic Acid 100mg, Inositol 100mg, Folic Acid 1.5mg, Chromium Picolinate 200mcg, Selenium Dioxide 55mcg and Benfotiamine 150 mg Soft gel Capsule",10's,56.25
+1308,2054,"Mecobalamin 1500 mcg, Alpha Lipoic Acid 100mg, Inositol 100mg, Folic Acid 1.5mg, Chromium Picolinate 200mcg, Selenium Dioxide 55mcg and Benfotiamine 150 mg Soft gel Capsule",10's,61.88
 1309,2055,Halobetasol Propionate Ointment 0.05% w/w,15gm Lemi Tube,28.13
 1310,2056,"Chlorhexidine Gluconate 1% w/w, Metronidazole 1% w/w and Lidocaine 2% w/w dental Gel",15 gm Lami Tube,18.75
 1311,2058,"Ofloxacin 0.3% w/v, Dexamethasone 0.1% w/v, Benzalkonium Chloride (As Preservative) 0.005% w/v Eye Drops",5ml Drops,9.38
@@ -1349,23 +1349,23 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1348,2104,Divalproex Sodium Extended Release Tablets IP 250 mg,10's,23.44
 1349,2105,Dosulepin (Dothiepin) Tablets IP 50mg,10's,28.13
 1350,2106,Doxofylline (Sustained-release) 400mg and Montelukast 10mg Tablets,10's,60.94
-1351,2107,Etizolam 0.5mg and Propranolol Hydrochloride 20mg Tablets,10's,18.75
+1351,2107,Etizolam 0.5mg and Propranolol Hydrochloride 20mg Tablets,10's,20.63
 1352,2108,Frusemide 20mg and Spironolactone 25mg Tablets,10's,0.0
 1353,2109,Glucosamine Tablets USP 500mg,30's in Bottle,75.0
 1354,2110,Isosorbide Mononitrate Sustained release Tablets 50mg,10's,0.0
 1355,2111,Isotretinoin Capsules IP 10mg,10's,28.13
 1356,2112,Ketorolac Tromethamine Ophthalmic Solution 0.4% w/v,5ml Drops,0.0
-1357,2113,Lacosamide Tablets 100mg,10's,52.5
+1357,2113,Lacosamide Tablets 100mg,10's,57.75
 1358,2114,Methotrexate Tablets IP 10mg,10's,30.0
 1359,2115,Methotrexate Tablets IP 5mg,10's,20.0
 1360,2116,Methylprednisolone Tablets IP 16mg,10's,37.5
 1361,2117,"Metoprolol Succinate (Extended-relase) 50mg, Telmisartan 40mg and Chlorthalidone 12.5mg Tablets",10's,23.44
 1362,2118,Metoprolol Succinate Extended Release Tablets IP 12.5mg,10's,9.38
-1363,2119,Miconazole Nitrate Cream IP 2% w/w,15gm Tube,11.25
-1364,2120,Mometasone Aqueous Nasal Spray IP 0.05%w/v (nasal suspension in a pressurise container),120 MDI,95.63
+1363,2119,Miconazole Nitrate Cream IP 2% w/w,15gm Tube,12.38
+1364,2120,Mometasone Aqueous Nasal Spray IP 0.05%w/v (nasal suspension in a pressurise container),120 MDI,105.19
 1365,2122,Mycophenolate Sodium Gastro-resistant Tablets 360mg,10's,145.0
 1366,2123,Metformin Hydrochloride (sustained-relase) 500mg and Myo-Inositol 600mg Tablets,10's,82.5
-1367,2124,Nitroglycerin Controlled Release Tablets 6.4 mg,30's in Bottle,51.56
+1367,2124,Nitroglycerin Controlled Release Tablets 6.4 mg,30's in Bottle,56.72
 1368,2125,Nortriptyline Tablets IP 10mg,10's,9.38
 1369,2126,Ondansetron Orally disintegrating Tablets IP 8mg,10's,10.31
 1370,2127,Oxcarbazepine Tablets IP 150mg,10's,36.09
@@ -1382,7 +1382,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1381,2138,Torsemide Tablets IP 100mg,10's,46.88
 1382,2139,Valsartan Tablets IP 40 mg,10's,18.75
 1383,2140,Verapamil Tablets IP 40mg,10's,4.22
-1384,2141,Warfarin Tablets IP 1mg,10's,14.06
+1384,2141,Warfarin Tablets IP 1mg,10's,13.23
 1385,2142,Warfarin Tablets IP 2mg,10's,14.06
 1386,2143,Zinc Sulphate Dispersible Tablets IP 20mg,10's,9.38
 1387,2144,Pyridostigmine Bromide Tablets IP 60mg,10's,67.5
@@ -1391,7 +1391,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1390,2147,Estradiol Tablets 2mg,28's,103.13
 1391,2148,Atorvastatin Tablets IP 80mg,10's,32.81
 1392,2149,"Pre & Pro-Biotic Capsules (Bacillus Mesentericus - 2M, Clostridium Butyricum - 4M, Lactobacillus Sporogenes - 100M, Streptococcus Faecalis - 60M)",10's,51.56
-1393,2150,Beclomethasone Dipropionate Inhalation IP 200mcg,200 MDI,140.63
+1393,2150,Beclomethasone Dipropionate Inhalation IP 200mcg,200 MDI,154.69
 1394,2151,Beclomethasone Dipropionate Inhalation IP 100mcg,200 MDI,124.69
 1395,2152,Beclomethasone Dipropionate 100mcg Rotacaps IP,30's in Plastic container,0.0
 1396,2153,Beclomethasone Dipropionate Rotacaps 200mcg,30's in Plastic container with monocarton,66.43
@@ -1402,7 +1402,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1401,2159,Cefpodoxime 200mg and Ofloxacin 200mg Tablets,10's,100.31
 1402,2160,"Clindamycin 100mg, Clotrimazole 100mg and Tinidazole 100mg Soft Gelatin Capsule (For Vaginal Use)",7's,65.63
 1403,2161,Diethylcarbamazine 150mg Tablets,10's,10.0
-1404,2162,Eberconazole Cream 1% w/w,30g Lemitube,121.88
+1404,2162,Eberconazole Cream 1% w/w,30g Lemitube,134.06
 1405,2163,Enalapril Maleate Tablets IP 2.5mg,10's,6.56
 1406,2164,Esomeprazole Magnessium 40mg (Enteric Coated ) and Itopride Hydrochloride 150mg (Sustained Release) Capsules.,10's,46.88
 1407,2165,Evogliptin 5mg and Metformin Hydrochloride Sustained Release 1000mg Tablets,10's,0.0
@@ -1427,7 +1427,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1426,2184,Moxifloxacin 0.5 %w/v and Prednisolone Acetate 1%w/v Eye Drops,5ml Drops,18.75
 1427,2185,Moxonidine Tablets 0.2mg,10's,33.75
 1428,2186,Oxcarbazepine Tablets IP 450mg,10's,106.88
-1429,2187,Oxcarbazepine Tablets IP 600 mg,10's,115.31
+1429,2187,Oxcarbazepine Tablets IP 600 mg,10's,126.84
 1430,2188,Paroxetin Prolonged-release Tablets IP 25mg,10's,37.5
 1431,2189,Paroxetine Prolonged-release Tablets IP 12.5mg,10's,23.44
 1432,2190,Pramipexole Dihydrochloride Tablets 0.25mg,10's,45.94
@@ -1460,13 +1460,13 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1459,2219,Hydroxyprogesterone Injection 250mg,1ml ampoule in Mono blister pack,28.13
 1460,2220,Hydroxyprogesterone Injection IP 500mg,2ml Ampoule in Mono blister,46.88
 1461,2221,Alpha Ketoanalouge and Essential Amino Acid Tablets,10's,80.0
-1462,2222,Allopurinol Tablets IP 300 mg,10's,28.13
+1462,2222,Allopurinol Tablets IP 300 mg,10's,30.29
 1463,2223,Amisulpride Tablets IP 300mg,10's,75.0
 1464,2224,Acarbose 50mg and Metformin Hydrochloride 500mg Tablets,10's,77.81
 1465,2225,Acetylcysteine Effervescent Tablets 600mg,10's,126.56
 1466,2226,Alendronate Sodium Tablets USP 70mg,4's,18.75
 1467,2227,"Amlodipine 5 mg, Losartan Potassium 50 mg & Hydrochlorothiazide 12.5 mg Tablets",10's,23.44
-1468,2228,Amlodipine 5mg and Perindopril 4mg Tablets,10's,28.13
+1468,2228,Amlodipine 5mg and Perindopril 4mg Tablets,10's,30.94
 1469,2229,Amorphous Hydrogel Wound Dressing with Colloidal Silver,10gm Lami Tube,0.0
 1470,2238,Protein Powder (100% Whey Protein) 1 kg (2.2 lbs) Jar,1 kg (2.2 lbs) Jar,1333.86
 1471,2239,Cereal Based Foods Products (for Baby above 6 months),300g Mono Carton,0.0
@@ -1480,11 +1480,11 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1479,2247,Janaushadhi Women Protein (Vanilla) 250 gm,250g Jar,204.66
 1480,2248,"Janaushadhi Poshan (Malt based food with Cocoa, 30gm)",30g Sachet,8.9
 1481,2249,"Abacavir 600mg, Dolutegravir 50mg and Lamivudine 300mg Tablets",30's Bottle,2718.75
-1482,2250,Abacavir 600mg and Lamivudine 300mg Tablets,30's Bottle,867.19
+1482,2250,Abacavir 600mg and Lamivudine 300mg Tablets,30's Bottle,953.91
 1483,2251,Recombinant Human Tissue type Plasminogen Activator Injection 20mg (Alteplase),Vial with WFI and Transfer canula in Mono Carton,0.0
 1484,2252,Recombinant Human Tissue type Plasminogen Activator Injection 50mg (Alteplase),Vial with WFI and Transfer canula in Mono Carton,0.0
 1485,2253,Bisacodyl Suppositories IP 5mg,5's,0.0
-1486,2254,Caffeine Citrate Injection 20mg/ml,2ml vial,93.75
+1486,2254,Caffeine Citrate Injection 20mg/ml,2ml vial,103.13
 1487,2255,Colchicine Tablets 0.5mg,10's,9.38
 1488,2256,Midazolam Injection 10mg,10ml vial,28.13
 1489,2257,Rituximab 100mg/10ml Injection,10ml vial,3750.0
@@ -1493,7 +1493,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1492,2260,Salicylic Acid 3% powder,150gm bottle,0.0
 1493,2261,Salicylic Acid 2% w/v Foaming Facewash,60ml Lami Tube,65.63
 1494,2262,Somatotropin 4 IU (Recombinant Human Growth Hormone) Powder for Injection,Vial with WFI in Mono Carton,0.0
-1495,2263,Thiamine Hydrochloride Injection IP 100mg/ml,2ml vial,14.06
+1495,2263,Thiamine Hydrochloride Injection IP 100mg/ml,2ml vial,15.47
 1496,2264,"Mecobalamin 1500mcg, Folic Acid 0.7mg and Niacinamide 100mg Injection (Painless)",2ml vial,18.75
 1497,2265,Multivitamin Syrup Chocolate Flavour,200ml Bottle,0.0
 1498,2266,Nicotine 2mg Oral Disintegrating Strips,12's in Mono Carton,74.0
@@ -1504,7 +1504,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1503,2271,Vitamin D3 60000 IU Oral Disintegrating Strips,10's in Mono Carton,84.38
 1504,2272,Dapagliflozin 5mg and Sitagliptin 50mg Tablets,10's,37.5
 1505,2273,Dapagliflozin 10mg and Sitagliptin 100mg Tablets,10's,65.63
-1506,2274,Pregabalin 75mg and Duloxetin (Delayed Release) 30mg Capsules,10's,46.88
+1506,2274,Pregabalin 75mg and Duloxetin (Delayed Release) 30mg Capsules,10's,51.56
 1507,2275,Pregabalin 75mg and Duloxetin (Delayed Release) 20mg Capsules,10's,42.19
 1508,2276,Pregabalin 50mg and Duloxetin (Delayed Release) 20mg Capsules,10's,32.81
 1509,2277,Bempedoic Acid Tablets 180mg,10's,112.5
@@ -1513,8 +1513,8 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1512,2280,Dextromethorphan Hydrobromide Lozenges 5mg,10's,0.0
 1513,2281,"Vitamin A 600mcg, Vitamin C 500mg, Vitamin D3 1000 IU and Zinc 50mg Chewable Tablets",10's,0.0
 1514,2282,"Para Aminobenzoic Acid100mg, Calcium Pant 100mg, Niacinamide12mg, L-Arginine50mg L-Cysteine50mg, DL-Methionine40mg, L-Lysine20mg, Zinc25mg, Inositol 10mg, Biotin10mg, Ferrous10mg, Copper2mg Tablets",10's,0.0
-1515,2283,Abiraterone Acetate Tablets 250mg,120's bottle,0.0
-1516,2284,Acamprosate Calcium Tablets 333mg,6's,46.88
+1515,2283,Abiraterone Acetate Tablets 250mg,120's bottle,6000.0
+1516,2284,Acamprosate Calcium Tablets 333mg,6's,51.56
 1517,2285,"Myo-Inositol 1000mg, L-Methyl Folate 100mcg, Vitamin D3 1000 IU, Acetylcysteine 600mg, L-Arginine 100mg Tablets",10's,0.0
 1518,2286,Adapalene 0.1% w/w and Benzoyl Peroxide 2.5% w/w Gel,15gm Lami Tube,23.44
 1519,2287,Alogliptin 25mg Tablets,10's,0.0
@@ -1526,16 +1526,16 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1525,2293,Bosentan 62.5mg Tablets,10's,351.56
 1526,2294,Brinzolamide 10mg and Brimonidine 2mg Ophthalmic Suspension 5ml,5ml in Mono Carton,0.0
 1527,2295,Brivaracetam Tablets IP 50mg,10's,79.69
-1528,2296,"Calcitriol 0.25mcg, Calcium Carbonate 500mg, Vitamin K27 45mcg, Methylcobalamin 1500mcg, Zinc 7.5mg, Magnesium 50mg and L- Methylfolate 800mcg Capsules",10's,46.88
-1529,2297,"Calcium (Calcium Carbonate) 1250mg, Vitamin D3 2000 IU, Mecobalamin (Vitamin B12) 1500mcg, L-Methylfolate Calcium (Vitamin B9) 1mg, Pyridoxal-5-Phosphate (Vitamin B6) 20mg Tablets",10's,37.5
-1530,2298,"Calcium Citrate 1000mg, Magnesium 100mg, Zinc 4mg and Vitamin D3 200 IU Tablets",10's,14.06
+1528,2296,"Calcitriol 0.25mcg, Calcium Carbonate 500mg, Vitamin K27 45mcg, Methylcobalamin 1500mcg, Zinc 7.5mg, Magnesium 50mg and L- Methylfolate 800mcg Capsules",10's,51.56
+1529,2297,"Calcium (Calcium Carbonate) 1250mg, Vitamin D3 2000 IU, Mecobalamin (Vitamin B12) 1500mcg, L-Methylfolate Calcium (Vitamin B9) 1mg, Pyridoxal-5-Phosphate (Vitamin B6) 20mg Tablets",10's,41.25
+1530,2298,"Calcium Citrate 1000mg, Magnesium 100mg, Zinc 4mg and Vitamin D3 200 IU Tablets",10's,15.47
 1531,2299,Nadifloxacin 1% w/w and Clobetasol Propionate 0.05% 10 gm skin cream,10gm Lami Tube,32.81
 1532,2301,Dapoxetine Tablets IP 30mg,4's,14.06
 1533,2302,Dasatinib 50mg Tablets,60's Bottle,1031.25
 1534,2303,Deflazacort 30mg and Tamsulosin 0.4mg Tablets,10's,187.5
 1535,2304,Desvenlafaxine Extended Release 50mg and Clonazepam 0.5mg Tablets,10's,30.94
 1536,2305,Desvenlafaxine Extended Release 100mg and Clonazepam 0.5mg Tablets,10's,56.25
-1537,2306,Desvenlafaxine Extended Release Tablets 50mg,10's,23.44
+1537,2306,Desvenlafaxine Extended Release Tablets 50mg,10's,25.78
 1538,2307,Desvenlafaxine Extended Release Tablets 100mg,10's,42.19
 1539,2308,Dexlansoprazole MR Capsules 60mg,10's,93.75
 1540,2309,"Paradichlorobenzene (2% w/v), Chlorbutol (5% w/v), Turpentine Oil (15% w/v) and Lidocaine (2% w/v) Ear drop",10ml Drop bottle in Mono Carton,28.13
@@ -1577,13 +1577,13 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1576,2347,S-Adenosyl L-Methionine 200mg Tablets,10's,112.5
 1577,2348,S-Adenosyl L- Methionine 400mg Tablets,10's,234.38
 1578,2349,Sevelamer 800mg Tablets,10's,75.0
-1579,2350,Tapentadol 100mg Extended Release Tablets,10's,60.94
+1579,2350,Tapentadol 100mg Extended Release Tablets,10's,67.03
 1580,2351,Tapentadol 50mg Tablets,10's,30.0
 1581,2352,Teneligliptin 20mg and Pioglitazone 15mg Tablets,10's,20.63
 1582,2353,Topiramate 100mg Tablets,10's,28.13
 1583,2354,Topiramate 50mg Tablets,10's,18.75
 1584,2355,Trazodone Hydrochloride 50mg Tablets,10's,0.0
-1585,2356,Valacyclovir Tablets 500mg,3's in Mono Carton,46.88
+1585,2356,Valacyclovir Tablets 500mg,3's in Mono Carton,51.56
 1586,2357,Venlafaxine Prolonged Release Capsules 37.5mg,10's,18.75
 1587,2358,Venlafaxine Prolonged Release Capsules 75mg,10's,28.13
 1588,2359,Venlafaxine Prolonged Release Capsules 150mg,10's,0.0
@@ -1626,7 +1626,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1625,2397,Bethanechol Chloride 25mg Tablets,10's,87.19
 1626,2398,Bortezomib 2mg powder for Injection,Vial with WFI,665.63
 1627,2399,Bortezomib 2.5mg powder for Injection,Vial with WFI,0.0
-1628,2400,Caffeine (30mg) + Diphenhydramine (25mg) + Paracetamol (500mg) + Phenylephrine (5mg) Tablets,10's,9.38
+1628,2400,Caffeine (30mg) + Diphenhydramine (25mg) + Paracetamol (500mg) + Phenylephrine (5mg) Tablets,10's,10.31
 1629,2401,Carbimazole Tablets IP 20mg,100's in Amber Coloured Glass Bottle,0.0
 1630,2402,Cefadroxil Oral Suspension IP 125mg per 5ml (dry syrup),30ml,0.0
 1631,2403,Ceftazidime 2gm and Avibactam 0.5gm for Concentrate for Solution for Infusion,Vial with WFI,1171.88
@@ -1642,19 +1642,19 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1641,2413,Dasatinib Tablets 70mg,60's Bottle in Monopack,2811.56
 1642,2414,"Diclofenac Diethylamine 1.16% w/w, Sesame Oil 2.50% w/w, Linseed Oil 0.50% w/w, Methylsalicylate 10% w/w and Menthol 5% w/w Gel",30gm Lami-Tube in Monopack,70.31
 1643,2415,Dolutegravir Tablets 50mg,30's Bottle,187.5
-1644,2416,Eltrombopag Tablets 25mg,7's,271.88
-1645,2417,Eltrombopag Tablets 50mg,7's,421.88
+1644,2416,Eltrombopag Tablets 25mg,7's,299.06
+1645,2417,Eltrombopag Tablets 50mg,7's,464.06
 1646,2418,Ezetimibe Tablets IP 10mg,10's,18.75
 1647,2419,Ezetimibe Tablets IP 5mg,10's,0.0
 1648,2420,Faropenem (200mg) + Clavulanic Acid (125mg) Tablets,6's,337.5
 1649,2421,Fusidic Acid 2%w/w and Hydrocortisone Acetate Cream 1% w/w,15gm Lami-Tube in Monopack,79.69
 1650,2422,"Glycolic Acid 2% w/v, Salicylic acid 1% w/v, Niacinamide 0.5%w/v, Licorice Extract 1% w/v, Vitamin E 0.2% w/v and Aloe Vera 1% w/v Face Wash",100ml Flip-top Bottle,0.0
-1651,2423,Hydrocortisone Acetate Cream IP 1% w/w,15 g,28.13
+1651,2423,Hydrocortisone Acetate Cream IP 1% w/w,15 g,30.94
 1652,2424,Itraconazole (1% w/w) Gel,15 g,28.13
 1653,2425,Ivermectin Cream 1% w/w,15 g,28.13
 1654,2426,Leflunomide 10mg Tablets,10's,32.81
 1655,2427,Lenalidomide Capsules 25mg,30's in PET bottle in Mono Carton,1387.5
-1656,2428,Lenalidomide Capsules 5mg,30's in PET bottle in Mono Carton,356.25
+1656,2428,Lenalidomide Capsules 5mg,30's in PET bottle in Mono Carton,391.88
 1657,2429,Levodopa 200mg and Carbidopa 50mg Prolonged Release Tablets IP,10's,0.0
 1658,2430,Levosalbutamol 50mcg and Beclomethasone 50mcg Inhaler,200 MDI,135.94
 1659,2431,Lincomycin 250mg Capsules,10's,27.19
@@ -1703,15 +1703,15 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1702,2474,Temozolomide Capsules IP 20mg,5's in bottle,314.06
 1703,2475,Teneligliptin 20mg and Dapagliflozin 10mg Tablets,10's,32.81
 1704,2476,Teneligliptin 20mg and Dapagliflozin 5mg Tablets,10's,28.13
-1705,2477,Thalidomide Capsules 100mg,10's,150.0
+1705,2477,Thalidomide Capsules 100mg,10's,165.0
 1706,2478,Thalidomide Capsules 200mg,10's,234.38
-1707,2479,Thalidomide Capsules 50mg,10's,84.38
+1707,2479,Thalidomide Capsules 50mg,10's,92.81
 1708,2480,Thyroxine Sodium Tablets IP 150mcg,120's in Bottle,93.75
 1709,2481,Ticagrelor Tablets IP 60mg,10's,89.06
 1710,2482,Topiroxostat Tablets 20mg,10's,46.88
 1711,2483,Topiroxostat Tablets 40mg,10's,84.38
 1712,2484,Topiroxostat Tablets 60mg,10's,121.88
-1713,2485,Torasemide 10mg + Spironolactone 25mg Tablets,10's,17.81
+1713,2485,Torasemide 10mg + Spironolactone 25mg Tablets,10's,19.59
 1714,2486,Travoprost 40mcg and Timolol 5mg Eye Drops,2.5ml,0.0
 1715,2487,Vortioxetine Tablets 10mg,10's,60.94
 1716,2488,Vortioxetine Tablets 20mg,10's,89.06
@@ -1729,7 +1729,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1728,2500,"Aceclofenac 1.5% w/w gel, 30g",30g,0.0
 1729,2501,Ambrisentan Tablets 10mg,10's,0.0
 1730,2502,Ambrisentan Tablets 5mg,10's,0.0
-1731,2503,Janaushadhi Antiseptic Bandage Spray (Cetrimide 0.10% w/w with Lidocaine 1.0% w/w Spray),50ml,0.0
+1731,2503,Janaushadhi Antiseptic Bandage Spray (Cetrimide 0.10% w/w with Lidocaine 1.0% w/w Spray),50ml,100.0
 1732,2504,Azilsartan Medoxomil Tablets 20mg,10's,0.0
 1733,2505,Azilsartan Medoxomil Tablets 80mg,10's,103.13
 1734,2506,Benzoic acid 6% w/w and Salicylic acid 3% w/w IP Ointment,15g in Mono-carton,12.19
@@ -1739,7 +1739,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1738,2510,Janaushadhi Burn Relief Spray (Lidocaine 3% w/w and Benzethonium 0.20% w/w Spray),50ml,0.0
 1739,2511,"Calamine 8% w/w, Aloe Vera Gel 10% w/w, Light Liquid Paraffin 10% w/w Lotion",100ml,56.25
 1740,2512,"Calcium aspartate (500mg), Calcium Orotate (500mg), Calcitriol (0.25mcg), Minerals and Vitamins Tablets",10's,56.25
-1741,2513,Calcium Citrate and Vitamin D3 Chewable Tablets,30's in container,32.81
+1741,2513,Calcium Citrate and Vitamin D3 Chewable Tablets,30's in container,36.09
 1742,2514,"Cefixime 200 mg, Cloxacillin 500 mg (ER) and Lactic Acid Bacillus Tablets",10's,96.56
 1743,2515,"Chlorhexidine Gluconate 0.2% w/v, Sodium Fluoride 0.05% w/v and Zinc Chloride 0.09% w/v Mouthwash (Sugar Free)",150ml,37.5
 1744,2516,"Chloroxylenol 4.80% w/v, Terpineol 9% v/v, Absolute Alcohol 13.10% v/v Liquid",60ml,18.75
@@ -1757,14 +1757,14 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1756,2528,Deferasirox Dispersible Tablets 360mg,10's,79.69
 1757,2529,Deferasirox Dispersible Tablets 400mg,10's,90.94
 1758,2530,Deferasirox Dispersible Tablets 500mg,30's,112.5
-1759,2531,Deferiprone Capsules 250mg,50's,124.69
-1760,2532,Deferiprone Capsules 500mg,50's,234.38
+1759,2531,Deferiprone Capsules 250mg,50's,137.16
+1760,2532,Deferiprone Capsules 500mg,50's,257.81
 1761,2533,Deflazacort oral Suspension 6mg per 5ml,30ml in Mono-carton with measuring cap,28.13
 1762,2534,Denosumab (r-DNA origin) 60mg/ml in Pre-filled Syringe,1ml Pre-filled Syringe in Mono-carton,4875.0
 1763,2535,Diclofenac 200mg Transdermal patch,10's in Mono-carton,0.0
 1764,2536,"Diclofenac Diethylamine 1.16% w/w, Sesame oil 2.5% w/w, Linseed oil 0.5% w/w, Methyl Salicylate 10% w/w & Menthol 5% w/w Gel",30g in Mono-carton,0.0
-1765,2537,"Diclofenac Sodium 2% w/v, Methyl Salicylate 10% w/v, Menthol 5%, Absolute alcohol 10% v/v Spray",50ml,0.0
-1766,2538,Diclofenac Sodium 50mg and Thiocolchicoside 4mg Tablets,10's,44.06
+1765,2537,"Diclofenac Sodium 2% w/v, Methyl Salicylate 10% w/v, Menthol 5%, Absolute alcohol 10% v/v Spray",50ml,100.0
+1766,2538,Diclofenac Sodium 50mg and Thiocolchicoside 4mg Tablets,10's,48.47
 1767,2539,Diclofenac Sodium 50mg and Thiocolchicoside 8mg Tablets,10's,56.25
 1768,2540,Drotaverine Hydrochloride Injection 40mg per 2ml,2ml Ampoule,9.38
 1769,2541,Duloxetin Hydrochloride (Delayed Release) 20mg and Mecobalamin 1.5mg Capsules,10's,0.0
@@ -1837,7 +1837,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1836,2610,"Neomycin Sulphate 3400 Units, Polymyxin B Sulfate 5000 units and Bacitracin Zinc 400 Units Powder",10g,32.81
 1837,2611,Neostigmine Methylsulphate Injection IP 0.5mg/ml,5ml Ampoule,13.13
 1838,2612,Neostigmine Methylsulphate Injection IP 2.5mg/ml,1ml Ampoule,0.0
-1839,2613,Nitrofurantoin 50mg Tablets,10's,0.0
+1839,2613,Nitrofurantoin 50mg Tablets,10's,13.5
 1840,2614,Nitrofurantoin Sustained Release Tablets 100mg,15's,28.13
 1841,2615,Norethisterone Acetate Controlled Release Tablets 10mg,10's,25.31
 1842,2616,Ofloxacin 100mg and Metronidazole 200mg per 5ml Oral Suspension,60ml in Mono-carton with measuring cap,32.81
@@ -2010,26 +2010,26 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2009,2783,Janaushadhi Ragi Sticks (Chocolate),Screw-cap plastic container,0.0
 2010,2784,Janaushadhi Energy Drink (Orange Flavour),200ml Tetra Pack,0.0
 2011,2785,Abiraterone Acetate Tablets 500mg,60's bottle,0.0
-2012,2786,Amlodipine + Enalapril Tablet (5/5 Mg),10's,0.0
+2012,2786,Amlodipine + Enalapril Tablet (5/5 Mg),10's,15.0
 2013,2787,Amlodipine + Indapamide Tablet (5/1.5 Mg),10's,0.0
 2014,2789,Atenolol + Chlorthalidone Tablet (25/12.5 Mg),10's,0.0
 2015,2790,Atenolol + Chlorthalidone Tablet (50/12.5 Mg),10's,0.0
 2016,2791,Atenolol + Indapamide Tablet (50/2.5 Mg),10's,0.0
 2017,2792,Atenolol + Losartan Tablet (50/50 Mg),10's,0.0
 2018,2793,Atenolol + Nifedipine Tablet (50/20 Mg),10's,0.0
-2019,2794,Atomoxetine Tablet (10 Mg),10's,0.0
+2019,2794,Atomoxetine Tablet (10 Mg),10's,45.0
 2020,2795,Azelaic Acid 20% Cream,15GM,0.0
 2021,2796,Benidipine + Telmisartan Tablet (4/40 Mg),15's,0.0
 2022,2797,Benzoyl Peroxide 5% Soap,75GM,0.0
-2023,2798,Benzoyl Peroxide Gel 5%,15GM,0.0
-2024,2799,Buspirone Tablet (10 Mg),10's,0.0
-2025,2800,Buspirone Tablet (5 Mg),10's,0.0
+2023,2798,Benzoyl Peroxide Gel 5%,15GM,35.0
+2024,2799,Buspirone Tablet (10 Mg),10's,31.0
+2025,2800,Buspirone Tablet (5 Mg),10's,20.75
 2026,2801,Carbetocin Injection 100mcg /ml,1ML,0.0
 2027,2802,Clonazepam + Propranolol Tablet (0.25/10 Mg),10's,0.0
 2028,2803,Clonazepam + Propranolol Tablet (0.25/20 Mg),10's,0.0
 2029,2804,Clonazepam + Propranolol Tablet (0.5/20 Mg),10's,0.0
 2030,2805,"Combo pack of Vitamin C Injection IP and Vitamin B12, Folic acid and Niacinamide injection",1's,0.0
-2031,2806,Enzalutamide Tablet 40Mg,28's in Bottle,0.0
+2031,2806,Enzalutamide Tablet 40Mg,28's in Bottle,2400.0
 2032,2807,Filgrastim injection 300mcg,1ML Vial,0.0
 2033,2808,Flecanide Tablets 100Mg,10's,0.0
 2034,2809,Flecanide Tablets 50Mg,10's,0.0
@@ -2039,17 +2039,17 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2038,2813,Gliclazide + Pioglitazone + Metformin Tablet (60/15/500 Mg),10's,0.0
 2039,2814,Glycolic Acid Cream 12%,30GM,0.0
 2040,2815,Glycolic Acid Cream 6%,30GM,0.0
-2041,2816,Glycopyrrolate Tablet 1Mg,10's,0.0
-2042,2817,Glycopyrrolate Tablet 2Mg,10's,0.0
+2041,2816,Glycopyrrolate Tablet 1Mg,10's,52.89
+2042,2817,Glycopyrrolate Tablet 2Mg,10's,100.0
 2043,2818,Halobetasol & Fusidic Acid Cream 0.05/2%,10GM,0.0
 2044,2819,"Human Papillomavirus Quadrivalent (Types 6, 11, 16, And 18) Vaccine, Recombinant",0.5 ml in 1 prefilled syringe,0.0
 2045,2820,Ibrutinib Capsule 140 Mg,30's in Bottle,0.0
 2046,2821,Imipramine + Diazepam Tablet (25/2 Mg),10's,0.0
 2047,2822,Imipramine + Diazepam Tablet (25/5 Mg),10's,0.0
 2048,2823,Testosterone Enanthate Injection 250mg per 1 ml,1 ML,0.0
-2049,2824,Lenvatinib Capsules IP 4Mg,10's bottle,0.0
-2050,2825,Levetiracetam Tablets IP 500 Mg XR,10's,0.0
-2051,2826,Losartan + Chlorthalidone Tablet (25/6.25 Mg),10's,0.0
+2049,2824,Lenvatinib Capsules IP 4Mg,10's bottle,530.0
+2050,2825,Levetiracetam Tablets IP 500 Mg XR,10's,70.0
+2051,2826,Losartan + Chlorthalidone Tablet (25/6.25 Mg),10's,30.0
 2052,2827,Losartan + S- Amlodipine Tablet (50/2.5 Mg),10's,0.0
 2053,2828,Melatonin + Zolpidem Tablet (3/10 Mg),10's,0.0
 2054,2829,Melatonin + Zolpidem Tablet (3/5 Mg),10's,0.0
@@ -2057,50 +2057,50 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2056,2831,Methylphenidate Tablet 18Mg,10's,0.0
 2057,2832,Methylphenidate Tablet 20Mg,10's,0.0
 2058,2833,Methylphenidate Tablet 5Mg,10's,0.0
-2059,2834,Metoprolol + Chlorthalidone Tablet (25/6.25 Mg),10's,0.0
+2059,2834,Metoprolol + Chlorthalidone Tablet (25/6.25 Mg),10's,40.0
 2060,2835,Metoprolol + Chlorthalidone Tablet (50/12.5 Mg),10's,0.0
-2061,2836,Metoprolol + Chlorthalidone Tablet (50/6.25 Mg),10's,0.0
+2061,2836,Metoprolol + Chlorthalidone Tablet (50/6.25 Mg),10's,50.0
 2062,2837,Minoxidil 5Mg Tablet,10's,0.0
-2063,2838,Naltrexone 50Mg Tablets,10's,0.0
+2063,2838,Naltrexone 50Mg Tablets,10's,511.0
 2064,2839,Nimodipine Tablet (30 Mg),10's,0.0
-2065,2840,Olmesartan + Amlodipine + Chlorthalidone Tablet (40/5/12.5 Mg),10's,0.0
-2066,2841,Olmesartan + Metoprolol Tablet (20/25 Mg),10's,0.0
+2065,2840,Olmesartan + Amlodipine + Chlorthalidone Tablet (40/5/12.5 Mg),10's,50.0
+2066,2841,Olmesartan + Metoprolol Tablet (20/25 Mg),10's,45.0
 2067,2842,Olmesartan + Metoprolol Tablet (20/50 Mg),10's,0.0
 2068,2843,Opipramol Dihydrochloride Tablets (50 Mg),10's,0.0
 2069,2844,Opipramol Tablet (50 Mg),10's,0.0
-2070,2845,Orlistat Capsules 60Mg,10's,0.0
-2071,2846,Perampanel Tablet (2 Mg),10's,0.0
-2072,2847,Perampanel Tablet (4 Mg),10's,0.0
+2070,2845,Orlistat Capsules 60Mg,10's,90.0
+2071,2846,Perampanel Tablet (2 Mg),10's,80.0
+2072,2847,Perampanel Tablet (4 Mg),10's,150.0
 2073,2848,Pioglitazone + Glimepiride Tablet (15/2 Mg),10's,0.0
 2074,2849,Polmacoxib 2 Mg Capsules,10's,0.0
-2075,2850,Rosuvastatin + Cholecalciferol Tablet (10 Mg/1000 IU),10's,0.0
-2076,2851,Rosuvastatin + Ezetimibe Tablet (10/ 10Mg),10's,0.0
-2077,2852,Rosuvastatin + Ezetimibe Tablet (20/ 10Mg),10's,0.0
+2075,2850,Rosuvastatin + Cholecalciferol Tablet (10 Mg/1000 IU),10's,30.0
+2076,2851,Rosuvastatin + Ezetimibe Tablet (10/ 10Mg),10's,50.0
+2077,2852,Rosuvastatin + Ezetimibe Tablet (20/ 10Mg),10's,60.0
 2078,2853,Rosuvastatin 20Mg And Clopidogrel 75Mg Capsules,10's,0.0
 2079,2854,Safinamide Tablet (50 Mg),10's,0.0
-2080,2855,S-Amlodipine + Hydrochlorothiazide Tablet (2.5/12.5 Mg),10's,0.0
+2080,2855,S-Amlodipine + Hydrochlorothiazide Tablet (2.5/12.5 Mg),10's,52.29
 2081,2856,Sitagliptin + Pioglitazone + Metformin Tablet (100/15/500 Mg),10's,0.0
-2082,2857,S-Metoprolol + S-Amlodipine Tablet (25/2.5 Mg),10's,0.0
-2083,2858,S-Metoprolol + S-Amlodipine Tablet (25/5 Mg),10's,0.0
+2082,2857,S-Metoprolol + S-Amlodipine Tablet (25/2.5 Mg),10's,72.53
+2083,2858,S-Metoprolol + S-Amlodipine Tablet (25/5 Mg),10's,76.28
 2084,2859,S-Metoprolol + Telmisartan Tablet (25/ 20Mg),10's,0.0
 2085,2860,Telmisartan + Indapamide Tablet (40/1.5 Mg),10's,0.0
-2086,2861,Telmisartan + Rosuvastatin Tablet (40/10 Mg),10's,0.0
+2086,2861,Telmisartan + Rosuvastatin Tablet (40/10 Mg),10's,40.0
 2087,2862,Telmisartan + S- Amlodipine Tablet (40/2.5 Mg),15's,0.0
 2088,2863,Telmisartan + S- Amlodipine Tablet (40/5 Mg),15's,0.0
 2089,2864,Tianeptine Tablet (12.5 Mg),10's,0.0
 2090,2865,Tofisopam Tablet (50 Mg),10's,0.0
 2091,2866,Trifluoperazine + Trihexyphenidyl Tablet (2.5/1 Mg),10's,0.0
-2092,2867,Trifluoperazine + Trihexyphenidyl Tablet (5/2 Mg),10's,0.0
-2093,2868,Voglibose + Metformin + Gliclazide Tablet (0.2/500/80 Mg),10's,0.0
-2094,2869,Voglibose + Metformin + Gliclazide Tablet (0.3/500/80 Mg),15's,0.0
+2092,2867,Trifluoperazine + Trihexyphenidyl Tablet (5/2 Mg),10's,16.62
+2093,2868,Voglibose + Metformin + Gliclazide Tablet (0.2/500/80 Mg),10's,40.0
+2094,2869,Voglibose + Metformin + Gliclazide Tablet (0.3/500/80 Mg),15's,60.0
 2095,2870,Cefepime 250 Mg Inection,1.0 Injection in 1 vial,0.0
-2096,2871,Cefepime 1000Mg and Tazobactam 125Mg Injection,1.0 Injection in 1 vial,0.0
+2096,2871,Cefepime 1000Mg and Tazobactam 125Mg Injection,1.0 Injection in 1 vial,150.0
 2097,2872,Ciclesonide (200Mcg) + Formoterol (6Mcg) + Tiotropium (9Mcg) Inhaler,200 MDI in 1 packet,0.0
 2098,2873,Dolutegravir (50 Mg) + Emtricitabine (200 Mg) + Tenofovir Alafenamide (25 Mg) Tablets,30's in Bottle,0.0
-2099,2874,Dolutegravir (50Mg) + Lamivudine (300Mg) + Tenofovir Disoproxil Fumarate (300Mg) Tablets,30's in Bottle,0.0
+2099,2874,Dolutegravir (50Mg) + Lamivudine (300Mg) + Tenofovir Disoproxil Fumarate (300Mg) Tablets,30's in Bottle,650.0
 2100,2875,Ketoprofen 30 Mg Patch,7's pack,0.0
-2101,2876,Lamivudine 100 Mg Tablets,10's,0.0
-2102,2877,Levetiracetam (100Mg) Injection,5.0 ml in 1 vial,0.0
+2101,2876,Lamivudine 100 Mg Tablets,10's,50.0
+2102,2877,Levetiracetam (100Mg) Injection,5.0 ml in 1 vial,50.0
 2103,2878,Levetiracetam 500 Mg Injection,5.0 ml in 1 vial,0.0
 2104,2879,Magnesium Sulphate Injection 50%,2 ml/ 1 Vial,0.0
 2105,2880,Minocycline (100Mg) Modified Release Capsule,10's,0.0
@@ -2117,11 +2117,11 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2116,2891,Phenobarbitone Sodium 20mg per 5ml Syrup,100 ml,0.0
 2117,2892,Prednisolone (15Mg/5Ml) Syrup,60 ml / 1 Bottle,0.0
 2118,2893,Prednisolone Dispersible Tablet (20Mg),15's,0.0
-2119,2894,Prednisolone Tablet (40Mg),10's,0.0
+2119,2894,Prednisolone Tablet (40Mg),10's,18.32
 2120,2895,Rabeprazole (20 Mg) + Mosapride (15Mg) Tablet,10's,0.0
-2121,2896,Rupatadine (10Mg) + Montelukast (10Mg) Tablet,10's,0.0
-2122,2897,Rupatadine 10 Mg Tab,10's,0.0
-2123,2898,Sumatriptan 50 Mg Tablets,10's,0.0
+2121,2896,Rupatadine (10Mg) + Montelukast (10Mg) Tablet,10's,80.0
+2122,2897,Rupatadine 10 Mg Tab,10's,65.0
+2123,2898,Sumatriptan 50 Mg Tablets,10's,100.0
 2124,2899,Terazosin (1Mg) Tab,10's,0.0
 2125,2900,Terazosin (2Mg) Tab,10's,0.0
 2126,5001,Absorbent Cotton Wool IP 75 g,1's,27.19
@@ -2313,10 +2313,10 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2312,8120,"Lancets, Round Sterile, 28G",50 pcs/Box,37.5
 2313,8121,Glucometer Test Strip,25 Strips,210.94
 2314,8122,"GLUCOMETER DIGITAL (1 glucometer, 25 strips, 25 lancets,1 lancing device,1 battery 3V, Warranty card)",1 Kit,492.19
-2315,8123,Adhesive Surgical Paper Tape  Size 5cmx5m,1's,24.38
+2315,8123,Adhesive Surgical Paper Tape Size 5cmx5m,1's,24.38
 2316,8124,Adhesive Surgical Paper Tape Size 2.5cmx5m,1's,12.19
-2317,8125,Adhesive Surgical Paper Tape  Size 1.25cmx5m,1's,6.56
-2318,8126,Pollution Control Mask/Nanofiber Mask:  made up of high efficiency nanofiber material with non ret,1's Monopack,56.25
+2317,8125,Adhesive Surgical Paper Tape Size 1.25cmx5m,1's,6.56
+2318,8126,Pollution Control Mask/Nanofiber Mask: made up of high efficiency nanofiber material with non ret,1's Monopack,56.25
 2319,8127,Nebulizer Mask with Tubing,1's pack,56.25
 2320,8128,Medical Digital Thermometer,1's mono-carton,88.98
 2321,8130,Manual breast pump,1's Monopack,600.0
@@ -2424,8 +2424,8 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2423,9052,Finger Saperator - Feet,1 pair,0.0
 2424,9053,Cervical Collar - Hard (large),One in Mono-Carton,0.0
 2425,9054,Disposable Maternity Pad Fixator (Extra Large),5's in a pack,0.0
-2426,9055,Hydrophillic Foam Silver Wound Dressing (Non-Adhesive) 5cm x 5cm,Pack of 5 pcs,0.0
-2427,9056,Fibrin Sealant Kit I.P. (2inch X 4 inch),Pack of 2,0.0
+2426,9055,Blood Glucose Monitoring Device,1 Kit,450.0
+2427,9056,Blood Glucose Monitoring Strips,1 Strip in Foil Wrap Pack Size: 25's,180.0
 2428,9057,Disposable Under Sheet,Pack of 10 pcs,0.0
 2429,9058,Foldable Commode Stool (U - Shape),One in Mono-Carton,0.0
 2430,9059,Pregnancy Back Support Belt,One in Mono-Carton,0.0
