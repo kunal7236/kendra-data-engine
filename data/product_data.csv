@@ -306,7 +306,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 305,404,Linezolid Infusion 600mg per 300ml,300 ml,113.44
 306,405,Ofloxacin Infusion IP 200 mg per 100 ml,100 ml,30.94
 307,407,Ivermectin Dispersible Tablets 12 mg,10's,21.66
-308,410,Trastuzumab Injection 440 mg With Wfi,1's,14062.5
+308,410,Trastuzumab Injection 440 mg With Wfi,1s,12180.0
 309,412,Azathioprine Tablets IP 50 mg,10's,45.0
 310,413,Methotrexate Tablets IP 7.5 mg,10's,25.0
 311,414,Tranexamic Acid 500mg and Mefenamic Acid 250mg Tablets,10's,76.88
@@ -555,7 +555,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 554,784,Amisulpride Tablets IP 50mg,10's,29.06
 555,785,Amitriptyline Hydrochloride Tablets IP 25mg,15's,9.08
 556,786,Amitriptyline Hydrochloride Tablets IP 10mg,10's,6.81
-557,788,Anastrozole Tablets IP 1mg,10's,73.13
+557,788,Anastrozole Tablets IP 1mg,10s,44.0
 558,790,Aspirin Enteric Coated Tablets IP 75mg,14's,2.81
 559,791,Atenolol 25mg and Amlodipine 5mg Tablets IP,14's,16.5
 560,793,Atenolol Tablets IP 25mg,14's,6.19
@@ -563,7 +563,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 562,797,Atracurium Besylate Injection I.P 25mg per 2.5ml,2.5 ML,22.03
 563,800,"Bacitracin 250 IU, Neomycin 5mg, Sulphacetamide 60mg Dusting Powder",10 gm Powder,23.44
 564,804,Betamethasone Injection IP 4 mg per ml,1 ml,2.81
-565,806,Bicalutamide Tablets IP 50mg,10's,128.44
+565,806,Bicalutamide Tablets IP 50mg,10s,60.0
 566,807,Biphasic Isophane Insulin Injection IP 100 IU/ml (30:70 ) (30% Soluble Insulin and 70% Isophane Insu,3 ml Catridge,181.5
 567,809,Bortezomib Injection IP 3.5 mg,Vial,1020.94
 568,811,Bromfenac Sodium Eye Drop 0.09%w/v,5 ml,61.88
@@ -619,7 +619,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 618,926,Ketoconazole Cream 2% w/w,15 gm Tube,20.42
 619,931,Lamotrigine Tablets 100mg,10's,41.25
 620,933,Leflunomide Tablets IP 20mg,10's,69.38
-621,934,Lenalidomide Capsules 10mg,10's,435.0
+621,934,Lenalidomide Capsules 10mg,10s,294.0
 622,935,Letrozole Tablets IP 2.5mg,10's,31.88
 623,936,Leuprolide Acetate Injections 3.75mg,1's,1687.5
 624,938,Levocarnitine Injections 1gm,5 ml,65.63
@@ -720,7 +720,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 719,1186,Cyclosporin Capulses IP 25mg,5's,72.0
 720,1187,Cyclosporine Capsules IP 100 mg,5's,230.0
 721,1191,Glycopyrrolate Injection IP 0.2mg,1 ml,6.56
-722,1199,Hydroxyurea Capsules IP 500mg,10's,66.0
+722,1199,Hydroxyurea Capsules IP 500mg,10s,44.0
 723,1201,Ifosfamide Injection IP 1gm,VIAL,159.38
 724,1203,Protamine Sulphate Injection IP 10mg per ml,5 ml Vial/Ampoule,21.0
 725,1211,Docetaxel Injection IP 80 mg,VIAL,1687.5
@@ -730,7 +730,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 729,1215,Pemetrexed Injection IP 100 mg,VIAL,759.38
 730,1216,Pemetrexed Injection IP 500 mg,VIAL,2165.63
 731,1217,Temozolomide Capsules IP 100mg,5's in Bottle,1371.56
-732,1218,Temozolomide Capsules IP 250 mg,5's,2517.19
+732,1218,Temozolomide Capsules IP 250 mg,5s,649.0
 733,1219,Amino Acid Solution for IV,200 ml Glass Bottle,247.0
 734,1220,Oseltamivir Capsules IP 75mg,10's,178.13
 735,1221,Thyroxine Sodium Tablets IP 50mcg,100's in Bottle,55.65
@@ -1664,7 +1664,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 1663,2435,Mebendazole Oral Suspension 100mg per ml,30ml,0.0
 1664,2436,Mebeverine (135mg) + Chlordiazepoxide (5mg) Tablets,10's,28.13
 1665,2437,Methotrexate Tablets IP 15mg,10's,32.81
-1666,2438,Methotrexate Tablets IP 20mg,10's,42.19
+1666,2438,Methotrexate Tablets IP 20mg,10s,46.0
 1667,2439,Metoclopramide Hydrochloride Syrup IP 5mg per 5ml,60ml,0.0
 1668,2440,Metoprolol Extended Release Tablets IP 100mg,10's,23.44
 1669,2441,Metronidazole (1% w/w) + Povidone Iodine (5% w/w) Ointment,20 g,18.75
@@ -2415,7 +2415,7 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2414,9043,Walker (Sit Assist-to-stand support),1's in sealed poly pack,0.0
 2415,9044,Elbow Crutch (Adjustable),1's in sealed poly pack,0.0
 2416,9045,Insulin/Medicine Cooling Case,"1 Cooling Case, 2 unit Gel Cool Pack, 1 Unit Insulin Pen Folder and 1 Carry Bag",0.0
-2417,9046,Cervical Collar - Hard,1's,0.0
+2417,9046,Cervical Collar - Hard,1s,240.0
 2418,9047,Range of Motion - Knee Brace,1's,0.0
 2419,9048,Range of Motion - Elbow Brace,1's,0.0
 2420,9049,Disposable Maternity Pad Fixator,5's in a pack,0.0
