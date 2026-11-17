@@ -2130,317 +2130,325 @@ Sr.No,Drug_Code,Generic_Name,Unit_Size,MRP
 2129,2914,Itraconazole Capsules IP 100mg,10's,89.0
 2130,2915,Itraconazole Capsules IP 200mg,10's,118.0
 2131,2916,Tolvaptan Tablets 15mg,4's,80.0
-2132,5001,Absorbent Cotton Wool IP 75 g,1's,27.19
-2133,5002,Absorbent Cotton Wool IP 200 g,1's,63.75
-2134,5003,Absorbent Cotton Wool IP 500 g,1's,161.25
-2135,5004,Crepe Bandage B.P. 15 cm x 4 M,1's,51.56
-2136,5005,Crepe Bandage B. P.10 cm x 4 M,1's,33.75
-2137,5006,Cotton Bandage 7.5 cm x 4 M,1's,14.06
-2138,5007,Cotton Bandage 10 cm x 4 M,1's,18.75
-2139,5008,Cotton Bandages(Non Sterile) 15 cm x 4 M,1's,28.13
-2140,5009,Janaushadhi Suraksha (Adhesive Bandages Washproof),1's,1.03
-2141,5010,Syringe 2 ml with needle 24G,1's,2.57
-2142,5011,Syringe 5 ml with needle 24G,1's,3.09
-2143,5012,Syringe 10 ml with needle 21G,1's,4.64
-2144,5013,Syringe 20 ml with needle 23G,1's,8.44
-2145,5014,Needle 16G,1's,1.88
-2146,5015,Needle 18G,1's,1.41
-2147,5016,Needle 23G,1's,0.94
-2148,5017,Needle 26G half inch,1's,1.41
-2149,5019,Paper Adhesive Plaster 1 inch X 9m,1's,23.44
-2150,5020,Paper Adhesive Plaster 2 inch X 9m,1's,51.56
-2151,5021,Paper Adhesive Plaster 3 inch X 9m,1's,75.0
-2152,5022,Plaster of Paris BP Bandages 15cm X 2.7m / Roll,1's,79.69
-2153,5023,Plaster of Paris BP Bandages 10cm X 2.7m / Roll,1's,56.25
-2154,5024,Scalp Vein Set (Disposable) (18G),1's,6.56
-2155,5025,Scalp Vein Set (Disposable) (20G),1's,6.56
-2156,5026,Scalp Vein Set (Disposable) (22G),1's,6.56
-2157,5027,Scalp Vein Set (Disposable) (24G),1's,6.56
-2158,5030,"Surgical Blade, No. 22, Sterilized",1's,3.75
-2159,5033,"Surgical Blade, No. 15, Sterilized",1's,3.75
-2160,5037,"I.V Cannula (Sterile, Disposable), 26 G",1's pack,15.94
-2161,5039,Sterile Disposable Spinal Needle 22G x 3 ½ inch,1's,51.56
-2162,5040,Sterile Disposable Spinal Needle 25G x 3 ½ inch,1's,51.56
-2163,5041,"Urine Collecting Bag, Disposable, 2000ml",1's pack,30.0
-2164,5046,"Endotracheal Tube Plain, Size 2.5, Sterile, Single use",1's,32.81
-2165,5047,"Endotracheal Tube Plain, Size 3, Sterile, Single use",1's,32.81
-2166,5048,"Endotracheal Tube Plain, Size 3.5, Sterile, Single use",1's,32.81
-2167,5049,"Endotracheal Tube Plain, Size 4, Sterile, Single use",1's,32.81
-2168,5050,"Endotracheal Tube Plain, Size 4.5, Sterile, Single use",1's,32.81
-2169,5051,"Endotracheal Tube Plain, Size 5, Sterile, Single use",1's,32.81
-2170,5052,"Endotracheal Tube Plain, Size 8.5, Sterile, Single use",1's,37.5
-2171,5053,"Endotracheal Tube Cuffed, Size 4",1's,75.0
-2172,5054,"Endotracheal Tube Cuffed, Size 4.5",1's,70.31
-2173,5055,"Endotracheal Tube Cuffed, Size 5",1's,65.63
-2174,5056,"Endotracheal Tube Cuffed, Size 6",1's,65.63
-2175,5057,"Endotracheal Tube Cuffed, Size 6.5",1's,65.63
-2176,5058,"Endotracheal Tube Cuffed, Size 7",1's,65.63
-2177,5059,"Endotracheal Tube Cuffed, Size 7.5",1's,65.63
-2178,5060,"Endotracheal Tube Cuffed, Size 8",1's,65.63
-2179,5061,"Endotracheal Tube Cuffed, Size 8.5",1's,65.63
-2180,5062,"Endotracheal Tube Cuffed, Size 9",1's,65.63
-2181,5064,"Tracheostomy Tube (PVC), Sterilised, single use Size-24",1's,206.25
-2182,5065,"Abdominal Drainage Kit, Sterile (2000ml, 24 Graduate)",1's,93.75
-2183,5066,"Abdominal Drainage Kit, Sterile (2000ml, 28 Graduate)",1's,93.75
-2184,5067,Corrugated Drainage Sheet,1's,26.0
-2185,5070,Sterilized Umbilical Cotton Tape 3mm x 75cm,1's,39.38
-2186,5071,"Bone Wax, Sterilised",1's,45.0
-2187,5073,Crepe Bandage B.P. 6 cm x 4 M,1's,22.5
-2188,5077,Rapid Diagnostic Malaria Test Kit,1's mono-carton,25.31
-2189,5078,Dengue Test Kit,1's mono-carton,42.19
-2190,5079,Janaushadhi Ankur (HCG- Pregnancy Test Kit),1's,18.75
-2191,5094,Sterile Gauze Pad size 2X2,1's,6.56
-2192,5095,Sterile Gauze Pad size 3X3,1's,7.5
-2193,5096,Sterile Gauze Pad size 4X4,1's,8.44
-2194,5097,Alcohol Swab (Spirit Swab),1's,1.03
-2195,6001,"Surgical Rubber Gloves-Disposable, Sterile, 6.5 inch",PAIR,20.63
-2196,6002,"Surgical Rubber Gloves-Disposable, Sterile, 7 inch",PAIR,20.63
-2197,6003,"Surgical Rubber Gloves-Disposable, Sterile, 7.5 inch",PAIR,20.63
-2198,6004,"Surgical Rubber Gloves-Disposable, Sterile, 8 inch",PAIR,18.75
-2199,6006,"Rubber Examination Gloves, Non-sterile (Small)",1's,3.28
-2200,6007,"Rubber Examination Gloves, Non-sterile (Medium)",1's,3.97
-2201,6009,"Surgical Cap, Disposable(for Surgeons/Nurses)",1's,2.0
-2202,6010,Suction Catheter FG 5,1's,13.13
-2203,6011,"Suction Catheter FG (6), 50 cm, Sterilized",1's,6.56
-2204,6012,"Suction Catheter FG (8), 50 cm, Sterilized",1's,6.56
-2205,6013,"Suction Catheter FG (10), 50 cm, Sterilized",1's,7.5
-2206,6014,"Suction Catheter FG (12), 50 cm, Sterilized",1's,7.5
-2207,6015,"Suction Catheter FG (14), 50 cm, Sterilized",1's,8.44
-2208,6016,"Suction Catheter FG (16), 50 cm, Sterilized",1's,9.38
-2209,6017,"Suction Catheter FG (18), 50 cm, Sterilized",1's,9.38
-2210,6018,"Suction Catheter FG (20), 50 cm, Sterilized",1's,10.31
-2211,6020,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (8FG)",1's,60.94
-2212,6021,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (10FG)",1's,60.94
-2213,6022,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (16FG)",1's,37.5
-2214,6023,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (18FG)",1's,37.5
-2215,6024,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (20FG)",1's,37.5
-2216,6025,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (22FG)",1's,37.5
-2217,6026,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (24FG)",1's,37.5
-2218,6027,"Infant Feeding Tube, Sterile (Size-10 Fg, length 50 cm)",1's,9.38
-2219,6028,"Infant Feeding Tube, Sterile (Size-8 Fg, length 50 cm)",1's,9.38
-2220,6029,"Infant Feeding Tube, Sterile (Size-5 Fg, length 50 cm)",1's,9.38
-2221,6030,Sterile Disposable Perfusion set with airway and needle adult use 150cm long smooth kink resist,1's,12.19
-2222,6031,Sterile Disposable Infusion set with Microdrip (I.V.) (Pediatric use),1's,51.56
-2223,6032,Sterile Disposable Infusion set with Microdrip (I.V.) (Adult use),1's,14.06
-2224,6033,Insulin Syringe (40 units) with 30G needle,1's,5.16
-2225,6035,"I.V Cannula (Sterile, Disposable), 18 G",1's,14.06
-2226,6036,"I.V Cannula (Sterile, Disposable), 20 G",1's,14.06
-2227,6037,"I.V Cannula (Sterile, Disposable), 22 G",1's,14.06
-2228,6038,"I.V Cannula (Sterile, Disposable), 24 G",1's,14.06
-2229,6039,"Nasal Oxygen Cannula set, Twin bore (Adult)",1's,28.13
-2230,6040,"Absorbent Gelatin Sponge, Sterilized (80mm x 50mm x 10mm)",1's,93.75
-2231,6042,Blood Transfusion Set with Filter 170 Micron,1's,16.88
-2232,6045,Ryles Tube/Nasogastric Tube (Size 10),1's,10.31
-2233,6046,Ryles Tube/Nasogastric Tube (Size 12),1's,10.31
-2234,6047,Ryles Tube/Nasogastric Tube (Size 14),1's,10.31
-2235,6048,Ryles Tube/Nasogastric Tube (Size 16),1's,10.31
-2236,6049,Ryles Tube/Nasogastric Tube (Size 18),1's,10.31
-2237,6050,Knee Cap (Small),Pair,120.0
-2238,6051,Knee Cap (Medium),Pair,120.0
-2239,6052,Knee Cap (Large),Pair,120.0
-2240,7001,Hot Water Bag (Small),1's,160.0
-2241,8001,"Chromic Suture (3/8 Cir Rb Needle 40mm, Length 76 cm)",1's,42.19
-2242,8002,"Chromic Suture (1/2 Cir Rb Needle 20mm, Length 76 cm)",1's,75.0
-2243,8003,"Chromic Suture (1/2 Cir Rb Needle 30mm, Length 76 cm)",1's,42.19
-2244,8005,"Chromic Suture (1/2 Cir Rb Needle 40mm, Length 76 cm)",1's,42.19
-2245,8006,"Chromic Suture (3/8 Cir Rb Needle 30mm, Length 76 cm)",1's,42.19
-2246,8007,"Chromic Suture (1/2 Cir Rb Needle 45mm, Length 100 cm)",1's,46.88
-2247,8012,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 20mm, Length 70cm",1's,46.88
-2248,8013,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 30mm, Length 90cm, USP-2/0",1's,42.19
-2249,8014,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 30mm, Length 90cm, USP-1/0",1's,51.56
-2250,8015,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Tapercut Niddle 40mm, Length 90cm",1's,220.31
-2251,8019,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 40mm, Length 90cm, USP-2/0",1's,220.31
-2252,8021,"Surgical Suture (Absorbable, Synthetic) 3/8 Cir Rb, cutting Niddle 22mm, Length 45cm",1's,37.5
-2253,8022,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 20mm, Length 70cm, USP 4/0",1's,42.19
-2254,8023,"Silk Suture (1/2 Cir Rb needle 20mm, Length 76 cm), USP-3/0",1's,28.13
-2255,8024,"Silk Suture (3/8 Circle Reverse cutting needle 26mm, Length 76 cm), Silk Suture (3/8 Circle Reverse cutting needle 26mm, Length 76 cm), USP3/0",1's,28.13
-2256,8025,"Silk Suture (3/8 Circle Reverse cutting needle 45mm, Length 76 cm), USP 2/0",1's,28.13
-2257,8026,"Silk Suture (3/8 Cir Rb needle 20mm, Length 76 cm) USP 2/0,",1's,51.56
-2258,8027,"Silk Suture (3/8 Cir Rb needle 16mm, Length 76 cm), USP 4/0",1's,32.81
-2259,8028,"Polyamide (3/8 Cir Micropoint Spatulated,6mm,length 38 Cm) size 8/0",1's,328.13
-2260,8029,"Polyamide (3/8 Conventional Cutting Needle 16mm Length 70 cm), USP 3/0",1's,28.13
-2261,8030,"Polyamide (3/8 Conventional Cutting Needle 19mm Length 60 cm), Polyamide (3/8 Conventional Cutting Needle 19mm Length 60 cm), USP 4/0",1's,56.25
-2262,8031,"Polyamide (3/8 Cir Slim Blade Cutting Needle 15mm, Length 70 Cm)size 5/0",1's,65.63
-2263,8032,"Polyamide (3/8 R Cutting Needle 45mm, Length 70 Cm.)size 2./0",1's,26.25
-2264,8034,"Polyamide (3/8 Cutting Edge Needle, Double Arms Needle 6 mm, Suture Length 35-42 Cm Size 10/0",1's,403.13
-2265,8035,"Polypropylene Suture (1/2 Cir Rb, 13mm Needle, Suture Length 75cm, double arm), USP 5/0",1's,187.5
-2266,8036,"Polypropylene Suture (3/8 Cir Rb, 8mm Needle, Suture Length 60cm), USP 7/0",1's,112.5
-2267,8038,"Polypropylene Suture (3/8 Cir Rb, 16mm Needle, Suture Length 70cm), USP 5/0",1's,42.19
-2268,8039,"Polypropylene Suture (1/2 Cir Rb, 30mm Needle, Suture Length 90cm), USP 2/0",1's,46.88
-2269,8040,"Polypropylene Suture (1/2 Cir Rb, 45mm Needle, Suture Length 90cm), Polypropylene Suture (1/2 Cir Rb, 45mm Needle, Suture Length 90cm), USP 1",1's,56.25
-2270,8041,"Polypropylene Suture (1/2 Cir Rb, 17mm Needle, Suture Length 90cm), USP 4/0",1's,46.88
-2271,8042,"Polypropylene Suture (1/2 Tapercut, 17mm Double Needle, Suture Length 70cm), USP3/0",1's,79.69
-2272,8043,"Polypropylene Suture (1/2 Cir Rb, 25mm Needle, Suture Length 90cm), USP 3/0",1's,46.88
-2273,8044,"Polypropylene Suture (1/2 Cir Rb, 30mm Needle, Suture Length 90cm) double arm, USP 1/0",1's,65.63
-2274,8045,"Polypropylene Suture (1/2 Tapercut, 17mm Double Needle, Suture Length 75cm) double arm, USP 5/0",1's,243.75
-2275,8046,"Polypropylene Suture (1/2 Tapercut, 25mm Double Needle, Suture Length 90cm) double arm, USP 1/0",1's,201.56
-2276,8048,"Polypropylene Suture (3/8 Cir Rb, 13mm Needle, Suture Length 90cm) double arm, USP 6/0",1's,229.69
-2277,8051,"Polypropylene Suture (1/2 Cir Rb, 40mm Needle, Suture Length 90cm), USP 1",1's,51.56
-2278,8052,"Polypropylene Suture (1/2 Cir Rb, Reverse Cutting, 45mm Needle, Suture Length 100cm), USP 1",1's,51.56
-2279,8053,"Polypropylene Suture (3/8 Cir Rb 8mm Double Needle, Suture Length 70cm), USP 8/0",1's,112.5
-2280,8055,"Polypropylene Suture (1/2 Cir Rb 13mm Needle, Suture Length 70cm, double arm), USP 6/0",1's,239.06
-2281,8056,"Polypropylene Suture (1/2 Circle, Tapercut, 17mm Needle, Suture Length 90cm, double arm), USP 3/0",1's,65.63
-2282,8057,"Polypropylene Suture (1/2 Cir Rb, 25mm Needle, Suture Length 75cm, double arm), USP 3/0",1's,60.94
-2283,8058,"Polybutylate / Silicon Coated Polyster Braided Green / Blue (1/2 Cir Tapercut, 17 Mm Double Needle, Suture Length 75 Cm)size 4/0",1's,79.69
-2284,8059,"Polybutylate Coated Polyster Braided White (1/2 Cir Tapercut, 17 Mm Double Needle, Suture Length 90 Cm)size 2/0",1's,79.69
-2285,8060,"Polybutylate / Silicon Coated Polyster Braided Green / Blue (1/2 Cir Tapercut,17 Mm Double Needle, Suture Length 90 Cm)size 2/0,",1's,79.69
-2286,8061,"Polybutylate Coated with Polyster Braided (green/ Blue) 1/2 Circle Tapercut, 17mm Double Armed Needle, Suture Length of 90cm with Pledgets Size 6 x 3 x 1.5mm",1's,239.06
-2287,8062,"Polybutylate Coated with Polyster Braided (green/ Blue) 1/2 Circle Tapercut, 25mm Double Armed Needle, Suture Length of 90cm with Pledgets Size 6 x 3 x 1.5mm",1's,239.06
-2288,8066,"Polyglecaprone/Polyglyconate Suture (1/2 Circle Cutting 16mm Needle, Suture length 70cm), USP 4/0",1's,131.25
-2289,8067,"Polyglecaprone/Polyglyconate Suture (3/8 Circle Cutting 25mm Needle, Suture length 70cm), USP 3/0",1's,60.94
-2290,8078,Skin Grafting Knife Blade (Sterile),1's,84.38
-2291,8080,"Surgical Face Mask, Disposable",1's,2.0
-2292,8082,Umbilical Catheter (For New Born),1's,56.25
-2293,8087,Automatic Snap-Out Folding Walking Cane Stick with Adjustable Length,1's,0.0
-2294,8088,Walking Stick Tripod,1's,540.0
-2295,8089,"Abdominal Belt Velcro, Cream color (Large)",1's,240.0
-2296,8090,"Abdominal Belt Velcro, Cream color (Small)",1's,240.0
-2297,8091,"Abdominal Belt Velcro, Cream color (Medium)",1's,240.0
-2298,8092,"Abdominal Belt Velcro, Cream color (XL)",1's,250.0
-2299,8093,"Abdominal Belt Velcro, Cream color (XXL)",1's,250.0
-2300,8099,Cervical Collar (Small),1's,120.0
-2301,8100,Cervical Collar (Medium),1's,120.0
-2302,8101,Cervical Collar (Large),1's,120.0
-2303,8102,Cervical Collar (Extra Large),1's,120.0
-2304,8103,Thumb and Wrist brace (Small),1's,90.0
-2305,8104,Thumb and Wrist brace (Medium),1's,90.0
-2306,8105,Thumb and Wrist brace (Large),1's,90.0
-2307,8106,Thumb and Wrist brace (Extra Large),1's,90.0
-2308,8107,Janaushadhi Swabhiman (Adult Diaper (Medium)),5's,121.88
-2309,8108,Janaushadhi Swabhiman (Adult Diaper (Large)),5's,131.25
-2310,8109,Janaushadhi Swabhiman (Adult Diaper (XL)),5's,150.0
-2311,8110,Janaushadhi Bachpan (Baby Diaper (Small)),5's,30.94
-2312,8111,Janaushadhi Bachpan (Baby Diaper (New Born)),5's,30.94
-2313,8113,Hernia Belt (Small),1's mono-carton,180.0
-2314,8114,Knee Brace Belt (Medium),1's mono-carton,525.0
-2315,8115,Knee Brace Belt (Large),1's mono-carton,525.0
-2316,8116,IV Cannula Fixator (Medium 6cm x 5cm),1's pack,9.38
-2317,8117,"Cervical Pillow (polyester, PU foam)",1's mono-carton,500.0
-2318,8120,"Lancets, Round Sterile, 28G",50 pcs/Box,37.5
-2319,8121,Glucometer Test Strip,25 Strips,210.94
-2320,8122,"GLUCOMETER DIGITAL (1 glucometer, 25 strips, 25 lancets,1 lancing device,1 battery 3V, Warranty card)",1 Kit,492.19
-2321,8123,Adhesive Surgical Paper Tape  Size 5cmx5m,1's,24.38
-2322,8124,Adhesive Surgical Paper Tape Size 2.5cmx5m,1's,12.19
-2323,8125,Adhesive Surgical Paper Tape  Size 1.25cmx5m,1's,6.56
-2324,8126,Pollution Control Mask/Nanofiber Mask:  made up of high efficiency nanofiber material with non ret,1's Monopack,56.25
-2325,8127,Nebulizer Mask with Tubing,1's pack,56.25
-2326,8128,Medical Digital Thermometer,1's mono-carton,88.98
-2327,8130,Manual breast pump,1's Monopack,600.0
-2328,8131,Plastic Urine Pot collector (For both Male & Female),1's,46.88
-2329,8132,Plastic Bedpan,1's,65.63
-2330,8133,Digital Blood Pressure Instrument ( 100% mercury free),1's Monopack,937.5
-2331,8134,Ice bag,1's,20.0
-2332,8135,Breathing Exerciser (3 Chambers),1's Monopack,150.0
-2333,8136,Elecrical Nebulizer Machine,1's Monopack,750.0
-2334,8140,Janaushadhi Suvidha (Oxo- Biodegradable Sanitary Napkins Regular Size with wings),Pack of 4 Sanitary Napkins,4.0
-2335,8141,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkins Large Size with wings),Pack of 4 Sanitary Napkins,12.0
-2336,8142,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkins Extra Large (XL) Size with wings),Pack of 4 Sanitary Napkins,15.0
-2337,8145,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkin regular size with wings),Pack of 10 Sanitary Napkins,10.0
-2338,8146,Baby Feeding Bottle 250 ml,1's mono-carton,42.19
-2339,8147,N-95 Mask with Expiratory Valve,1's Mono-pack,30.0
-2340,8148,N-95 Mask without Expiratory Valve,1's Mono-pack,25.0
-2341,8150,3-way stopcock with 10 cm extension line,1's,28.13
-2342,8151,"Adhesive wound dressings, 25cm x 10cm",1's,18.75
-2343,8153,"Arm Sling Pouch (Large), Grey",1's,130.0
-2344,8154,"Arm Sling Pouch (Medium), Grey",1's,130.0
-2345,8155,Baby Wipes (Pack of 20 wipes),Pack of 20 wipes,45.0
-2346,8156,Bed Bath Towel,1's,55.0
-2347,8158,Chlorhexidine Gauze Dressing B.P 10cmx10cm (Sterile),1 pc in a pack,11.25
-2348,8160,Disposable Plastic Hand Gloves (Free size),Pair,3.0
-2349,8161,Elastic gauze bandages 10cm,1's,178.13
-2350,8162,Elastic gauze bandages 7.5cm,1's,140.63
-2351,8167,Karman cannula 4 mm,1's,37.5
-2352,8168,Lumbar Spinal Brace (Grey),1's,770.0
-2353,8169,Magnetic Posture Corrector Back Support Belt - Posture Fit,1's,580.0
-2354,8172,Pulse Oximeter,1's,464.06
-2355,8177,Specican 30 ml,1's,8.0
-2356,8178,Surgical Cap,1's,3.0
-2357,8179,Surgical shoe cap,1's,4.0
-2358,8181,Transparent film dressings (Sterile) 10cm X 12cm,1's,60.94
-2359,8182,Vein Compression Stocking Knee length (Extra Large),1's,130.0
-2360,8183,Vein Compression Stocking Knee length (Large),1's,140.0
-2361,8184,Vein Compression Stocking Knee length (Medium),1's,140.0
-2362,8185,Vein Compression Stocking Knee length (Small),1's,140.0
-2363,8186,Vein Compression Stocking Knee length (XXL),1's,140.0
-2364,8187,Vein Compression Stocking Thigh length (Extra Large),1's,170.0
-2365,8188,Vein Compression Stocking Thigh length (Large),1's,170.0
-2366,8189,Vein Compression Stocking Thigh length (Medium),1's,170.0
-2367,8190,Vein Compression Stocking Thigh length (Small),1's,170.0
-2368,8191,Vein Compression Stocking Thigh length (XXL),1's,180.0
-2369,8192,Zig zag cotton,100 gm,47.44
-2370,8193,Covid 19 Self-Testing Kit (ICMR Approved),One in Monopack,196.88
-2371,8194,Cotton Balls,Pack of 100 in a Zip Lock Bag,90.0
-2372,8195,Cotton Pads (Round),Pack of 50 in a Zip Lock Bag,46.88
-2373,8196,Heating Pad (Electrical),1’s in Mono Carton,0.0
-2374,8197,Exercise Ball (Universal Size),1’s in Mono Carton,0.0
-2375,8198,Maternity Sanitary Pads,Pack of 5 Napkins,68.25
-2376,8199,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkins Regular Size With Wings),Pack of 5 Sanitary Napkins,5.0
-2377,9000,Reusable Menstrual Cup (Small),One in Mono-Pack,175.0
-2378,9001,Reusable Menstrual Cup (Medium),One in Mono-Pack,180.0
-2379,9002,Reusable Menstrual Cup (Large),One in Mono-Pack,185.0
-2380,9003,Female Natural Latex Condom,Three in Mono-Pack,115.0
-2381,9004,Janaushadhi Kavach (Male Latex Condom (Plain)),Three in Mono-Pack,12.0
-2382,9005,Janaushadhi Kavach (Male Latex Condom (Extra Thin)),Three in Mono-Pack,12.0
-2383,9006,Janaushadhi Kavach (Male Latex Condom (Normal Dot)),Three in Mono-Pack,12.0
-2384,9007,Janaushadhi Kavach (Male Latex Condom (1740 Dot)),Three in Mono-Pack,15.0
-2385,9008,Janaushadhi Kavach (Male Latex Condom (Ribbed)),Three in Mono-Pack,15.0
-2386,9009,Janaushadhi Kavach (Male Latex Condom (Three In One)),Three in Mono-Pack,12.0
-2387,9010,Medicated Corn Remover,Four Strips in Mono-Pack,0.0
-2388,9011,Perforated Plaster,Five in Mono-Pack,0.0
-2389,9012,Lumbo-Sacral Support Belt (Waist and Back Support) (Small),One in Mono-Pack,370.0
-2390,9013,Lumbo-Sacral Support Belt (Waist and Back Support) (Medium),One in Mono-Pack,375.0
-2391,9014,Lumbo-Sacral Support Belt (Waist and Back Support) (Large),One in Mono-Pack,380.0
-2392,9015,Lumbo-Sacral Support Belt (Waist and Back Support) (Extra Large),One in Mono-Pack,385.0
-2393,9016,Lumbo-Sacral Support Belt (Waist and Back Support) (Double Extra Large),One in Mono-Pack,390.0
-2394,9017,Anklet (Tubular Support) (Small),Pair in Mono-Pack,150.0
-2395,9018,Anklet (Tubular Support) (Medium),Pair in Mono-Pack,150.0
-2396,9019,Anklet (Tubular Support) (Large),Pair in Mono-Pack,155.0
-2397,9020,Anklet (Tubular Support) (Extra Large),Pair in Mono-Pack,155.0
-2398,9021,Elbow Support (Small),Pair in Mono-Pack,140.0
-2399,9022,Elbow Support (Medium),Pair in Mono-Pack,140.0
-2400,9023,Elbow Support (Large),Pair in Mono-Pack,150.0
-2401,9024,Elbow Support (Extra Large),Pair in Mono-Pack,150.0
-2402,9025,Combined Dressing Pad (10X10Cm),Five in Mono-Pack X 100,28.13
-2403,9026,Combined Dressing Pad (10X20Cm),Five in Mono-Pack,42.19
-2404,9027,Microfine/Hypodermic Needle for Insulin Pen Sterile Single-Use Needle for Insulin Pen Needles Measurement,Ten in Mono-Pack,0.0
-2405,9028,Medical Steam Vaporizer,One in Mono-Pack,234.38
-2406,9029,Digital Weighing Scale,One in Mono-Pack,0.0
-2407,9030,Janaushadhi Suvidha (Oxo- Biodegradable Sanitary Napkins Regular Size with Wings),Pack of 10 Sanitary Napkins,30.0
-2408,9031,Janaushadhi Bachpan (Baby Diaper; Pant Style; Small (3Kg - 8Kg)),10's in Mono-Pack,84.38
-2409,9032,Janaushadhi Bachpan (Baby Diaper; Pant Style; Medium (6Kg - 11Kg)),10's in Mono-Pack,93.75
-2410,9033,Janaushadhi Bachpan (Baby Diaper; Pant Style; Large (9Kg - 13Kg)),10's in Mono-Pack,135.94
-2411,9034,Janaushadhi Swabhiman (Adult Diaper; Pant Style Small; Waist Size: 28 inch - 35 inch),10's in Mono-Pack,0.0
-2412,9035,Janaushadhi Swabhiman (Adult Diaper; Pant Style Medium; Waist Size: 28 inch - 45 inch),10's in Mono-Pack,346.88
-2413,9036,Janaushadhi Swabhiman (Adult Diaper; Pant Style Large; Waist Size: 38 inch - 54 inch),10's in Mono-Pack,379.69
-2414,9037,Janaushadhi Swabhiman (Adult Diaper; Pant Style Extra Large; Waist Size: 48 inch - 65 inch),10's in Mono-Pack,0.0
-2415,9038,Janaushadhi Bachpan (Baby Diaper; Pant Style; New Born (2Kg - 5Kg)),10's in Mono-Pack,79.69
-2416,9039,Knee Cap with patellar ring (Large),1's pair in sealed poly pack and in Mono-carton,200.0
-2417,9040,Knee Cap with Patellar Ring (Medium),1's pair in sealed poly pack and in Mono-carton,200.0
-2418,9041,Knee Cap with Patellar Ring (Small),1's pair in sealed poly pack and in Mono-carton,200.0
-2419,9042,Nebulizer Mask with Tubing (Child),1's pack in sealed poly pack,0.0
-2420,9043,Walker (Sit Assist-to-stand support),1's in sealed poly pack,0.0
-2421,9044,Elbow Crutch (Adjustable),1's in sealed poly pack,0.0
-2422,9045,Insulin/Medicine Cooling Case,"1 Cooling Case, 2 unit Gel Cool Pack, 1 Unit Insulin Pen Folder and 1 Carry Bag",0.0
-2423,9046,Cervical Collar - Hard,1's,240.0
-2424,9047,Range of Motion - Knee Brace,1's,0.0
-2425,9048,Range of Motion - Elbow Brace,1's,0.0
-2426,9049,Disposable Maternity Pad Fixator,5's in a pack,0.0
-2427,9050,Non-Woven Adhesive Wound Dressing,3's in a pack,0.0
-2428,9051,Finger Saperator - Hand,1 pair,0.0
-2429,9052,Finger Saperator - Feet,1 pair,0.0
-2430,9053,Cervical Collar - Hard (large),One in Mono-Carton,0.0
-2431,9054,Disposable Maternity Pad Fixator (Extra Large),5's in a pack,0.0
-2432,9055,Blood Glucose Monitoring Device,1 Kit,450.0
-2433,9056,Blood Glucose Monitoring Strips,1 Strip in Foil Wrap Pack Size: 25's,180.0
-2434,9057,Disposable Under Sheet,Pack of 10 pcs,0.0
-2435,9058,Foldable Commode Stool (U - Shape),One in Mono-Carton,0.0
-2436,9059,Pregnancy Back Support Belt,One in Mono-Carton,0.0
-2437,9060,Reinforced Adhesive Skin Closures,1/4 inch x 4 in 10 strips pack,0.0
-2438,9061,Foot Elevator Pillow with Adjustable Hook and Loop,One in Mono-Carton,0.0
-2439,9062,Elastic Net Fixator Bandage,2 cm X 3 m in Monopack,0.0
-2440,9063,Elastic Net Fixator Bandage,3 cm X 3 m in Monopack,0.0
-2441,9064,Elastic Net Fixator Bandage,4 cm X 3 m in Monopack,0.0
-2442,9065,Elastic Net Fixator Bandage,5 cm X 3 m in Monopack,0.0
-2443,9066,Ankle binder Support (Medium),One in Mono-Carton,0.0
-2444,9067,Ankle binder Support (Large),One in Mono-Carton,0.0
-2445,9068,Cotton Ear Buds,100 Ear Buds,0.0
+2132,2917,Ispaghula Husk 50g,50gm Tetra Pack,0.0
+2133,2918,Ispaghula Husk 100g,100gm Tetra Pack,0.0
+2134,2919,Ispaghula Husk 200g,200gm Tetra Pack,0.0
+2135,5001,Absorbent Cotton Wool IP 75 g,1's,27.19
+2136,5002,Absorbent Cotton Wool IP 200 g,1's,63.75
+2137,5003,Absorbent Cotton Wool IP 500 g,1's,161.25
+2138,5004,Crepe Bandage B.P. 15 cm x 4 M,1's,51.56
+2139,5005,Crepe Bandage B. P.10 cm x 4 M,1's,33.75
+2140,5006,Cotton Bandage 7.5 cm x 4 M,1's,14.06
+2141,5007,Cotton Bandage 10 cm x 4 M,1's,18.75
+2142,5008,Cotton Bandages(Non Sterile) 15 cm x 4 M,1's,28.13
+2143,5009,Janaushadhi Suraksha (Adhesive Bandages Washproof),1's,1.03
+2144,5010,Syringe 2 ml with needle 24G,1's,2.57
+2145,5011,Syringe 5 ml with needle 24G,1's,3.09
+2146,5012,Syringe 10 ml with needle 21G,1's,4.64
+2147,5013,Syringe 20 ml with needle 23G,1's,8.44
+2148,5014,Needle 16G,1's,1.88
+2149,5015,Needle 18G,1's,1.41
+2150,5016,Needle 23G,1's,0.94
+2151,5017,Needle 26G half inch,1's,1.41
+2152,5019,Paper Adhesive Plaster 1 inch X 9m,1's,23.44
+2153,5020,Paper Adhesive Plaster 2 inch X 9m,1's,51.56
+2154,5021,Paper Adhesive Plaster 3 inch X 9m,1's,75.0
+2155,5022,Plaster of Paris BP Bandages 15cm X 2.7m / Roll,1's,79.69
+2156,5023,Plaster of Paris BP Bandages 10cm X 2.7m / Roll,1's,56.25
+2157,5024,Scalp Vein Set (Disposable) (18G),1's,6.56
+2158,5025,Scalp Vein Set (Disposable) (20G),1's,6.56
+2159,5026,Scalp Vein Set (Disposable) (22G),1's,6.56
+2160,5027,Scalp Vein Set (Disposable) (24G),1's,6.56
+2161,5030,"Surgical Blade, No. 22, Sterilized",1's,3.75
+2162,5033,"Surgical Blade, No. 15, Sterilized",1's,3.75
+2163,5037,"I.V Cannula (Sterile, Disposable), 26 G",1's pack,15.94
+2164,5039,Sterile Disposable Spinal Needle 22G x 3 ½ inch,1's,51.56
+2165,5040,Sterile Disposable Spinal Needle 25G x 3 ½ inch,1's,51.56
+2166,5041,"Urine Collecting Bag, Disposable, 2000ml",1's pack,30.0
+2167,5046,"Endotracheal Tube Plain, Size 2.5, Sterile, Single use",1's,32.81
+2168,5047,"Endotracheal Tube Plain, Size 3, Sterile, Single use",1's,32.81
+2169,5048,"Endotracheal Tube Plain, Size 3.5, Sterile, Single use",1's,32.81
+2170,5049,"Endotracheal Tube Plain, Size 4, Sterile, Single use",1's,32.81
+2171,5050,"Endotracheal Tube Plain, Size 4.5, Sterile, Single use",1's,32.81
+2172,5051,"Endotracheal Tube Plain, Size 5, Sterile, Single use",1's,32.81
+2173,5052,"Endotracheal Tube Plain, Size 8.5, Sterile, Single use",1's,37.5
+2174,5053,"Endotracheal Tube Cuffed, Size 4",1's,75.0
+2175,5054,"Endotracheal Tube Cuffed, Size 4.5",1's,70.31
+2176,5055,"Endotracheal Tube Cuffed, Size 5",1's,65.63
+2177,5056,"Endotracheal Tube Cuffed, Size 6",1's,65.63
+2178,5057,"Endotracheal Tube Cuffed, Size 6.5",1's,65.63
+2179,5058,"Endotracheal Tube Cuffed, Size 7",1's,65.63
+2180,5059,"Endotracheal Tube Cuffed, Size 7.5",1's,65.63
+2181,5060,"Endotracheal Tube Cuffed, Size 8",1's,65.63
+2182,5061,"Endotracheal Tube Cuffed, Size 8.5",1's,65.63
+2183,5062,"Endotracheal Tube Cuffed, Size 9",1's,65.63
+2184,5064,"Tracheostomy Tube (PVC), Sterilised, single use Size-24",1's,206.25
+2185,5065,"Abdominal Drainage Kit, Sterile (2000ml, 24 Graduate)",1's,93.75
+2186,5066,"Abdominal Drainage Kit, Sterile (2000ml, 28 Graduate)",1's,93.75
+2187,5067,Corrugated Drainage Sheet,1's,26.0
+2188,5070,Sterilized Umbilical Cotton Tape 3mm x 75cm,1's,39.38
+2189,5071,"Bone Wax, Sterilised",1's,45.0
+2190,5073,Crepe Bandage B.P. 6 cm x 4 M,1's,22.5
+2191,5077,Rapid Diagnostic Malaria Test Kit,1's mono-carton,25.31
+2192,5078,Dengue Test Kit,1's mono-carton,42.19
+2193,5079,Janaushadhi Ankur (HCG- Pregnancy Test Kit),1's,18.75
+2194,5094,Sterile Gauze Pad size 2X2,1's,6.56
+2195,5095,Sterile Gauze Pad size 3X3,1's,7.5
+2196,5096,Sterile Gauze Pad size 4X4,1's,8.44
+2197,5097,Alcohol Swab (Spirit Swab),1's,1.03
+2198,6001,"Surgical Rubber Gloves-Disposable, Sterile, 6.5 inch",PAIR,20.63
+2199,6002,"Surgical Rubber Gloves-Disposable, Sterile, 7 inch",PAIR,20.63
+2200,6003,"Surgical Rubber Gloves-Disposable, Sterile, 7.5 inch",PAIR,20.63
+2201,6004,"Surgical Rubber Gloves-Disposable, Sterile, 8 inch",PAIR,18.75
+2202,6006,"Rubber Examination Gloves, Non-sterile (Small)",1's,3.28
+2203,6007,"Rubber Examination Gloves, Non-sterile (Medium)",1's,3.97
+2204,6009,"Surgical Cap, Disposable(for Surgeons/Nurses)",1's,2.0
+2205,6010,Suction Catheter FG 5,1's,13.13
+2206,6011,"Suction Catheter FG (6), 50 cm, Sterilized",1's,6.56
+2207,6012,"Suction Catheter FG (8), 50 cm, Sterilized",1's,6.56
+2208,6013,"Suction Catheter FG (10), 50 cm, Sterilized",1's,7.5
+2209,6014,"Suction Catheter FG (12), 50 cm, Sterilized",1's,7.5
+2210,6015,"Suction Catheter FG (14), 50 cm, Sterilized",1's,8.44
+2211,6016,"Suction Catheter FG (16), 50 cm, Sterilized",1's,9.38
+2212,6017,"Suction Catheter FG (18), 50 cm, Sterilized",1's,9.38
+2213,6018,"Suction Catheter FG (20), 50 cm, Sterilized",1's,10.31
+2214,6020,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (8FG)",1's,60.94
+2215,6021,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (10FG)",1's,60.94
+2216,6022,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (16FG)",1's,37.5
+2217,6023,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (18FG)",1's,37.5
+2218,6024,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (20FG)",1's,37.5
+2219,6025,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (22FG)",1's,37.5
+2220,6026,"Sterile Catheter Single Use for Urinary Drainage (Foley Balloon Catheter), 2 way (24FG)",1's,37.5
+2221,6027,"Infant Feeding Tube, Sterile (Size-10 Fg, length 50 cm)",1's,9.38
+2222,6028,"Infant Feeding Tube, Sterile (Size-8 Fg, length 50 cm)",1's,9.38
+2223,6029,"Infant Feeding Tube, Sterile (Size-5 Fg, length 50 cm)",1's,9.38
+2224,6030,Sterile Disposable Perfusion set with airway and needle adult use 150cm long smooth kink resist,1's,12.19
+2225,6031,Sterile Disposable Infusion set with Microdrip (I.V.) (Pediatric use),1's,51.56
+2226,6032,Sterile Disposable Infusion set with Microdrip (I.V.) (Adult use),1's,14.06
+2227,6033,Insulin Syringe (40 units) with 30G needle,1's,5.16
+2228,6035,"I.V Cannula (Sterile, Disposable), 18 G",1's,14.06
+2229,6036,"I.V Cannula (Sterile, Disposable), 20 G",1's,14.06
+2230,6037,"I.V Cannula (Sterile, Disposable), 22 G",1's,14.06
+2231,6038,"I.V Cannula (Sterile, Disposable), 24 G",1's,14.06
+2232,6039,"Nasal Oxygen Cannula set, Twin bore (Adult)",1's,28.13
+2233,6040,"Absorbent Gelatin Sponge, Sterilized (80mm x 50mm x 10mm)",1's,93.75
+2234,6042,Blood Transfusion Set with Filter 170 Micron,1's,16.88
+2235,6045,Ryles Tube/Nasogastric Tube (Size 10),1's,10.31
+2236,6046,Ryles Tube/Nasogastric Tube (Size 12),1's,10.31
+2237,6047,Ryles Tube/Nasogastric Tube (Size 14),1's,10.31
+2238,6048,Ryles Tube/Nasogastric Tube (Size 16),1's,10.31
+2239,6049,Ryles Tube/Nasogastric Tube (Size 18),1's,10.31
+2240,6050,Knee Cap (Small),Pair,120.0
+2241,6051,Knee Cap (Medium),Pair,120.0
+2242,6052,Knee Cap (Large),Pair,120.0
+2243,7001,Hot Water Bag (Small),1's,160.0
+2244,8001,"Chromic Suture (3/8 Cir Rb Needle 40mm, Length 76 cm)",1's,42.19
+2245,8002,"Chromic Suture (1/2 Cir Rb Needle 20mm, Length 76 cm)",1's,75.0
+2246,8003,"Chromic Suture (1/2 Cir Rb Needle 30mm, Length 76 cm)",1's,42.19
+2247,8005,"Chromic Suture (1/2 Cir Rb Needle 40mm, Length 76 cm)",1's,42.19
+2248,8006,"Chromic Suture (3/8 Cir Rb Needle 30mm, Length 76 cm)",1's,42.19
+2249,8007,"Chromic Suture (1/2 Cir Rb Needle 45mm, Length 100 cm)",1's,46.88
+2250,8012,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 20mm, Length 70cm",1's,46.88
+2251,8013,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 30mm, Length 90cm, USP-2/0",1's,42.19
+2252,8014,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 30mm, Length 90cm, USP-1/0",1's,51.56
+2253,8015,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Tapercut Niddle 40mm, Length 90cm",1's,220.31
+2254,8019,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 40mm, Length 90cm, USP-2/0",1's,220.31
+2255,8021,"Surgical Suture (Absorbable, Synthetic) 3/8 Cir Rb, cutting Niddle 22mm, Length 45cm",1's,37.5
+2256,8022,"Surgical Suture (Absorbable, Synthetic) 1/2 Cir Rb, Niddle 20mm, Length 70cm, USP 4/0",1's,42.19
+2257,8023,"Silk Suture (1/2 Cir Rb needle 20mm, Length 76 cm), USP-3/0",1's,28.13
+2258,8024,"Silk Suture (3/8 Circle Reverse cutting needle 26mm, Length 76 cm), Silk Suture (3/8 Circle Reverse cutting needle 26mm, Length 76 cm), USP3/0",1's,28.13
+2259,8025,"Silk Suture (3/8 Circle Reverse cutting needle 45mm, Length 76 cm), USP 2/0",1's,28.13
+2260,8026,"Silk Suture (3/8 Cir Rb needle 20mm, Length 76 cm) USP 2/0,",1's,51.56
+2261,8027,"Silk Suture (3/8 Cir Rb needle 16mm, Length 76 cm), USP 4/0",1's,32.81
+2262,8028,"Polyamide (3/8 Cir Micropoint Spatulated,6mm,length 38 Cm) size 8/0",1's,328.13
+2263,8029,"Polyamide (3/8 Conventional Cutting Needle 16mm Length 70 cm), USP 3/0",1's,28.13
+2264,8030,"Polyamide (3/8 Conventional Cutting Needle 19mm Length 60 cm), Polyamide (3/8 Conventional Cutting Needle 19mm Length 60 cm), USP 4/0",1's,56.25
+2265,8031,"Polyamide (3/8 Cir Slim Blade Cutting Needle 15mm, Length 70 Cm)size 5/0",1's,65.63
+2266,8032,"Polyamide (3/8 R Cutting Needle 45mm, Length 70 Cm.)size 2./0",1's,26.25
+2267,8034,"Polyamide (3/8 Cutting Edge Needle, Double Arms Needle 6 mm, Suture Length 35-42 Cm Size 10/0",1's,403.13
+2268,8035,"Polypropylene Suture (1/2 Cir Rb, 13mm Needle, Suture Length 75cm, double arm), USP 5/0",1's,187.5
+2269,8036,"Polypropylene Suture (3/8 Cir Rb, 8mm Needle, Suture Length 60cm), USP 7/0",1's,112.5
+2270,8038,"Polypropylene Suture (3/8 Cir Rb, 16mm Needle, Suture Length 70cm), USP 5/0",1's,42.19
+2271,8039,"Polypropylene Suture (1/2 Cir Rb, 30mm Needle, Suture Length 90cm), USP 2/0",1's,46.88
+2272,8040,"Polypropylene Suture (1/2 Cir Rb, 45mm Needle, Suture Length 90cm), Polypropylene Suture (1/2 Cir Rb, 45mm Needle, Suture Length 90cm), USP 1",1's,56.25
+2273,8041,"Polypropylene Suture (1/2 Cir Rb, 17mm Needle, Suture Length 90cm), USP 4/0",1's,46.88
+2274,8042,"Polypropylene Suture (1/2 Tapercut, 17mm Double Needle, Suture Length 70cm), USP3/0",1's,79.69
+2275,8043,"Polypropylene Suture (1/2 Cir Rb, 25mm Needle, Suture Length 90cm), USP 3/0",1's,46.88
+2276,8044,"Polypropylene Suture (1/2 Cir Rb, 30mm Needle, Suture Length 90cm) double arm, USP 1/0",1's,65.63
+2277,8045,"Polypropylene Suture (1/2 Tapercut, 17mm Double Needle, Suture Length 75cm) double arm, USP 5/0",1's,243.75
+2278,8046,"Polypropylene Suture (1/2 Tapercut, 25mm Double Needle, Suture Length 90cm) double arm, USP 1/0",1's,201.56
+2279,8048,"Polypropylene Suture (3/8 Cir Rb, 13mm Needle, Suture Length 90cm) double arm, USP 6/0",1's,229.69
+2280,8051,"Polypropylene Suture (1/2 Cir Rb, 40mm Needle, Suture Length 90cm), USP 1",1's,51.56
+2281,8052,"Polypropylene Suture (1/2 Cir Rb, Reverse Cutting, 45mm Needle, Suture Length 100cm), USP 1",1's,51.56
+2282,8053,"Polypropylene Suture (3/8 Cir Rb 8mm Double Needle, Suture Length 70cm), USP 8/0",1's,112.5
+2283,8055,"Polypropylene Suture (1/2 Cir Rb 13mm Needle, Suture Length 70cm, double arm), USP 6/0",1's,239.06
+2284,8056,"Polypropylene Suture (1/2 Circle, Tapercut, 17mm Needle, Suture Length 90cm, double arm), USP 3/0",1's,65.63
+2285,8057,"Polypropylene Suture (1/2 Cir Rb, 25mm Needle, Suture Length 75cm, double arm), USP 3/0",1's,60.94
+2286,8058,"Polybutylate / Silicon Coated Polyster Braided Green / Blue (1/2 Cir Tapercut, 17 Mm Double Needle, Suture Length 75 Cm)size 4/0",1's,79.69
+2287,8059,"Polybutylate Coated Polyster Braided White (1/2 Cir Tapercut, 17 Mm Double Needle, Suture Length 90 Cm)size 2/0",1's,79.69
+2288,8060,"Polybutylate / Silicon Coated Polyster Braided Green / Blue (1/2 Cir Tapercut,17 Mm Double Needle, Suture Length 90 Cm)size 2/0,",1's,79.69
+2289,8061,"Polybutylate Coated with Polyster Braided (green/ Blue) 1/2 Circle Tapercut, 17mm Double Armed Needle, Suture Length of 90cm with Pledgets Size 6 x 3 x 1.5mm",1's,239.06
+2290,8062,"Polybutylate Coated with Polyster Braided (green/ Blue) 1/2 Circle Tapercut, 25mm Double Armed Needle, Suture Length of 90cm with Pledgets Size 6 x 3 x 1.5mm",1's,239.06
+2291,8066,"Polyglecaprone/Polyglyconate Suture (1/2 Circle Cutting 16mm Needle, Suture length 70cm), USP 4/0",1's,131.25
+2292,8067,"Polyglecaprone/Polyglyconate Suture (3/8 Circle Cutting 25mm Needle, Suture length 70cm), USP 3/0",1's,60.94
+2293,8078,Skin Grafting Knife Blade (Sterile),1's,84.38
+2294,8080,"Surgical Face Mask, Disposable",1's,2.0
+2295,8082,Umbilical Catheter (For New Born),1's,56.25
+2296,8087,Automatic Snap-Out Folding Walking Cane Stick with Adjustable Length,1's,0.0
+2297,8088,Walking Stick Tripod,1's,540.0
+2298,8089,"Abdominal Belt Velcro, Cream color (Large)",1's,240.0
+2299,8090,"Abdominal Belt Velcro, Cream color (Small)",1's,240.0
+2300,8091,"Abdominal Belt Velcro, Cream color (Medium)",1's,240.0
+2301,8092,"Abdominal Belt Velcro, Cream color (XL)",1's,250.0
+2302,8093,"Abdominal Belt Velcro, Cream color (XXL)",1's,250.0
+2303,8099,Cervical Collar (Small),1's,120.0
+2304,8100,Cervical Collar (Medium),1's,120.0
+2305,8101,Cervical Collar (Large),1's,120.0
+2306,8102,Cervical Collar (Extra Large),1's,120.0
+2307,8103,Thumb and Wrist brace (Small),1's,90.0
+2308,8104,Thumb and Wrist brace (Medium),1's,90.0
+2309,8105,Thumb and Wrist brace (Large),1's,90.0
+2310,8106,Thumb and Wrist brace (Extra Large),1's,90.0
+2311,8107,Janaushadhi Swabhiman (Adult Diaper (Medium)),5's,121.88
+2312,8108,Janaushadhi Swabhiman (Adult Diaper (Large)),5's,131.25
+2313,8109,Janaushadhi Swabhiman (Adult Diaper (XL)),5's,150.0
+2314,8110,Janaushadhi Bachpan (Baby Diaper (Small)),5's,30.94
+2315,8111,Janaushadhi Bachpan (Baby Diaper (New Born)),5's,30.94
+2316,8113,Hernia Belt (Small),1's mono-carton,180.0
+2317,8114,Knee Brace Belt (Medium),1's mono-carton,525.0
+2318,8115,Knee Brace Belt (Large),1's mono-carton,525.0
+2319,8116,IV Cannula Fixator (Medium 6cm x 5cm),1's pack,9.38
+2320,8117,"Cervical Pillow (polyester, PU foam)",1's mono-carton,500.0
+2321,8120,"Lancets, Round Sterile, 28G",50 pcs/Box,37.5
+2322,8121,Glucometer Test Strip,25 Strips,210.94
+2323,8122,"GLUCOMETER DIGITAL (1 glucometer, 25 strips, 25 lancets,1 lancing device,1 battery 3V, Warranty card)",1 Kit,492.19
+2324,8123,Adhesive Surgical Paper Tape  Size 5cmx5m,1's,24.38
+2325,8124,Adhesive Surgical Paper Tape Size 2.5cmx5m,1's,12.19
+2326,8125,Adhesive Surgical Paper Tape  Size 1.25cmx5m,1's,6.56
+2327,8126,Pollution Control Mask/Nanofiber Mask:  made up of high efficiency nanofiber material with non ret,1's Monopack,56.25
+2328,8127,Nebulizer Mask with Tubing,1's pack,56.25
+2329,8128,Medical Digital Thermometer,1's mono-carton,88.98
+2330,8130,Manual breast pump,1's Monopack,600.0
+2331,8131,Plastic Urine Pot collector (For both Male & Female),1's,46.88
+2332,8132,Plastic Bedpan,1's,65.63
+2333,8133,Digital Blood Pressure Instrument ( 100% mercury free),1's Monopack,937.5
+2334,8134,Ice bag,1's,20.0
+2335,8135,Breathing Exerciser (3 Chambers),1's Monopack,150.0
+2336,8136,Elecrical Nebulizer Machine,1's Monopack,750.0
+2337,8140,Janaushadhi Suvidha (Oxo- Biodegradable Sanitary Napkins Regular Size with wings),Pack of 4 Sanitary Napkins,4.0
+2338,8141,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkins Large Size with wings),Pack of 4 Sanitary Napkins,12.0
+2339,8142,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkins Extra Large (XL) Size with wings),Pack of 4 Sanitary Napkins,15.0
+2340,8145,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkin regular size with wings),Pack of 10 Sanitary Napkins,10.0
+2341,8146,Baby Feeding Bottle 250 ml,1's mono-carton,42.19
+2342,8147,N-95 Mask with Expiratory Valve,1's Mono-pack,30.0
+2343,8148,N-95 Mask without Expiratory Valve,1's Mono-pack,25.0
+2344,8150,3-way stopcock with 10 cm extension line,1's,28.13
+2345,8151,"Adhesive wound dressings, 25cm x 10cm",1's,18.75
+2346,8153,"Arm Sling Pouch (Large), Grey",1's,130.0
+2347,8154,"Arm Sling Pouch (Medium), Grey",1's,130.0
+2348,8155,Baby Wipes (Pack of 20 wipes),Pack of 20 wipes,45.0
+2349,8156,Bed Bath Towel,1's,55.0
+2350,8158,Chlorhexidine Gauze Dressing B.P 10cmx10cm (Sterile),1 pc in a pack,11.25
+2351,8160,Disposable Plastic Hand Gloves (Free size),Pair,3.0
+2352,8161,Elastic gauze bandages 10cm,1's,178.13
+2353,8162,Elastic gauze bandages 7.5cm,1's,140.63
+2354,8167,Karman cannula 4 mm,1's,37.5
+2355,8168,Lumbar Spinal Brace (Grey),1's,770.0
+2356,8169,Magnetic Posture Corrector Back Support Belt - Posture Fit,1's,580.0
+2357,8172,Pulse Oximeter,1's,464.06
+2358,8177,Specican 30 ml,1's,8.0
+2359,8178,Surgical Cap,1's,3.0
+2360,8179,Surgical shoe cap,1's,4.0
+2361,8181,Transparent film dressings (Sterile) 10cm X 12cm,1's,60.94
+2362,8182,Vein Compression Stocking Knee length (Extra Large),1's,130.0
+2363,8183,Vein Compression Stocking Knee length (Large),1's,140.0
+2364,8184,Vein Compression Stocking Knee length (Medium),1's,140.0
+2365,8185,Vein Compression Stocking Knee length (Small),1's,140.0
+2366,8186,Vein Compression Stocking Knee length (XXL),1's,140.0
+2367,8187,Vein Compression Stocking Thigh length (Extra Large),1's,170.0
+2368,8188,Vein Compression Stocking Thigh length (Large),1's,170.0
+2369,8189,Vein Compression Stocking Thigh length (Medium),1's,170.0
+2370,8190,Vein Compression Stocking Thigh length (Small),1's,170.0
+2371,8191,Vein Compression Stocking Thigh length (XXL),1's,180.0
+2372,8192,Zig zag cotton,100 gm,47.44
+2373,8193,Covid 19 Self-Testing Kit (ICMR Approved),One in Monopack,196.88
+2374,8194,Cotton Balls,Pack of 100 in a Zip Lock Bag,90.0
+2375,8195,Cotton Pads (Round),Pack of 50 in a Zip Lock Bag,46.88
+2376,8196,Heating Pad (Electrical),1’s in Mono Carton,0.0
+2377,8197,Exercise Ball (Universal Size),1’s in Mono Carton,0.0
+2378,8198,Maternity Sanitary Pads,Pack of 5 Napkins,68.25
+2379,8199,Janaushadhi Suvidha (Oxo-Biodegradable Sanitary Napkins Regular Size With Wings),Pack of 5 Sanitary Napkins,5.0
+2380,9000,Reusable Menstrual Cup (Small),One in Mono-Pack,175.0
+2381,9001,Reusable Menstrual Cup (Medium),One in Mono-Pack,180.0
+2382,9002,Reusable Menstrual Cup (Large),One in Mono-Pack,185.0
+2383,9003,Female Natural Latex Condom,Three in Mono-Pack,115.0
+2384,9004,Janaushadhi Kavach (Male Latex Condom (Plain)),Three in Mono-Pack,12.0
+2385,9005,Janaushadhi Kavach (Male Latex Condom (Extra Thin)),Three in Mono-Pack,12.0
+2386,9006,Janaushadhi Kavach (Male Latex Condom (Normal Dot)),Three in Mono-Pack,12.0
+2387,9007,Janaushadhi Kavach (Male Latex Condom (1740 Dot)),Three in Mono-Pack,15.0
+2388,9008,Janaushadhi Kavach (Male Latex Condom (Ribbed)),Three in Mono-Pack,15.0
+2389,9009,Janaushadhi Kavach (Male Latex Condom (Three In One)),Three in Mono-Pack,12.0
+2390,9010,Medicated Corn Remover,Four Strips in Mono-Pack,0.0
+2391,9011,Perforated Plaster,Five in Mono-Pack,0.0
+2392,9012,Lumbo-Sacral Support Belt (Waist and Back Support) (Small),One in Mono-Pack,370.0
+2393,9013,Lumbo-Sacral Support Belt (Waist and Back Support) (Medium),One in Mono-Pack,375.0
+2394,9014,Lumbo-Sacral Support Belt (Waist and Back Support) (Large),One in Mono-Pack,380.0
+2395,9015,Lumbo-Sacral Support Belt (Waist and Back Support) (Extra Large),One in Mono-Pack,385.0
+2396,9016,Lumbo-Sacral Support Belt (Waist and Back Support) (Double Extra Large),One in Mono-Pack,390.0
+2397,9017,Anklet (Tubular Support) (Small),Pair in Mono-Pack,150.0
+2398,9018,Anklet (Tubular Support) (Medium),Pair in Mono-Pack,150.0
+2399,9019,Anklet (Tubular Support) (Large),Pair in Mono-Pack,155.0
+2400,9020,Anklet (Tubular Support) (Extra Large),Pair in Mono-Pack,155.0
+2401,9021,Elbow Support (Small),Pair in Mono-Pack,140.0
+2402,9022,Elbow Support (Medium),Pair in Mono-Pack,140.0
+2403,9023,Elbow Support (Large),Pair in Mono-Pack,150.0
+2404,9024,Elbow Support (Extra Large),Pair in Mono-Pack,150.0
+2405,9025,Combined Dressing Pad (10X10Cm),Five in Mono-Pack X 100,28.13
+2406,9026,Combined Dressing Pad (10X20Cm),Five in Mono-Pack,42.19
+2407,9027,Microfine/Hypodermic Needle for Insulin Pen Sterile Single-Use Needle for Insulin Pen Needles Measurement,Ten in Mono-Pack,0.0
+2408,9028,Medical Steam Vaporizer,One in Mono-Pack,234.38
+2409,9029,Digital Weighing Scale,One in Mono-Pack,0.0
+2410,9030,Janaushadhi Suvidha (Oxo- Biodegradable Sanitary Napkins Regular Size with Wings),Pack of 10 Sanitary Napkins,30.0
+2411,9031,Janaushadhi Bachpan (Baby Diaper; Pant Style; Small (3Kg - 8Kg)),10's in Mono-Pack,84.38
+2412,9032,Janaushadhi Bachpan (Baby Diaper; Pant Style; Medium (6Kg - 11Kg)),10's in Mono-Pack,93.75
+2413,9033,Janaushadhi Bachpan (Baby Diaper; Pant Style; Large (9Kg - 13Kg)),10's in Mono-Pack,135.94
+2414,9034,Janaushadhi Swabhiman (Adult Diaper; Pant Style Small; Waist Size: 28 inch - 35 inch),10's in Mono-Pack,0.0
+2415,9035,Janaushadhi Swabhiman (Adult Diaper; Pant Style Medium; Waist Size: 28 inch - 45 inch),10's in Mono-Pack,346.88
+2416,9036,Janaushadhi Swabhiman (Adult Diaper; Pant Style Large; Waist Size: 38 inch - 54 inch),10's in Mono-Pack,379.69
+2417,9037,Janaushadhi Swabhiman (Adult Diaper; Pant Style Extra Large; Waist Size: 48 inch - 65 inch),10's in Mono-Pack,0.0
+2418,9038,Janaushadhi Bachpan (Baby Diaper; Pant Style; New Born (2Kg - 5Kg)),10's in Mono-Pack,79.69
+2419,9039,Knee Cap with patellar ring (Large),1's pair in sealed poly pack and in Mono-carton,200.0
+2420,9040,Knee Cap with Patellar Ring (Medium),1's pair in sealed poly pack and in Mono-carton,200.0
+2421,9041,Knee Cap with Patellar Ring (Small),1's pair in sealed poly pack and in Mono-carton,200.0
+2422,9042,Nebulizer Mask with Tubing (Child),1's pack in sealed poly pack,0.0
+2423,9043,Walker (Sit Assist-to-stand support),1's in sealed poly pack,0.0
+2424,9044,Elbow Crutch (Adjustable),1's in sealed poly pack,0.0
+2425,9045,Insulin/Medicine Cooling Case,"1 Cooling Case, 2 unit Gel Cool Pack, 1 Unit Insulin Pen Folder and 1 Carry Bag",0.0
+2426,9046,Cervical Collar - Hard,1's,240.0
+2427,9047,Range of Motion - Knee Brace,1's,0.0
+2428,9048,Range of Motion - Elbow Brace,1's,0.0
+2429,9049,Disposable Maternity Pad Fixator,5's in a pack,0.0
+2430,9050,Non-Woven Adhesive Wound Dressing,3's in a pack,0.0
+2431,9051,Finger Saperator - Hand,1 pair,0.0
+2432,9052,Finger Saperator - Feet,1 pair,0.0
+2433,9053,Cervical Collar - Hard (large),One in Mono-Carton,0.0
+2434,9054,Disposable Maternity Pad Fixator (Extra Large),5's in a pack,0.0
+2435,9055,Blood Glucose Monitoring Device,1 Kit,450.0
+2436,9056,Blood Glucose Monitoring Strips,1 Strip in Foil Wrap Pack Size: 25's,180.0
+2437,9057,Disposable Under Sheet,Pack of 10 pcs,0.0
+2438,9058,Foldable Commode Stool (U - Shape),One in Mono-Carton,0.0
+2439,9059,Pregnancy Back Support Belt,One in Mono-Carton,0.0
+2440,9060,Reinforced Adhesive Skin Closures,1/4 inch x 4 in 10 strips pack,0.0
+2441,9061,Foot Elevator Pillow with Adjustable Hook and Loop,One in Mono-Carton,0.0
+2442,9062,Elastic Net Fixator Bandage,2 cm X 3 m in Monopack,0.0
+2443,9063,Elastic Net Fixator Bandage,3 cm X 3 m in Monopack,0.0
+2444,9064,Elastic Net Fixator Bandage,4 cm X 3 m in Monopack,0.0
+2445,9065,Elastic Net Fixator Bandage,5 cm X 3 m in Monopack,0.0
+2446,9066,Ankle binder Support (Medium),One in Mono-Carton,0.0
+2447,9067,Ankle binder Support (Large),One in Mono-Carton,0.0
+2448,9068,Cotton Ear Buds,100 Ear Buds,0.0
+2449,9069,Biodegradable and Compostable Sanitary Napkins Large size with Wings,Pack of 4 Sanitary Napkins,0.0
+2450,9070,Biodegradable and Compostable Sanitary Napkins Extra Large(XL) size with Wings,Pack of 4 Sanitary Napkins,0.0
+2451,9071,Biodegradable and Compostable Sanitary Napkins Regular size with Wings,Pack of 10 Sanitary Napkins,0.0
+2452,9072,Biodegradable and Compostable Sanitary Napkins Regular size with Wings,Pack of 5 Sanitary Napkins,0.0
+2453,9073,Biodegradable and Compostable Sanitary Napkins XXL size with Wings,Pack of 5 Sanitary Napkins,0.0
